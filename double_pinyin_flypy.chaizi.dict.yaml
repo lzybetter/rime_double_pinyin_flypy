@@ -1,0 +1,12439 @@
+name: double_pinyin_flypy.chaizi
+version: "2023-05-15"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+乿	uu vc mi yi	1
+乿	uu vc mi yb	1
+亀	uu gv ri	1
+亀	uu gv yt	1
+亀	uu dc ri dm	1
+亁	uu ui ri gj qi	1
+亃	uu lb yi	1
+亃	uu lb yb	1
+亄	uu yi yi	1
+亄	uu yi yb	1
+亴	uu tz kz js tu jq	1
+亶	uu tz hv dj	1
+亷	uu tz jm pp	1
+亹	uu tz xb	1
+偁	uu rf ig	1
+偁	uu rf ig	1
+偂	uu rf qm	1
+偂	uu rf qm	1
+偃	uu rf yj	1
+偃	uu rf yj	1
+偃	uu rf fh yj	1
+偃	uu rf fh yj	1
+偃	uu rf fh ri nv	1
+偃	uu rf fh ri nv	1
+偄	uu rf rr	1
+偄	uu rf rr	1
+偅	uu rf vs	1
+偅	uu rf vs	1
+偆	uu rf iy	1
+偆	uu rf iy	1
+假	uu rf jx	1
+假	uu rf jx	1
+偈	uu rf he	1
+偈	uu rf he	1
+偊	uu rf yu	1
+偊	uu rf yu	1
+偋	uu rf pk	1
+偋	uu rf pk	1
+偍	uu rf ui	1
+偍	uu rf ui	1
+偎	uu rf ww	1
+偎	uu rf ww	1
+偏	uu rf bm	1
+偏	uu rf bm	1
+偐	uu rf yj	1
+偐	uu rf yj	1
+偒	uu rf yi	1
+偒	uu rf yi	1
+偓	uu rf wu	1
+偓	uu rf wu	1
+偔	uu rf ee	1
+偔	uu rf ee	1
+偕	uu rf jp	1
+偕	uu rf jp	1
+偗	uu rf ug	1
+偗	uu rf ug	1
+偘	uu rf pb	1
+偘	uu rf pb	1
+偙	uu rf di	1
+偙	uu rf di	1
+做	uu rf gu	1
+做	uu rf gu	1
+偛	uu rf ia	1
+偛	uu rf ia	1
+停	uu rf tk	1
+停	uu rf tk	1
+偝	uu rf bw	1
+偝	uu rf bw	1
+偞	uu rf ye	1
+偞	uu rf ye	1
+偟	uu rf hl	1
+偟	uu rf hl	1
+偠	uu rf yc	1
+偠	uu rf yc	1
+偡	uu rf uf	1
+偡	uu rf uf	1
+偢	uu rf qq	1
+偢	uu rf qq	1
+偣	uu rf yb	1
+偣	uu rf yb	1
+偤	uu rf qq	1
+偤	uu rf qq	1
+偦	uu rf nv pi	1
+偦	uu rf nv pi	1
+偧	uu rf da do	1
+偧	uu rf da do	1
+偧	uu rf va	1
+偧	uu rf va	1
+偨	uu rf va	1
+偨	uu rf va	1
+偪	uu rf fu	1
+偪	uu rf fu	1
+偫	uu rf dd	1
+偫	uu rf dd	1
+偬	uu rf cs	1
+偬	uu rf cs	1
+偭	uu rf mm	1
+偭	uu rf mm	1
+偮	uu rf qi	1
+偮	uu rf qi	1
+偯	uu rf ai	1
+偯	uu rf ai	1
+偰	uu rf qi	1
+偰	uu rf qi	1
+偱	uu rf dy	1
+偱	uu rf dy	1
+偲	uu rf si	1
+偲	uu rf si	1
+偳	uu rf dr	1
+偳	uu rf dr	1
+偶	uu rf yu	1
+偶	uu rf yu	1
+偷	uu rf yu	1
+偷	uu rf yu	1
+偷	uu rf yu	1
+偷	uu rf yu	1
+偹	uu yz tm	1
+偹	uu rf gy bw	1
+偹	uu rf gy bw	1
+偺	uu rf zj	1
+偺	uu rf zj	1
+偼	uu rf jp	1
+偼	uu rf jp	1
+傀	uu rf gv	1
+傀	uu rf gv	1
+傁	uu rf sz	1
+傁	uu rf sz	1
+傂	uu rf si	1
+傂	uu rf si	1
+傃	uu rf su	1
+傃	uu rf su	1
+傄	uu rf uf	1
+傄	uu rf uf	1
+傅	uu rf fu cy	1
+傅	uu rf fu cy	1
+傅	uu rf fu	1
+傆	uu rf yr	1
+傆	uu rf yr	1
+傇	uu rf rs	1
+傇	uu rf rs	1
+傈	uu rf li	1
+傈	uu rf li	1
+傉	uu rf ru	1
+傉	uu rf ru	1
+傋	uu rf gz	1
+傋	uu rf gz	1
+傌	uu rf ma	1
+傌	uu rf ma	1
+傍	uu rf ph	1
+傎	uu rf vf	1
+傎	uu rf vf	1
+傏	uu rf th	1
+傏	uu rf th	1
+傐	uu rf gc	1
+傐	uu rf gc	1
+傒	uu rf xi	1
+傒	uu rf xi	1
+傓	uu rf uj	1
+傓	uu rf uj	1
+傔	uu rf vu vu jm	1
+傔	uu rf vu vu jm	1
+傕	uu rf hu	1
+傕	uu rf hu	1
+傗	uu rf iu	1
+傗	uu rf iu	1
+傚	uu rf jn pu	1
+傚	uu rf jn pu	1
+傚	uu rf jn pu	1
+傛	uu rf rs	1
+傛	uu rf rs	1
+傝	uu rf ri yu	1
+傝	uu rf ri yu	1
+傞	uu rf ia	1
+傞	uu rf ia	1
+傟	uu rf wg	1
+傟	uu rf wg	1
+傡	uu rf bk	1
+傡	uu rf bk	1
+傣	uu rf td	1
+傣	uu rf td	1
+傫	uu rf lw	1
+傫	uu rf lw	1
+催	uu rf cv	1
+催	uu rf cv	1
+傮	uu rf cc	1
+傮	uu rf cc	1
+傯	uu rf cs	1
+傯	uu rf cs	1
+傰	uu rf bg	1
+傰	uu rf bg	1
+傲	uu rf ao	1
+傶	uu rf qi	1
+傶	uu rf qi	1
+傸	uu rf ul	1
+傸	uu rf ul	1
+傹	uu rf jk	1
+傹	uu rf jk	1
+傺	uu rf ji	1
+傺	uu rf ji	1
+傻	uu rf xb er xi	1
+傻	uu rf xb er vi	1
+傼	uu rf ge da	1
+傼	uu rf ge da	1
+傽	uu rf vh	1
+傽	uu rf vh	1
+傿	uu rf yj	1
+傿	uu rf yj	1
+僁	uu rf xi	1
+僁	uu rf xi	1
+偻	uu rf lz	1
+偻	uu rf lz	1
+僃	uu rf cc bc ys	1
+僃	uu rf cc bc ys	1
+僃	uu rf cc bc ys	1
+僄	uu rf pn	1
+僄	uu rf pn	1
+僇	uu rf lq	1
+僇	uu rf lq	1
+僈	uu rf mj	1
+僈	uu rf mj	1
+僊	uu rf xi da ji	1
+僊	uu rf xi da ji	1
+僌	uu rf ie pu	1
+僌	uu rf ie pu	1
+僎	uu rf xy	1
+僎	uu rf xy	1
+像	uu rf xl	1
+像	uu rf xl	1
+僐	uu rf uj	1
+僐	uu rf uj	1
+僒	uu rf js	1
+僒	uu rf js	1
+僔	uu rf zy	1
+僔	uu rf zy	1
+僖	uu rf xi	1
+僖	uu rf xi	1
+僘	uu rf ih	1
+僘	uu rf ih	1
+僙	uu rf hl	1
+僙	uu rf hl	1
+僙	uu rf hl	1
+僙	uu rf hl	1
+僚	uu rf ln	1
+僚	uu rf ln	1
+僛	uu rf qi	1
+僛	uu rf qi	1
+僜	uu rf dg	1
+僜	uu rf dg	1
+僝	uu rf cj	1
+僝	uu rf cj	1
+僠	uu rf fj	1
+僠	uu rf fj	1
+僡	uu rf hv	1
+僡	uu rf hv	1
+僢	uu rf uy	1
+僢	uu rf uy	1
+僣	uu rf ti	1
+僣	uu rf ti	1
+僦	uu rf jq	1
+僦	uu rf jq	1
+僧	uu rf cg	1
+僧	uu rf cg	1
+僧	uu rf cg	1
+僧	uu rf cg	1
+偾	uu rf bf	1
+偾	uu rf bf	1
+僪	uu rf yu	1
+僪	uu rf yu	1
+僬	uu rf jn	1
+僬	uu rf jn	1
+僭	uu rf cj	1
+僭	uu rf cj	1
+僮	uu rf ts	1
+僮	uu rf ts	1
+僯	uu rf lb	1
+僯	uu rf lb	1
+僰	uu ji rf	1
+雇	uu hu vv	1
+僳	uu rf su	1
+僳	uu rf su	1
+僵	uu rf jl	1
+僵	uu rf jl	1
+僷	uu rf ye	1
+僷	uu rf ye	1
+僸	uu rf jb	1
+僸	uu rf jb	1
+僺	uu rf zc	1
+僺	uu rf zc	1
+僻	uu rf pi	1
+僻	uu rf pi	1
+僼	uu rf fg	1
+僼	uu rf fg	1
+僽	uu rf iz	1
+僽	uu rf iz	1
+僿	uu rf sd	1
+僿	uu rf sd	1
+儁	uu rf jr	1
+儁	uu rf jr	1
+儃	uu rf dj	1
+儃	uu rf dj	1
+儆	uu rf jk	1
+儆	uu rf jk	1
+儇	uu rf qs	1
+儇	uu rf qs	1
+儊	uu rf iu	1
+儊	uu rf iu	1
+儋	uu rf vj	1
+儋	uu rf vj	1
+儌	uu rf jn	1
+儌	uu rf jn	1
+傻	uu rf xb er xi	1
+傻	uu rf xb er vi	1
+傤	uu rf zd	1
+傤	uu rf zd	1
+傧	uu rf bb	1
+傧	uu rf bb	1
+儒	uu rf xu	1
+儒	uu rf xu	1
+儗	uu rf yi	1
+儗	uu rf yi	1
+儙	uu rf qm	1
+儙	uu rf qm	1
+儛	uu rf wu	1
+儛	uu rf wu	1
+偿	uu rf ih	1
+偿	uu rf ih	1
+儠	uu rf lp	1
+儠	uu rf lp	1
+儡	uu rf lw	1
+儡	uu rf lw	1
+儡	uu rf tm tm tm	1
+儡	uu rf tm tm tm	1
+儤	uu rf bc	1
+儤	uu rf bc	1
+儦	uu rf pc	1
+儦	uu rf pc	1
+儫	uu rf hc	1
+儫	uu rf hc	1
+储	uu rf vu	1
+储	uu rf vu	1
+儳	uu rf ij	1
+儳	uu rf ij	1
+儴	uu rf xl	1
+儴	uu rf xl	1
+儵	uu yz hw	1
+儵	uu yz hw	1
+儶	uu rf gv	1
+儶	uu rf gv	1
+傩	uu rf nj	1
+傩	uu rf nj	1
+傥	uu rf dh	1
+傥	uu rf dh	1
+儽	uu rf lw	1
+儽	uu rf lw	1
+儾	uu rf nh	1
+儾	uu rf nh	1
+兝	uu ke ff	1
+兞	uu ke mc	1
+兟	uu xm xm	1
+兠	uu bw bd er	1
+兠	uu ql bd bi er	1
+兢	uu ke ke	1
+兣	uu ke li	1
+兾	uu ba yi	1
+冀	uu bw yi	1
+冕	uu mc mm	1
+冕	uu js er mm	1
+冕	uu yt mm	1
+冕	uu ri mm	1
+冨	uu mi fu	1
+冩	uu mi xi	1
+幂	uu mi ri da jb	1
+凐	uu bk yb	1
+凐	uu bk yb	1
+凓	uu bk li	1
+凓	uu bk li	1
+凕	uu bk mk	1
+凕	uu bk mk	1
+凗	uu bk cv	1
+凗	uu bk cv	1
+凘	uu bk si	1
+凘	uu bk si	1
+凚	uu bk jb	1
+凚	uu bk jb	1
+凛	uu bk bk	1
+凛	uu bk bk	1
+凝	uu bk yi	1
+凝	uu bk yi	1
+凞	uu bk xi	1
+凞	uu bk xi	1
+凰	uu ji hl	1
+凲	uu ji jm	1
+凳	uu dg ji	1
+剨	uu ho dc	1
+剨	uu ho dc	1
+剩	uu ig dc	1
+剩	uu ig dc	1
+剪	uu qm dc	1
+剫	uu du dc	1
+剫	uu du dc	1
+剬	uu dr dc	1
+剬	uu dr dc	1
+剭	uu wu dc	1
+剭	uu wu dc	1
+副	uu fu dc	1
+副	uu fu dc	1
+剩	uu ig dc	1
+剩	uu ig dc	1
+割	uu hd dc	1
+割	uu hd dc	1
+剳	uu da dc	1
+剳	uu da dc	1
+剶	uu tr dc	1
+剶	uu tr dc	1
+剹	uu lq dc	1
+剹	uu lq dc	1
+剺	uu ww pu ih dc	1
+剻	uu bg dc	1
+剻	uu bg dc	1
+剽	uu pn dc	1
+剽	uu pn dc	1
+剿	uu ic dc	1
+剿	uu ic dc	1
+劀	uu yu dc	1
+劀	uu yu dc	1
+劁	uu jn dc	1
+劁	uu jn dc	1
+劂	uu jt dc	1
+劂	uu jt dc	1
+劄	uu da dc	1
+劄	uu da dc	1
+劅	uu uu dc	1
+劅	uu uu dc	1
+劆	uu lm dc	1
+劆	uu lm dc	1
+劈	uu pi dc	1
+劋	uu zc dc	1
+劋	uu zc dc	1
+劐	uu ho dc	1
+劐	uu ho dc	1
+劓	uu bi dc	1
+劓	uu bi dc	1
+劖	uu ij dc	1
+劖	uu ij dc	1
+劘	uu mi dc	1
+劘	uu mi dc	1
+劙	uu li dc	1
+劙	uu li dc	1
+勒	uu ge li	1
+勓	uu jp li	1
+勔	uu mm li	1
+勖	uu mc li	1
+勗	uu ri vu	1
+勘	uu uf li	1
+勜	uu wg li	1
+募	uu mo li	1
+勠	uu lq li	1
+勡	uu pn li	1
+勤	uu jb li	1
+勥	uu ql li	1
+勦	uu ic li	1
+勨	uu xl li	1
+勚	uu ui li	1
+勫	uu fj li	1
+勬	uu jr li	1
+勭	uu ts li	1
+勮	uu ju li	1
+勯	uu dj li	1
+勰	uu xp si	1
+勲	uu ds ho	1
+勲	uu ds bn	1
+勳	uu xy li	1
+勶	uu ie li	1
+勷	uu xl li	1
+匏	uu kx bc	1
+匐	uu bc fu	1
+匑	uu bc gs	1
+匒	uu bc da	1
+匓	uu bc gf uu	1
+匔	uu bc uf lv	1
+匙	uu ui bi	1
+匬	uu fh yu	1
+匮	uu fh gv	1
+匲	uu fh da pb	1
+匴	uu fh sr	1
+匷	uu fh qu	1
+匾	uu xi bm	1
+匾	uu fh bm	1
+卙	uu uf ui	1
+博	uu ui fu	1
+博	uu ui fu cy	1
+卾	uu ee jp	1
+厀	uu qi jp	1
+厡	uu ih qr	1
+厤	uu ih li	1
+厥	uu ih jt	1
+厧	uu ih vf	1
+厪	uu ih jb	1
+厫	uu ih ao	1
+厬	uu ih gv	1
+厯	uu ih lb yb vu vu	1
+厰	uu ih ih	1
+厣	uu yj jx	1
+厣	uu ih qr jx	1
+厵	uu yr yr yr	1
+叅	uu lw rf xb	1
+叅	uu lw rf xn vu	1
+叡	uu rv yz	1
+唩	uu kz ww	1
+唪	uu kz fg	1
+唫	uu kz jb	1
+唬	uu kz hu	1
+唭	uu kz qi	1
+售	uu vv kz	1
+唯	uu kz vv	1
+唰	uu kz ux	1
+唱	uu kz ih	1
+唲	uu kz er	1
+唳	uu kz ti	1
+唵	uu kz yj	1
+唶	uu kz xi	1
+唷	uu kz yu	1
+唹	uu kz yu	1
+唺	uu kz dm	1
+唼	uu kz qp	1
+唽	uu kz xi	1
+唾	uu kz iv	1
+唿	uu kz hu	1
+啀	uu kz ya	1
+啁	uu kz vz	1
+啂	uu kz ru	1
+啃	uu kz kf	1
+啄	uu kz iu	1
+啅	uu kz vo	1
+商	uu tz ba js er kz	1
+商	uu tz ba js	1
+啇	uu tz ba js gu	1
+啈	uu kz xk	1
+啉	uu kz lb	1
+啋	uu kz cd	1
+啌	uu kz ks	1
+啍	uu kz xl	1
+啎	uu wu wu	1
+啐	uu kz zu	1
+啑	uu kz jp	1
+啒	uu kz qu	1
+啔	uu hu ge kz	1
+啔	uu hu ge kz	1
+啕	uu kz tc	1
+啖	uu kz yj	1
+啗	uu kz xm	1
+啘	uu kz wj	1
+啙	uu ci kz kz	1
+啚	uu kz tz hv	1
+啛	uu kz qi	1
+啜	uu kz vo	1
+啝	uu kz he	1
+啠	uu jb jb kz	1
+啡	uu kz fw	1
+啣	uu kz xp	1
+啤	uu kz bw	1
+啥	uu kz ue	1
+啦	uu kz la	1
+啨	uu kz qk	1
+啩	uu kz gx	1
+啪	uu kz pd	1
+啫	uu kz ve	1
+啱	uu kz yj	1
+啲	uu kz de	1
+啳	uu kz jr	1
+啵	uu kz bo	1
+啶	uu kz dk	1
+啷	uu kz lh	1
+啻	uu di kz	1
+啼	uu kz di	1
+啽	uu kz yj	1
+啾	uu kz qq	1
+啿	uu kz uf	1
+喀	uu kz ke	1
+喁	uu kz yu	1
+喂	uu kz ww	1
+喃	uu kz nj	1
+善	uu yh ba yi kz	1
+喅	uu kz yu	1
+喇	uu kz la	1
+喈	uu kz jp	1
+喉	uu kz hz	1
+喊	uu kz xm	1
+喋	uu kz ye	1
+喋	uu kz ui mu	1
+喌	uu kz kz vz	1
+喍	uu kz id	1
+喏	uu kz ro	1
+喐	uu kz yu	1
+喑	uu kz yb	1
+喒	uu kz zj	1
+喓	uu kz yc	1
+喔	uu kz wu	1
+喕	uu kz mm	1
+喖	uu kz ku	1
+喘	uu kz dr	1
+喘	uu kz uj er	1
+喙	uu kz tr	1
+喛	uu kz yr	1
+喜	uu ui kz ba yi kz	1
+喝	uu kz he	1
+喟	uu kz ww	1
+喠	uu kz vs	1
+喢	uu kz ia	1
+喣	uu xu ho	1
+喣	uu xu bn	1
+喤	uu kz hl	1
+喥	uu kz du	1
+喦	uu pb uj	1
+喧	uu kz xr	1
+喨	uu kz ll	1
+喩	uu kz yu	1
+喫	uu kz qi	1
+喭	uu kz yj	1
+喯	uu kz bf	1
+喰	uu kz ui	1
+喱	uu kz li	1
+喳	uu kz ia	1
+喴	uu kz ww	1
+喵	uu kz mn	1
+营	uu cc mi lv	1
+营	uu cc mi lv	1
+营	uu cc mi lv	1
+喹	uu kz kv	1
+喻	uu kz yu	1
+喼	uu kz ji	1
+喿	uu kz kz kz mu	1
+嗀	uu ui mi yi kz uu	1
+嗁	uu kz si	1
+嗃	uu kz gc	1
+嗄	uu kz xx	1
+嗅	uu kz iz	1
+啬	uu tu ba hv	1
+嗈	uu kz ys	1
+嗉	uu kz su	1
+嗋	uu kz xp	1
+嗌	uu kz yi	1
+嗍	uu kz uo	1
+嗏	uu kz ia	1
+嗐	uu kz hd	1
+嗑	uu kz he	1
+嗑	uu kz qu mb	1
+嗒	uu kz da	1
+嗓	uu kz sh	1
+嗔	uu kz vf	1
+嗕	uu kz ru	1
+嗖	uu kz sz	1
+嗗	uu kz gu	1
+嗘	uu kz xi	1
+嗙	uu kz ph	1
+嗛	uu kz jm	1
+嗜	uu kz qi	1
+嗜	uu kz lc ri	1
+嗝	uu kz ge	1
+嗞	uu kz zi	1
+嗟	uu kz ia	1
+嗠	uu fu ge	1
+嗡	uu kz wg	1
+嗢	uu kz wf	1
+嗣	uu kz ce si	1
+嗤	uu kz ii	1
+嗥	uu kz gc	1
+嗦	uu kz so	1
+嗨	uu kz hd	1
+嗪	uu kz qb	1
+嗬	uu kz he	1
+嗮	uu kz ud	1
+嗯	uu kz en	1
+嗱	uu kz na	1
+嗲	uu kz dp	1
+嗵	uu kz ts	1
+嗷	uu kz ao	1
+嗸	uu ao kz	1
+嗺	uu kz cv	1
+嗻	uu kz uu	1
+嗼	uu kz mo	1
+嗽	uu kz uo	1
+嗽	uu kz uu qm	1
+嗾	uu kz zu	1
+嘀	uu kz di	1
+嘁	uu kz qi	1
+嘂	uu lv jq lv	1
+嘂	uu kz kz jq kz kz	1
+嘃	uu kz ys	1
+嘅	uu kz ji	1
+嘈	uu kz cc	1
+嘉	uu ji ba yi jx	1
+嘉	uu ui kz ba yi jx	1
+嘊	uu kz ya	1
+嘋	uu kz jn	1
+嘌	uu kz pn	1
+喽	uu kz lz	1
+嘎	uu kz jx	1
+嘏	uu gu jx	1
+嘐	uu kz lq	1
+嘑	uu kz hu	1
+嘒	uu kz hv	1
+啯	uu kz go	1
+嘕	uu kz yj	1
+啧	uu kz ze	1
+嘙	uu kz po	1
+嘚	uu kz de	1
+嘛	uu kz ma	1
+嘝	uu kz hu	1
+嘞	uu kz lw	1
+嘟	uu kz dz	1
+嘠	uu kz bd mi ge	1
+嘡	uu kz th	1
+嘢	uu kz ye	1
+嘣	uu kz pg	1
+嘥	uu kz xi	1
+嘦	uu vi yc	1
+嘧	uu kz mi	1
+啸	uu kz su	1
+嘫	uu kz rj	1
+嘬	uu kz zv	1
+嘭	uu kz pg	1
+啸	uu kz su	1
+嘲	uu kz ic	1
+嘴	uu kz zi	1
+嘶	uu kz si	1
+嘷	uu kz gc	1
+嘹	uu kz ln	1
+嘻	uu kz xi	1
+嘼	uu kz kz tm yi kz	1
+啴	uu kz dj	1
+嘾	uu kz tj	1
+嘿	uu kz hw	1
+噀	uu kz xy	1
+噂	uu kz zy	1
+噃	uu kz fj	1
+噄	uu kz jp	1
+噆	uu kz ji ji ri	1
+噆	uu kz cj	1
+噇	uu kz ts	1
+噈	uu kz jq	1
+噉	uu kz gj	1
+噊	uu kz yu	1
+噋	uu kz dy	1
+噌	uu kz cg	1
+噌	uu kz cg	1
+噍	uu kz jn	1
+噎	uu kz yi	1
+噏	uu kz xi	1
+噐	uu kz kz gs kz kz	1
+噑	uu kz gc	1
+噒	uu kz lb	1
+嘘	uu kz xu	1
+噔	uu kz dg	1
+噖	uu kz qb	1
+噗	uu kz pu	1
+噘	uu kz jt	1
+噙	uu kz qb	1
+啮	uu kz ii	1
+噟	uu gl sv kz	1
+噟	uu gl rf vv kz	1
+噟	uu gl rf vv kz	1
+噡	uu kz vj	1
+噢	uu kz ao	1
+噣	uu kz uu	1
+噤	uu kz jb	1
+器	uu kz kz da kz kz	1
+噩	uu wh kz kz kz kz	1
+噩	uu yi kz kz yi kz kz yi gy	1
+噪	uu kz zc	1
+噪	uu kz pb mu	1
+噫	uu kz yi	1
+噬	uu kz ui	1
+噭	uu kz jn	1
+噮	uu kz qs	1
+嗳	uu kz ai	1
+噰	uu kz ys	1
+噱	uu kz ju	1
+噳	uu kz yu	1
+喷	uu kz bf	1
+噵	uu dc kz	1
+噶	uu kz ge	1
+噷	uu kz xb	1
+噻	uu kz sd	1
+噼	uu kz pi	1
+噽	uu xi pi	1
+噾	uu kz xy	1
+噿	uu kz cv	1
+嚁	uu kz di	1
+嚃	uu kz ta	1
+嚄	uu kz ho	1
+嚅	uu kz xu	1
+嚆	uu kz hc	1
+嚊	uu kz bi	1
+嚎	uu kz hc	1
+嚏	uu kz vi	1
+嚓	uu kz ia	1
+嚏	uu kz vi	1
+噜	uu kz lu	1
+嚖	uu kz hv	1
+嚗	uu kz bc	1
+嚘	uu kz yz	1
+啮	uu kz ii	1
+嚚	uu kz kz if kz kz	1
+嚜	uu kz mo	1
+嚞	uu ji ji ji	1
+嚟	uu kz li	1
+嚤	uu kz mo	1
+嚭	uu xi fz	1
+嚯	uu kz ho	1
+嚰	uu kz mo	1
+亸	uu xl dj	1
+喾	uu xn mi gc	1
+嚵	uu kz ij	1
+嘤	uu kz yk	1
+嚷	uu kz xl	1
+嚹	uu kz xx	1
+嚺	uu kz mu sv	1
+嚺	uu kz wh sv	1
+嚺	uu kz wh sv	1
+嚼	uu kz jt	1
+嚾	uu kz gr	1
+啭	uu kz vr	1
+嗫	uu kz np	1
+嚣	uu kz kz ye kz kz	1
+囃	uu kz za	1
+冁	uu dj vj	1
+啰	uu kz lo	1
+囍	uu xi xi	1
+囍	uu ui kz ba yi kz ui kz ba yi kz	1
+囏	uu ge da xi	1
+嘱	uu kz uu	1
+啮	uu kz ii	1
+囔	uu kz nh	1
+圈	uu ww jr	1
+圉	uu ww xk	1
+圊	uu ww qk	1
+圌	uu ww dr	1
+圈	uu ww jr	1
+圐	uu ww mu fh	1
+圐	uu ww wh fh	1
+圐	uu ww wh fh	1
+圑	uu ww fu	1
+圔	uu ww he	1
+圗	uu ww si mm	1
+圙	uu ww ba mm	1
+圜	uu ww qs	1
+埜	uu lb tu	1
+埝	uu tu nm	1
+埞	uu tu dk	1
+域	uu tu ho	1
+埠	uu tu fu	1
+埢	uu tu jr	1
+埣	uu tu zu	1
+埤	uu tu bw	1
+埥	uu tu qk	1
+埦	uu tu wj	1
+埧	uu tu ju	1
+埪	uu tu ks	1
+埫	uu tu uh	1
+埭	uu tu li	1
+埮	uu tu yj	1
+埯	uu tu yj	1
+埰	uu tu cd	1
+埱	uu tu uu	1
+埲	uu tu fg	1
+埳	uu tu xm	1
+埴	uu tu vi	1
+埵	uu tu iv	1
+埶	uu lu wj	1
+埸	uu tu yi	1
+培	uu tu pz	1
+基	uu qi tu	1
+埻	uu tu xl	1
+埼	uu tu qi	1
+埽	uu tu vz	1
+埾	uu qu tu	1
+埿	uu ni tu	1
+堀	uu tu qu	1
+堁	uu tu go	1
+堂	uu uh tu	1
+堄	uu tu er	1
+堆	uu tu vv	1
+堇	uu nm kz fg	1
+堉	uu tu yu	1
+堋	uu tu pg	1
+堌	uu tu gu	1
+堍	uu tu tu	1
+堎	uu tu lk	1
+堐	uu tu ya	1
+堓	uu tu an	1
+堗	uu tu tu	1
+堘	uu tu ba fu tu	1
+堘	uu tu jr tu	1
+堙	uu tu xi tu	1
+堛	uu tu fu	1
+堜	uu tu jm	1
+堞	uu tu ye	1
+堟	uu tu tr	1
+堠	uu tu hz	1
+堡	uu bc tu	1
+堢	uu tu bc	1
+堣	uu tu yu	1
+堤	uu tu ui	1
+堥	uu wu tu	1
+堦	uu tu jp	1
+堧	uu tu rr	1
+堨	uu tu he	1
+堩	uu tu hg	1
+堪	uu tu uf	1
+堫	uu tu xs ba xi	1
+堫	uu tu xs ba vi	1
+堬	uu tu yu	1
+堭	uu tu hl	1
+堮	uu tu ee	1
+堰	uu tu yj	1
+堳	uu tu mw	1
+堵	uu tu ve	1
+堶	uu tu zo yt	1
+堷	uu tu yb	1
+堹	uu tu vs	1
+堺	uu tu jp	1
+堻	uu jb tu	1
+堼	uu fg tu	1
+堽	uu tu gh	1
+堾	uu tu iy	1
+堿	uu tu xm	1
+塂	uu tu xl	1
+塃	uu tu hl	1
+塄	uu tu mu fh	1
+塄	uu tu wh fh	1
+塅	uu tu dr	1
+塇	uu tu xr	1
+塈	uu ji tu	1
+塉	uu tu ji	1
+塌	uu tu ri yu	1
+塌	uu tu yt yu	1
+塍	uu rz ba fu tu	1
+塍	uu yt ba fu tu	1
+塍	uu rz jr tu	1
+塍	uu yt jr tu	1
+塎	uu tu rs	1
+塐	uu tu su	1
+塑	uu uo tu	1
+塓	uu tu mk	1
+塔	uu tu da	1
+塕	uu tu wg	1
+塖	uu tu ig	1
+塘	uu tu th	1
+塙	uu tu gc	1
+塚	uu tu vs	1
+塛	uu tu li	1
+塜	uu tu mg	1
+塝	uu tu ph	1
+塞	uu mm jk da tu	1
+塟	uu cc si tu	1
+塟	uu cc si tu	1
+塟	uu cc si tu	1
+塠	uu tu vv	1
+填	uu tu vf	1
+塣	uu yk tu	1
+塥	uu tu ge	1
+塧	uu tu yi	1
+塨	uu tu gs	1
+塪	uu tu yc	1
+填	uu tu vf	1
+塬	uu tu yr	1
+塭	uu tu wf	1
+塮	uu tu ue	1
+塯	uu tu lq	1
+塱	uu lh tu	1
+塳	uu tu fg	1
+塴	uu tu pg	1
+塶	uu tu lu	1
+堑	uu vj tu	1
+塺	uu ma tu	1
+塻	uu tu mo	1
+塽	uu tu ul	1
+塾	uu uu tu	1
+墀	uu tu xi	1
+墁	uu tu mj	1
+墂	uu tu pn	1
+境	uu tu jk	1
+墄	uu tu qi	1
+墅	uu ye tu	1
+墇	uu tu vh	1
+墈	uu tu kj	1
+墉	uu tu ys	1
+墌	uu tu uu	1
+墍	uu ji tu	1
+墎	uu tu go	1
+墐	uu tu jb	1
+墑	uu tu di	1
+墒	uu tu uh	1
+墓	uu mo tu	1
+墔	uu tu cv	1
+墕	uu tu yj	1
+墖	uu tu da	1
+增	uu tu cg	1
+墘	uu tu qm	1
+墚	uu tu ll	1
+增	uu tu cg	1
+墟	uu tu xu	1
+墡	uu tu uj	1
+墥	uu tu ts	1
+墦	uu tu fj	1
+墨	uu hw tu	1
+墩	uu tu dy	1
+墪	uu dy tu	1
+墫	uu tu zy	1
+墬	uu fu tr tu	1
+墬	uu fu tr tu	1
+墭	uu tu ug	1
+堕	uu do tu	1
+墯	uu do tu	1
+墰	uu tu tj	1
+墱	uu tu dg	1
+墴	uu tu hl	1
+墺	uu tu ao	1
+墙	uu tu se	1
+墽	uu tu jn	1
+壀	uu tu pi	1
+壁	uu pi tu	1
+壂	uu dm tu	1
+壃	uu tu jl	1
+壄	uu mc tu	1
+壅	uu ys tu	1
+壆	uu jq yc mi tu	1
+壉	uu tu ju	1
+壌	uu tu yi ba jk yi	1
+壎	uu tu xy	1
+壑	uu bo mi yi gu yz tu	1
+壒	uu tu gd	1
+壕	uu tu hc	1
+壖	uu tu xu	1
+壛	uu tu yj	1
+壡	uu rv ug	1
+壤	uu tu xl	1
+壦	uu tu gr	1
+壨	uu tm tm tm tm tu	1
+壹	uu ui mi dz	1
+壻	uu tu xu	1
+壸	uu ui mi ya	1
+壾	uu vu ju	1
+壿	uu tu zy	1
+夀	uu ww kz yi kz cy	1
+夀	uu ww kz yi cy	1
+夁	uu ui mu gu	1
+夁	uu ui wh gu	1
+夐	uu dc gh mu vi	1
+夒	uu yi zi vi yi ba xi	1
+夒	uu yi zi vi yi ba vi	1
+夓	uu xx vi	1
+夔	uu ba yi vi zi jp xi	1
+夔	uu ba yi vi zi jp vi	1
+够	uu ju do	1
+夡	uu do ji	1
+梦	uu mu mu xi	1
+夣	uu tz si wh mi xi	1
+夣	uu tz si wh mi xi	1
+夤	uu xi yb	1
+夥	uu go do	1
+夦	uu uf do	1
+奛	uu da mk	1
+奜	uu fw da	1
+奝	uu da vz	1
+奞	uu da vv	1
+奟	uu da pg	1
+奠	uu qq da	1
+奡	uu yi zi gc	1
+奢	uu da ve	1
+奣	uu tm mk	1
+奤	uu da mm	1
+奦	uu wu da	1
+奥	uu vu js mi da	1
+奭	uu da bd bd	1
+奯	uu da sv	1
+奰	uu mu mu mu da	1
+奰	uu wh wh wh da	1
+娬	uu nv wu	1
+娵	uu nv qu	1
+娶	uu qu nv	1
+娷	uu nv iv	1
+娸	uu nv qi	1
+娹	uu nv xm	1
+娺	uu nv vo	1
+娼	uu nv ih	1
+娽	uu nv lu	1
+娾	uu nv ya	1
+婂	uu nv bo	1
+婃	uu nv zs	1
+婄	uu nv pz	1
+婅	uu nv ju	1
+婆	uu bo nv	1
+婇	uu nv cd	1
+婈	uu nv lk	1
+婉	uu nv wj	1
+婊	uu nv bn	1
+婋	uu nv hu	1
+婌	uu nv uu	1
+婍	uu nv qi	1
+婎	uu nv vv	1
+婏	uu nv tu	1
+婐	uu nv go	1
+婑	uu nv ww	1
+婒	uu nv yj	1
+婓	uu fw nv	1
+婕	uu nv jp	1
+婖	uu nv tm	1
+婗	uu nv er	1
+婘	uu nv jr	1
+婚	uu nv hy	1
+婛	uu nv jk	1
+婝	uu nv dk	1
+婞	uu nv xk	1
+婟	uu nv gu	1
+婠	uu nv gr	1
+婢	uu nv bw	1
+婣	uu nv pm yi pj	1
+婤	uu nv vz	1
+婥	uu nv vo	1
+婧	uu nv qk	1
+婩	uu nv an	1
+婪	uu lb nv	1
+婪	uu mu mu nv	1
+婫	uu nv ky	1
+婬	uu nv vc rf	1
+婬	uu nv vc rf	1
+婯	uu li nv	1
+婰	uu nv dm	1
+婱	uu xm nv	1
+婷	uu nv tk	1
+婹	uu nv yc	1
+婺	uu wu nv	1
+婻	uu nv nj	1
+婼	uu nv ro	1
+婽	uu nv jx	1
+婾	uu nv yu	1
+婿	uu nv xu	1
+媀	uu nv yu	1
+媂	uu nv di	1
+媃	uu nv rz	1
+媄	uu nv mw	1
+媅	uu nv uf	1
+媆	uu nv rr	1
+媇	uu nv qb	1
+媉	uu nv wu	1
+媊	uu nv qm	1
+媋	uu nv iy	1
+媌	uu nv mn	1
+媎	uu nv ve	1
+媏	uu nv dr	1
+媐	uu yi nv	1
+媑	uu nv vs	1
+媒	uu nv mz	1
+媓	uu nv hl	1
+媔	uu nv mm	1
+媕	uu nv yj	1
+媖	uu nv yk	1
+媗	uu nv xr	1
+媙	uu nv ww	1
+媚	uu nv mw	1
+媛	uu nv yr	1
+媝	uu qq nv	1
+媞	uu nv ui	1
+媟	uu nv ye	1
+媠	uu nv zo yt	1
+媡	uu nv jm	1
+媢	uu nv mc	1
+媣	uu nv rj	1
+媤	uu nv si	1
+媥	uu nv bm	1
+媦	uu nv ww	1
+媨	uu nv qq	1
+媩	uu nv hu	1
+媮	uu nv yu	1
+媲	uu nv xb bi	1
+媳	uu nv xi	1
+媴	uu nv yr	1
+媵	uu rz ba fu nv	1
+媵	uu yt ba fu nv	1
+媵	uu rz jr nv	1
+媵	uu yt jr nv	1
+媶	uu nv rs	1
+媷	uu nv ru	1
+媸	uu nv ii	1
+媹	uu nv lq	1
+媺	uu nv ii uj yi er pu	1
+媻	uu bj nv	1
+媪	uu nv wf	1
+媾	uu nv gz	1
+媿	uu nv gv	1
+嫀	uu nv qb	1
+嫁	uu nv jx	1
+嫂	uu nv sz	1
+嫃	uu nv vf	1
+嫄	uu nv yr	1
+嫅	uu nv ia	1
+嫆	uu nv rs	1
+嫇	uu nv mk	1
+嫉	uu nv ji	1
+嫊	uu nv su	1
+嫋	uu nv ro	1
+嫌	uu nv jm	1
+嫍	uu nv yc	1
+嫎	uu nv ph	1
+嫏	uu nv lh	1
+嫐	uu nv nj nv	1
+嫑	uu bu yc	1
+嫓	uu nv dc nw bi	1
+嫕	uu nv yi	1
+嫖	uu nv pn	1
+嫘	uu nv lw	1
+嫙	uu nv xr	1
+嫚	uu nv mj	1
+嫛	uu yi nv	1
+嫜	uu nv vh	1
+嫝	uu nv kh	1
+嫞	uu nv ys	1
+嫟	uu nv ni	1
+嫠	uu ww pu ih nv	1
+嫡	uu nv di	1
+嫣	uu nv yj	1
+嫤	uu nv jb	1
+嫦	uu nv ih	1
+嫨	uu nv ge da	1
+嫩	uu nv ii	1
+嫪	uu nv lq	1
+嫫	uu nv mo	1
+嫬	uu nv uu	1
+嫭	uu nv hu	1
+嫮	uu nv yu	1
+嫯	uu ao nv	1
+嫰	uu nv uo	1
+嫳	uu bi nv	1
+嫴	uu nv gu	1
+嫶	uu nv jn	1
+嫷	uu nv sv	1
+嫸	uu nv uj	1
+嫹	uu nv hl	1
+嫼	uu nv mo	1
+嫽	uu nv ln	1
+嫾	uu nv lb	1
+婳	uu nv hx	1
+嬁	uu nv dg	1
+媭	uu xu nv	1
+嬅	uu nv hx	1
+嬆	uu nv xi	1
+嬉	uu nv xi	1
+嬊	uu nm bw kz nv	1
+婵	uu nv dj	1
+嬍	uu nv ii uj yi wh pu	1
+嬍	uu nv ii uj yi wh pu	1
+嬎	uu nv mm ug	1
+嬏	uu nv fj	1
+嬑	uu nv yi	1
+嬓	uu nv jn	1
+嬔	uu nv mm ug	1
+嬖	uu pi nv	1
+嬗	uu nv dj	1
+嬘	uu nv sv	1
+嫱	uu nv se	1
+嬚	uu nv lm	1
+嬛	uu nv qs	1
+嬞	uu nv ds	1
+嬠	uu nv zc	1
+嫒	uu nv ai	1
+嬷	uu nv mo	1
+嬥	uu nv di	1
+嬨	uu nv ci	1
+嫔	uu nv bb	1
+嬬	uu nv xu	1
+婴	uu bw bw nv	1
+嬲	uu nj nv nj	1
+嬴	uu wh kz yt nv fj	1
+婶	uu nv uf	1
+嬺	uu nv te	1
+嬿	uu nv yj	1
+孀	uu nv ul	1
+孁	uu lk nv	1
+孂	uu nv gv	1
+孅	uu nv xm	1
+孉	uu nv gr	1
+孊	uu nv mi	1
+孮	uu zi zs	1
+孰	uu xl wj	1
+孱	uu ui vr	1
+孱	uu ui zi zi zi	1
+孴	uu vr ri	1
+孵	uu lr fu	1
+孳	uu zi zi	1
+孷	uu ww pu ih zi	1
+孹	uu pi zi	1
+孺	uu zi xu	1
+孼	uu xt zi	1
+孽	uu xt zi	1
+宿	uu mm rf bd	1
+宿	uu mm rf bd	1
+寀	uu mm cd	1
+寁	uu mm jp	1
+寂	uu mm uu	1
+寃	uu mm tu	1
+寄	uu mm qi	1
+寅	uu mm yi yz ba	1
+密	uu mm bi uj	1
+密	uu mi uj	1
+寇	uu mm yr pu	1
+寈	uu mm qk	1
+寉	uu mm vv	1
+寋	uu mm jk da	1
+富	uu mm fu	1
+寍	uu mm xb mb	1
+寎	uu mm pj bk	1
+寏	uu mm hr	1
+寐	uu mm pj ww	1
+寑	uu mm qb	1
+寒	uu mm jk da bk	1
+寒	uu mm jk da bk	1
+寓	uu mm yu	1
+寔	uu mm ui	1
+寕	uu mm yi vu mu dk	1
+寕	uu mm yi vu wh dk	1
+寖	uu mm jb	1
+寗	uu mi rj	1
+寘	uu mm vf	1
+寙	uu mm gx gx	1
+寚	uu mm wh fz	1
+寞	uu mm mo	1
+察	uu mm ji	1
+寡	uu mm vi ff	1
+寝	uu mm ql ji mi yz	1
+寣	uu mm pj yj	1
+寤	uu mm pj wu	1
+寥	uu mm lq	1
+寨	uu mm yi gs mu	1
+寨	uu mm jk da mu	1
+寭	uu mm hv	1
+寮	uu mm ln	1
+寯	uu mm jr	1
+寰	uu mm qs	1
+寱	uu mm pj np	1
+寲	uu mm yi	1
+寷	uu mm fg	1
+尉	uu ui ui cy	1
+尊	uu qq cy	1
+尌	uu vu cy	1
+尞	uu uf xn	1
+尟	uu ui uc	1
+尠	uu uf uc	1
+尰	uu yz vs	1
+就	uu jk yz	1
+尲	uu yz jm	1
+尳	uu yz gu	1
+尴	uu yz jm	1
+尴	uu yz jm	1
+屚	uu ui yu	1
+屝	uu ui fw	1
+屟	uu ui ye	1
+屠	uu ui ve	1
+屡	uu ui lz	1
+屣	uu ui xi	1
+履	uu ui fu	1
+屧	uu ui ii ye	1
+屦	uu ui ii lz	1
+屪	uu ui ln	1
+属	uu ui yu	1
+崆	uu uj ks	1
+崇	uu uj zs	1
+崈	uu zs uj	1
+崉	uu uj da	1
+崌	uu uj ju	1
+崎	uu uj qi	1
+崏	uu uj hy	1
+崐	uu uj ky	1
+崒	uu uj zu	1
+崓	uu uj gu	1
+崔	uu uj vv	1
+崕	uu uj ya	1
+崖	uu uj ya	1
+崚	uu uj lk	1
+崛	uu uj qu	1
+崜	uu uj iv	1
+崝	uu uj qk	1
+崞	uu uj xl	1
+崟	uu uj jb	1
+崡	uu uj hj	1
+崣	uu uj ww	1
+崤	uu uj yc	1
+崥	uu uj bw	1
+崦	uu uj yj	1
+崧	uu uj ss	1
+崩	uu uj pg	1
+崪	uu uj zu	1
+崫	uu uj qu	1
+崮	uu uj gu	1
+崯	uu uj jb	1
+崲	uu uj hl	1
+崳	uu uj yu	1
+崴	uu uj ww	1
+崶	uu uj fg	1
+崷	uu uj qq	1
+崹	uu uj di	1
+崺	uu uj ui	1
+崻	uu uj dd	1
+崼	uu uj ui	1
+崽	uu uj si	1
+崾	uu uj yc	1
+崿	uu uj ee	1
+嵀	uu uj vu	1
+嵁	uu uj uf	1
+嵂	uu uj lv	1
+嵃	uu uj yj	1
+嵄	uu uj mw	1
+嵅	uu uj xm	1
+嵆	uu he yz uj	1
+嵇	uu he yz uj	1
+嵈	uu uj yr	1
+嵉	uu uj tk	1
+嵊	uu uj ig	1
+嵋	uu uj mw	1
+嵌	uu uj gj qm	1
+嵍	uu wu uj	1
+嵎	uu uj yu	1
+嵏	uu uj xs ba xi	1
+嵏	uu uj xs ba vi	1
+嵑	uu uj he	1
+嵒	uu pb uj	1
+嵓	uu uj pb	1
+嵔	uu uj ww	1
+嵕	uu uj xs ba xi	1
+嵕	uu uj xs ba vi	1
+嵖	uu uj ia	1
+嵗	uu uj wu dk vu pp	1
+嵗	uu uj wu yi xn	1
+嵛	uu uj yu	1
+嵞	uu yu uj uj	1
+嵟	uu uj vv	1
+嵠	uu uj xi	1
+嵡	uu uj wg	1
+嵢	uu uj ch	1
+嵣	uu uj th	1
+嵤	uu ho ho mi uj	1
+嵤	uu ho ho kj	1
+嵤	uu yk uj	1
+嵥	uu uj jp	1
+嵧	uu uj lq	1
+嵩	uu uj gc	1
+嵫	uu uj zi	1
+嵬	uu uj gv	1
+嵭	uu uj ph	1
+嵮	uu uj vf	1
+嵯	uu uj ia	1
+嵰	uu uj jm	1
+嵱	uu uj rs	1
+嵲	uu uj np	1
+嵳	uu uj ia	1
+嵴	uu uj ji	1
+嵹	uu uj ql	1
+嵺	uu uj lq	1
+嶀	uu uj yu	1
+嵝	uu uj lz	1
+嶂	uu uj vh	1
+崭	uu uj vj	1
+嶅	uu ao uj	1
+嶆	uu uj cc	1
+嶉	uu uj ww	1
+嶊	uu uj tv	1
+嶍	uu uj xi	1
+嶎	uu uj ww	1
+嶏	uu uj ih pw	1
+嶐	uu uj ls	1
+嶑	uu uj xl	1
+嶒	uu uj cg	1
+嶓	uu uj fj	1
+嵚	uu uj qb	1
+嶕	uu uj jn	1
+嶖	uu uj xi	1
+嶙	uu uj lb	1
+嶚	uu uj ln	1
+嶛	uu uj ln	1
+嶜	uu uj ji ji ri	1
+嶜	uu uj cj	1
+嶝	uu uj dg	1
+嶞	uu sv uj	1
+嶟	uu uj zy	1
+嶡	uu uj jt	1
+嶣	uu uj jn	1
+嶣	uu cv ho	1
+嶣	uu cv bn	1
+嶥	uu uj jt	1
+嶦	uu uj vj	1
+嶭	uu uj hu ya yi xb	1
+嶭	uu uj hu ya yi xb	1
+嶯	uu uj ji	1
+嶰	uu uj jp	1
+嶱	uu uj ge	1
+嶳	uu uj ui tu tu	1
+嶵	uu uj zv	1
+嶷	uu uj yi	1
+嵘	uu uj rs	1
+嶻	uu uj jp	1
+巀	uu uj qt ge	1
+巂	uu uj vv js	1
+巈	uu uj ju	1
+巉	uu uj ij	1
+巍	uu uj ww	1
+巎	uu uj nc	1
+巏	uu uj gr	1
+巐	uu uj gc ug	1
+巓	uu uj dm	1
+巅	uu uj dm dm	1
+巙	uu uj kv	1
+巢	uu ir go	1
+巢	uu ir go	1
+巤	uu ir ww yi jt vu vu jt vu vu fu	1
+巯	uu ug tz si ir	1
+巯	uu ug hl	1
+巯	uu ug lq	1
+巽	uu ji ji gs	1
+帵	uu jb wj	1
+帷	uu jb vv	1
+常	uu uh jb	1
+帹	uu jb qp	1
+帺	uu jb qi	1
+帽	uu jb mc	1
+帾	uu jb ve	1
+帿	uu jb hz	1
+幄	uu jb wu	1
+幅	uu jb fu	1
+幆	uu jb he	1
+幈	uu jb pk	1
+幋	uu bj jb	1
+幌	uu jb hl	1
+幍	uu jb yc	1
+幎	uu jb mk	1
+幏	uu jb jx	1
+幐	uu rz ba fu jb	1
+幐	uu yt ba fu jb	1
+幐	uu rz jr jb	1
+幐	uu yt jr jb	1
+幑	uu ii uj za pu	1
+幑	uu ii uj za pu	1
+幒	uu jb cs	1
+幔	uu jb mj	1
+幕	uu mo jb	1
+幖	uu jb pn	1
+帼	uu jb go	1
+帻	uu jb ze	1
+幙	uu jb mo	1
+幚	uu bh jb	1
+幛	uu jb vh	1
+幜	uu jb jk	1
+幞	uu jb pu	1
+幡	uu jb fj	1
+幢	uu jb ts	1
+幦	uu pi jb	1
+幧	uu jb zc	1
+幨	uu jb vj	1
+幪	uu jb mg	1
+幭	uu jb mp	1
+幮	uu jb iu	1
+庱	uu gl lk	1
+庳	uu gl bw	1
+庴	uu gl xi	1
+庵	uu gl yj	1
+庶	uu gl nm ho	1
+庶	uu gl nm bn	1
+康	uu gl li	1
+庸	uu gl yu mc	1
+庸	uu gl yu js er	1
+庸	uu gl yu js er	1
+庸	uu gl ys js er	1
+庹	uu gl nm ii	1
+庺	uu gl ss	1
+庻	uu gl nm rf rf	1
+庽	uu gl yu	1
+庾	uu gl yu	1
+庿	uu gl mn	1
+廀	uu gl sz	1
+厢	uu ih xl xl	1
+厩	uu ih ji	1
+廅	uu gl he	1
+廆	uu gl gv	1
+廇	uu gl lq	1
+厦	uu ih xx	1
+廉	uu gl jm	1
+廊	uu gl lh	1
+廋	uu gl sz	1
+廍	uu gl bu	1
+庼	uu gl qk	1
+廏	uu gl bd bi uu	1
+廐	uu gl bd bi ji	1
+廑	uu gl jb	1
+廒	uu gl ao	1
+廓	uu gl go	1
+廖	uu gl lq	1
+廘	uu gl lu	1
+厨	uu ih dz cy	1
+廛	uu gl li er tu	1
+廜	uu gl tu	1
+厮	uu ih si si	1
+廦	uu gl pi	1
+廨	uu gl jp	1
+廪	uu gl bk	1
+廱	uu gl ys	1
+弊	uu bi gs	1
+弑	uu ua ui ui	1
+弴	uu gs xl	1
+弶	uu gs jk	1
+强	uu gs sv	1
+弸	uu gs pg	1
+弻	uu gs bk yi gs	1
+弼	uu gs bd gs	1
+弽	uu gs ye	1
+弹	uu gs dj	1
+弿	uu mm jk da gs	1
+彀	uu ui mi yi gs uu	1
+彂	uu ye uf	1
+弹	uu gs dj	1
+彉	uu gs hl	1
+彊	uu gs jl	1
+彋	uu gs qs	1
+彏	uu gs jt	1
+彗	uu fg fg ji	1
+彘	uu ji bi ui	1
+彘	uu ji bi ui bi	1
+彚	uu ji mi go	1
+彛	uu ji mi ff gs	1
+彝	uu ji mi mi gs	1
+彟	uu xy ho	1
+彩	uu cd uj	1
+彪	uu hu uj	1
+雕	uu vz vv	1
+彬	uu lb uj	1
+彭	uu vu uj	1
+彮	uu rs uj	1
+彯	uu pn uj	1
+彰	uu vh uj	1
+影	uu jk uj	1
+徖	uu ii zs	1
+得	uu ii ri yi cy	1
+徘	uu ii fw	1
+徙	uu ii bu	1
+徙	uu ii vi pi	1
+徛	uu ii qi	1
+徜	uu ii uh	1
+徝	uu ii vi	1
+徟	uu ii vz	1
+御	uu ii xp	1
+徢	uu ii jp	1
+徣	uu ii xi	1
+徤	uu ii jm	1
+徥	uu ii ui	1
+徦	uu ii jx	1
+徧	uu ii bm	1
+徨	uu ii hl	1
+循	uu ii dy	1
+徬	uu ii ph	1
+微	uu ii uj wu pu	1
+微	uu ii uj wu pu	1
+徯	uu ii xi	1
+徰	uu ii vg vg	1
+徱	uu ii pn	1
+徲	uu ii xi	1
+德	uu ii ui wh yi xb	1
+德	uu ii ui wh yi xb	1
+徴	uu ii uj wh pu	1
+徴	uu ii uj wh pu	1
+徶	uu ii bi	1
+德	uu ii ui wh yi xb	1
+德	uu ii ui wh yi xb	1
+徸	uu ii ts	1
+徼	uu ii jn	1
+徽	uu ii uj mi pu	1
+徽	uu ii uj mi pu	1
+徾	uu ii uj yi yj pu	1
+徾	uu ii uj yi yj pu	1
+忀	uu ii xl	1
+忁	uu ii ri iu da uv	1
+忂	uu ii qu	1
+惠	uu vr xb	1
+悆	uu yu xb	1
+悉	uu cd xb	1
+悉	uu bm xb	1
+悊	uu ve xb	1
+悐	uu di xb	1
+悘	uu yi xb	1
+悠	uu yz xb	1
+悡	uu li xb	1
+患	uu ir xb	1
+悤	uu cs xb	1
+悥	uu yj xb	1
+您	uu ni xb	1
+悰	uu xb zs	1
+悰	uu xb zs	1
+悱	uu xb fw	1
+悱	uu xb fw	1
+悲	uu fw xb	1
+悳	uu vi xb	1
+悴	uu xb zu	1
+悴	uu xb zu	1
+悷	uu xb li	1
+悷	uu xb li	1
+悸	uu xb ji	1
+悸	uu xb ji	1
+悹	uu gr xb	1
+悺	uu xb gr	1
+悺	uu xb gr	1
+悻	uu xb xk	1
+悻	uu xb xk	1
+悼	uu xb vo	1
+悼	uu xb vo	1
+悽	uu xb qi	1
+悽	uu xb qi	1
+悾	uu xb ks	1
+悾	uu xb ks	1
+悿	uu xb tm	1
+悿	uu xb tm	1
+惁	uu xi xb	1
+惂	uu xb xm	1
+惂	uu xb xm	1
+惃	uu xb ky	1
+惃	uu xb ky	1
+惄	uu uu xb	1
+情	uu xb qk	1
+情	uu xb qk	1
+惆	uu xb vz	1
+惆	uu xb vz	1
+惇	uu xb xl	1
+惇	uu xb xl	1
+惈	uu xb go	1
+惈	uu xb go	1
+惉	uu vj xb	1
+惋	uu xb wj	1
+惋	uu xb wj	1
+惌	uu wj xb	1
+惌	uu mm yr	1
+惍	uu xb jb	1
+惍	uu xb jb	1
+惎	uu qi xb	1
+惏	uu xb lb	1
+惏	uu xb lb	1
+惐	uu xb ho	1
+惐	uu xb ho	1
+惑	uu ho xb	1
+惒	uu he xb	1
+惓	uu xb jr	1
+惓	uu xb jr	1
+惔	uu xb yj	1
+惔	uu xb yj	1
+惕	uu xb yi	1
+惕	uu xb yi	1
+惖	uu yi xb	1
+惗	uu xb nm	1
+惗	uu xb nm	1
+惘	uu xb wh	1
+惘	uu xb wh	1
+惙	uu xb vo	1
+惙	uu xb vo	1
+惚	uu xb hu	1
+惚	uu xb hu	1
+惛	uu xb hy	1
+惛	uu xb hy	1
+惜	uu xb xi	1
+惜	uu xb xi	1
+惝	uu xb uh	1
+惝	uu xb uh	1
+惞	uu xb xb	1
+惞	uu xb xb	1
+惟	uu xb vv	1
+惟	uu xb vv	1
+惠	uu vr xb	1
+惠	uu yi yz si xb	1
+惢	uu xb xb xb	1
+惣	uu wu xb	1
+惤	uu xb xm	1
+惤	uu xb xm	1
+惥	uu yu xb	1
+惦	uu xb dm	1
+惦	uu xb dm	1
+惪	uu vi xb	1
+惰	uu xb zo rz	1
+惰	uu xb zo yt	1
+想	uu xl xb	1
+惴	uu xb dr	1
+惴	uu xb dr	1
+惴	uu xb uj er	1
+惴	uu xb uj er	1
+惵	uu xb ye	1
+惵	uu xb ye	1
+惶	uu xb hl	1
+惶	uu xb hl	1
+惷	uu iy xb	1
+惸	uu xb xy zi	1
+惸	uu xb xy zi	1
+惹	uu ro xb	1
+惺	uu xb xk	1
+惺	uu xb xk	1
+惼	uu xb bm	1
+惼	uu xb bm	1
+惽	uu xb hy	1
+惽	uu xb hy	1
+惾	uu xb xs ba xi	1
+惾	uu xb xs ba vi	1
+惿	uu xb ui	1
+惿	uu xb ui	1
+愀	uu xb qq	1
+愀	uu xb qq	1
+愁	uu qq xb	1
+愂	uu bo xb	1
+愃	uu xb xr	1
+愃	uu xb xr	1
+愄	uu xb ww	1
+愄	uu xb ww	1
+愅	uu xb ge	1
+愅	uu xb ge	1
+愆	uu yj xb	1
+愈	uu yu xb	1
+愉	uu xb yu	1
+愉	uu xb yu	1
+愊	uu xb fu	1
+愊	uu xb fu	1
+愋	uu xb yr	1
+愋	uu xb yr	1
+愍	uu mb xb	1
+愎	uu xb fu	1
+愎	uu xb fu	1
+意	uu yb xb	1
+愐	uu xb mm	1
+愐	uu xb mm	1
+愑	uu xb ys	1
+愑	uu xb ys	1
+愒	uu xb he	1
+愒	uu xb he	1
+愔	uu xb yb	1
+愔	uu xb yb	1
+愕	uu xb ee	1
+愕	uu xb ee	1
+愖	uu xb uf	1
+愖	uu xb uf	1
+愗	uu wu xb	1
+愘	uu xb ke	1
+愘	uu xb ke	1
+愙	uu ke xb	1
+愚	uu yu xb	1
+惬	uu xb qp	1
+惬	uu xb qp	1
+愝	uu xb yj	1
+愝	uu xb yj	1
+愞	uu xb rr	1
+愞	uu xb rr	1
+感	uu xm xb	1
+愡	uu xb cs	1
+愡	uu xb cs	1
+愢	uu xb si	1
+愢	uu xb si	1
+愣	uu xb wh fh	1
+愣	uu xb wh fh	1
+愧	uu xb gv	1
+愧	uu xb gv	1
+愨	uu ui mi yi uu xb	1
+愫	uu xb su	1
+愫	uu xb su	1
+愬	uu uo xb	1
+愭	uu xb qi	1
+愭	uu xb qi	1
+愯	uu xb vi	1
+愯	uu xb vi	1
+愰	uu xb hl	1
+愰	uu xb hl	1
+愱	uu xb ji	1
+愱	uu xb ji	1
+愲	uu xb gu	1
+愲	uu xb gu	1
+愳	uu mu mu xb	1
+愵	uu xb ro	1
+愵	uu xb ro	1
+愶	uu xb xp	1
+愶	uu xb xp	1
+愹	uu xb rs	1
+愹	uu xb rs	1
+愺	uu xb cc	1
+愺	uu xb cc	1
+慎	uu xb vf	1
+慎	uu xb vf	1
+愽	uu xb fu	1
+愽	uu xb fu	1
+慀	uu xb xi	1
+慀	uu xb xi	1
+慁	uu hy xb	1
+恿	uu ys xb	1
+慃	uu xb wg	1
+慃	uu xb wg	1
+慅	uu xb zc	1
+慅	uu xb zc	1
+慆	uu xb yc	1
+慆	uu xb yc	1
+慇	uu yb xb	1
+慈	uu zi xb	1
+慉	uu xb iu	1
+慉	uu xb iu	1
+慊	uu xb vu vu jm	1
+慊	uu xb vu vu jm	1
+慌	uu xb hl	1
+慌	uu xb hl	1
+愠	uu xb wf	1
+愠	uu xb wf	1
+慎	uu xb vf	1
+慎	uu xb vf	1
+慏	uu xb mk	1
+慏	uu xb mk	1
+慒	uu xb cc	1
+慒	uu xb cc	1
+慓	uu xb pn	1
+慓	uu xb pn	1
+慔	uu xb mo	1
+慔	uu xb mo	1
+慕	uu mo xb	1
+慕	uu mo xn vu	1
+慗	uu ii xb	1
+惨	uu xb cj	1
+惨	uu xb cj	1
+惭	uu xb vj	1
+惭	uu xb vj	1
+慛	uu xb cv	1
+慛	uu xb cv	1
+慜	uu mb xb	1
+慝	uu ni xb	1
+慞	uu xb vh	1
+慞	uu xb vh	1
+慠	uu xb ao	1
+慠	uu xb ao	1
+慡	uu xb ul	1
+慡	uu xb ul	1
+慢	uu xb mj	1
+慢	uu xb mj	1
+惯	uu xb gr	1
+惯	uu xb gr	1
+悫	uu ke xb	1
+慥	uu xb zc	1
+慥	uu xb zc	1
+慦	uu jq xb	1
+慧	uu hv xb	1
+慨	uu xb ji	1
+慨	uu xb ji	1
+慬	uu xb jb	1
+慬	uu xb jb	1
+慰	uu ww xb	1
+慴	uu xb xi	1
+慴	uu xb xi	1
+慵	uu xb ys	1
+慵	uu xb ys	1
+慷	uu xb kh	1
+慷	uu xb kh	1
+慻	uu xb ba fu mu	1
+慻	uu xb ba fu mu	1
+慻	uu xb jr mu	1
+慻	uu xb jr mu	1
+慼	uu qi xb	1
+慽	uu xb qi	1
+慽	uu xb qi	1
+欲	uu gu qm	1
+憀	uu xb lq	1
+憀	uu xb lq	1
+憁	uu xb cs	1
+憁	uu xb cs	1
+憃	uu is xb	1
+憄	uu vi xb	1
+憅	uu ds xb	1
+憆	uu xb th	1
+憆	uu xb th	1
+憇	uu tm xb	1
+憉	uu xb pg	1
+憉	uu xb pg	1
+惫	uu bw xb	1
+憋	uu bi xb	1
+憎	uu xb cg	1
+憎	uu xb cg	1
+憎	uu xb cg	1
+憎	uu xb cg	1
+憏	uu xb ji	1
+憏	uu xb ji	1
+愦	uu xb gv	1
+愦	uu xb gv	1
+憓	uu xb hv	1
+憓	uu xb hv	1
+憔	uu xb jn	1
+憔	uu xb jn	1
+憕	uu xb dg	1
+憕	uu xb dg	1
+慭	uu ld qr xb	1
+憘	uu xb xi	1
+憘	uu xb xi	1
+憙	uu xi xb	1
+惮	uu xb dj	1
+惮	uu xb dj	1
+憛	uu xb tj	1
+憛	uu xb tj	1
+憜	uu xb sv	1
+憜	uu xb sv	1
+憝	uu dy xb	1
+憞	uu xb dy	1
+憞	uu xb dy	1
+憟	uu xb su	1
+憟	uu xb su	1
+憠	uu jt xb	1
+憡	uu xb ce	1
+憡	uu xb ce	1
+憣	uu xb fj	1
+憣	uu xb fj	1
+愤	uu xb bf	1
+愤	uu xb bf	1
+愤	uu xb ui cc bw	1
+憧	uu xb ts	1
+憧	uu xb ts	1
+憨	uu gj xb	1
+憩	uu ue zi xb	1
+憬	uu xb jk	1
+憬	uu xb jk	1
+憭	uu xb ln	1
+憭	uu xb ln	1
+憯	uu xb cj	1
+憯	uu xb cj	1
+憰	uu xb yu	1
+憰	uu xb yu	1
+憱	uu xb jq	1
+憱	uu xb jq	1
+憵	uu pi xb	1
+憷	uu xb iu	1
+憷	uu xb iu	1
+憺	uu xb vj	1
+憺	uu xb vj	1
+憻	uu xb dj	1
+憻	uu xb dj	1
+憼	uu jk xb	1
+憽	uu xb cs	1
+憽	uu xb cs	1
+憾	uu xb gj	1
+憾	uu xb gj	1
+憿	uu xb jn	1
+憿	uu xb jn	1
+懀	uu xb hv	1
+懀	uu xb hv	1
+懁	uu xb qs	1
+懁	uu xb qs	1
+懂	uu xb ds	1
+懂	uu xb ds	1
+懃	uu qb xb	1
+懄	uu xb qb	1
+懄	uu xb qb	1
+懅	uu xb ju	1
+懅	uu xb ju	1
+懆	uu xb zc	1
+懆	uu xb zc	1
+懈	uu xb jp	1
+懈	uu xb jp	1
+懊	uu xb ao	1
+懋	uu mc xb	1
+懔	uu xb bk	1
+懔	uu xb bk	1
+懏	uu xb jr	1
+懏	uu xb jr	1
+懗	uu xb he	1
+懗	uu xb he	1
+懝	uu xb yi	1
+懝	uu xb yi	1
+懞	uu xb mg	1
+懞	uu xb mg	1
+懑	uu mj xb	1
+懤	uu xb uz	1
+懤	uu xb uz	1
+懥	uu xb vi	1
+懥	uu xb vi	1
+懦	uu xb xu	1
+懦	uu xb xu	1
+懩	uu xb yh	1
+懩	uu xb yh	1
+懪	uu xb bc	1
+懪	uu xb bc	1
+懮	uu xb yz	1
+懮	uu xb yz	1
+懯	uu fu xb	1
+懱	uu xb mp	1
+懱	uu xb mp	1
+惩	uu vg xb	1
+懴	uu xb qm	1
+懴	uu 	1
+懴	uu xb qm	1
+懵	uu xb mg	1
+懵	uu xb mg	1
+懒	uu xb ld	1
+懒	uu xb ld	1
+悬	uu xm xb	1
+懹	uu xb xl	1
+懹	uu xb xl	1
+懻	uu xb ji	1
+懻	uu xb ji	1
+惧	uu xb ju	1
+惧	uu xb ju	1
+懽	uu xb gr	1
+懽	uu xb gr	1
+慑	uu xb np	1
+慑	uu xb np	1
+懿	uu yi zi	1
+戂	uu xb mi	1
+戂	uu xb mi	1
+戄	uu xb jt	1
+戄	uu xb jt	1
+戆	uu li zc pu ye xb	1
+戆	uu li zc pu ye xb	1
+戚	uu ih uh xn ge	1
+戚	uu pp uh xn ge	1
+戛	uu yi zi ge	1
+戜	uu ge ig	1
+戞	uu bd mi ge	1
+戟	uu ui zc ge	1
+戠	uu yb ge	1
+戡	uu uf ge	1
+戢	uu kz er ge	1
+戣	uu gv ge	1
+戤	uu yk ge	1
+戥	uu xk ge	1
+戨	uu ge ge	1
+戬	uu jb ge	1
+截	uu ui ge vv	1
+截	uu tu ge vv	1
+截	uu zd vv	1
+戫	uu yz ho	1
+戭	uu yb ge	1
+戮	uu lq ge	1
+戯	uu xu ge	1
+戳	uu di ge	1
+戳	uu yu vv ge	1
+戴	uu ui ge yi	1
+戴	uu tu ge yi	1
+戴	uu zd yi	1
+戵	uu qu ge	1
+扈	uu hu yi	1
+扈	uu hu yi	1
+扈	uu hu yi	1
+扉	uu hu fw	1
+扊	uu hu yj	1
+挲	uu ua uz	1
+捑	uu uz ri ze	1
+捑	uu uz ri ze	1
+捑	uu cd ri ze	1
+捥	uu uz wj	1
+捥	uu uz wj	1
+捥	uu cd wj	1
+捦	uu uz jb	1
+捦	uu uz jb	1
+捦	uu cd jb	1
+捧	uu uz fg	1
+捧	uu uz fg	1
+捧	uu cd fg	1
+捩	uu uz li	1
+捩	uu uz li	1
+捩	uu cd li	1
+捩	uu uz hu qr	1
+捩	uu uz hu qr	1
+捪	uu uz hy	1
+捪	uu uz hy	1
+捪	uu cd hy	1
+捬	uu uz fu	1
+捬	uu uz fu	1
+捬	uu cd fu	1
+捭	uu uz bw	1
+捭	uu uz bw	1
+捭	uu cd bw	1
+据	uu uz ju	1
+据	uu uz ju	1
+据	uu cd ju	1
+捯	uu uz dc	1
+捯	uu uz dc	1
+捯	uu cd dc	1
+捰	uu uz go	1
+捰	uu uz go	1
+捰	uu cd go	1
+捲	uu uz jr	1
+捲	uu uz jr	1
+捲	uu cd jr	1
+捳	uu uz yt	1
+捳	uu uz yt	1
+捳	uu cd yt	1
+搃	uu uz zs	1
+搃	uu uz zs	1
+捵	uu uz dm	1
+捵	uu uz dm	1
+捵	uu cd dm	1
+捶	uu uz iv	1
+捶	uu uz iv	1
+捶	uu cd iv	1
+捷	uu uz jp	1
+捷	uu uz jp	1
+捷	uu cd jp	1
+捸	uu uz li	1
+捸	uu uz li	1
+捸	uu cd li	1
+捹	uu uz bf	1
+捹	uu uz bf	1
+捹	uu cd bf	1
+捺	uu uz nd	1
+捺	uu uz nd	1
+捺	uu cd nd	1
+捻	uu uz nm	1
+捻	uu uz nm	1
+捻	uu cd nm	1
+捼	uu uz ww	1
+捼	uu uz ww	1
+捼	uu cd ww	1
+捽	uu uz zu	1
+捽	uu uz zu	1
+捽	uu cd zu	1
+捾	uu uz gr	1
+捾	uu uz gr	1
+捾	uu cd gr	1
+捿	uu uz qi	1
+捿	uu uz qi	1
+捿	uu cd qi	1
+掀	uu uz xb	1
+掀	uu uz xb	1
+掀	uu cd xb	1
+掂	uu uz dm	1
+掂	uu uz dm	1
+掂	uu cd dm	1
+掅	uu uz qk	1
+掅	uu uz qk	1
+掅	uu cd qk	1
+掇	uu uz vo	1
+掇	uu uz vo	1
+掇	uu cd vo	1
+授	uu uz uz	1
+授	uu uz uz	1
+授	uu cd uz	1
+掉	uu uz vo	1
+掉	uu uz vo	1
+掉	uu cd vo	1
+掊	uu uz pz	1
+掊	uu uz pz	1
+掊	uu cd pz	1
+掋	uu uz di	1
+掋	uu uz di	1
+掋	uu cd di	1
+掌	uu uh kz uz	1
+掍	uu uz ky	1
+掍	uu uz ky	1
+掍	uu cd ky	1
+掎	uu uz qi	1
+掎	uu uz qi	1
+掎	uu cd qi	1
+掏	uu uz tc	1
+掏	uu uz tc	1
+掏	uu cd tc	1
+掐	uu uz xm	1
+掐	uu uz xm	1
+掐	uu cd xm	1
+掑	uu uz qi	1
+掑	uu uz qi	1
+掑	uu cd qi	1
+排	uu uz fw	1
+排	uu uz fw	1
+排	uu cd fw	1
+掓	uu uz uu	1
+掓	uu uz uu	1
+掓	uu cd uu	1
+掕	uu uz lk	1
+掕	uu uz lk	1
+掕	uu cd lk	1
+掖	uu uz ye	1
+掖	uu uz ye	1
+掖	uu cd ye	1
+掘	uu uz qu	1
+掘	uu uz qu	1
+掘	uu cd qu	1
+掜	uu uz er	1
+掜	uu uz er	1
+掜	uu cd er	1
+掝	uu uz ho	1
+掝	uu uz ho	1
+掝	uu cd ho	1
+掞	uu uz yj	1
+掞	uu uz yj	1
+掞	uu cd yj	1
+掟	uu uz dk	1
+掟	uu uz dk	1
+掟	uu cd dk	1
+掠	uu uz jk	1
+掠	uu uz jk	1
+掠	uu cd jk	1
+探	uu uz uf	1
+探	uu uz uf	1
+探	uu cd uf	1
+掣	uu vi uz	1
+掤	uu uz pg	1
+掤	uu uz pg	1
+掤	uu cd pg	1
+接	uu uz qp	1
+接	uu uz qp	1
+接	uu cd qp	1
+掦	uu uz yi	1
+掦	uu uz yi	1
+掦	uu cd yi	1
+控	uu uz ks	1
+控	uu uz ks	1
+控	uu cd ks	1
+推	uu uz vv	1
+推	uu uz vv	1
+推	uu cd vv	1
+掩	uu uz yj	1
+掩	uu uz yj	1
+掩	uu cd yj	1
+措	uu uz xi	1
+措	uu uz xi	1
+措	uu cd xi	1
+掫	uu uz qu	1
+掫	uu uz qu	1
+掫	uu cd qu	1
+掬	uu uz ju	1
+掬	uu uz ju	1
+掬	uu cd ju	1
+掬	uu uz bc mi	1
+掭	uu uz tm	1
+掭	uu uz tm	1
+掭	uu cd tm	1
+掮	uu uz jm	1
+掮	uu uz jm	1
+掮	uu cd jm	1
+掯	uu uz kf	1
+掯	uu uz kf	1
+掯	uu cd kf	1
+掰	uu uz ff uz	1
+掱	uu uz uz uz	1
+掲	uu uz ri bc bi	1
+掲	uu uz ri bc bi	1
+掲	uu cd ri bc bi	1
+掹	uu uz mg	1
+掹	uu uz mg	1
+掹	uu cd mg	1
+掻	uu uz yz is	1
+掻	uu 	1
+掻	uu uz yz is	1
+掻	uu cd yz is	1
+掽	uu uz bk	1
+掽	uu uz bk	1
+掽	uu cd bk	1
+掾	uu uz tr	1
+掾	uu uz tr	1
+掾	uu cd tr	1
+掿	uu uz ro	1
+掿	uu uz ro	1
+掿	uu cd ro	1
+揂	uu uz qq	1
+揂	uu uz qq	1
+揂	uu cd qq	1
+揃	uu uz qm	1
+揃	uu uz qm	1
+揃	uu cd qm	1
+揄	uu uz yu	1
+揄	uu uz yu	1
+揄	uu cd yu	1
+揅	uu yj uz	1
+揆	uu uz gv	1
+揆	uu uz gv	1
+揆	uu cd gv	1
+揇	uu uz nj	1
+揇	uu uz nj	1
+揇	uu cd nj	1
+揈	uu uz hs	1
+揈	uu uz hs	1
+揈	uu cd hs	1
+揉	uu uz rz	1
+揉	uu uz rz	1
+揉	uu cd rz	1
+揊	uu uz fu	1
+揊	uu uz fu	1
+揊	uu cd fu	1
+揋	uu uz ww	1
+揋	uu uz ww	1
+揋	uu cd ww	1
+揌	uu uz si	1
+揌	uu uz si	1
+揌	uu cd si	1
+揍	uu uz zz	1
+揍	uu uz zz	1
+揍	uu cd zz	1
+揎	uu uz xr	1
+揎	uu uz xr	1
+揎	uu cd xr	1
+描	uu uz mn	1
+描	uu uz mn	1
+描	uu cd mn	1
+提	uu uz ui	1
+提	uu uz ui	1
+提	uu cd ui	1
+揑	uu uz jq gs	1
+揑	uu uz jq gs	1
+揑	uu cd jq gs	1
+插	uu uz ia	1
+插	uu uz ia	1
+插	uu cd ia	1
+插	uu uz qm jq	1
+揓	uu uz ui	1
+揓	uu uz ui	1
+揓	uu cd ui	1
+搃	uu uz zs	1
+搃	uu uz zs	1
+揕	uu uz uf	1
+揕	uu uz uf	1
+揕	uu cd uf	1
+揖	uu uz qi	1
+揖	uu uz qi	1
+揖	uu cd qi	1
+揖	uu uz kz er	1
+揗	uu uz dy	1
+揗	uu uz dy	1
+揗	uu cd dy	1
+揘	uu uz hl	1
+揘	uu uz hl	1
+揘	uu cd hl	1
+揙	uu uz bm	1
+揙	uu uz bm	1
+揙	uu cd bm	1
+揜	uu uz yj	1
+揜	uu uz yj	1
+揜	uu cd yj	1
+揝	uu uz zj	1
+揝	uu uz zj	1
+揝	uu cd zj	1
+揞	uu uz yb	1
+揞	uu uz yb	1
+揞	uu cd yb	1
+揟	uu uz xu	1
+揟	uu uz xu	1
+揟	uu cd xu	1
+揠	uu uz yj	1
+揠	uu uz yj	1
+揠	uu cd yj	1
+握	uu uz wu	1
+握	uu uz wu	1
+握	uu cd wu	1
+揢	uu uz ke	1
+揢	uu uz ke	1
+揢	uu cd ke	1
+揣	uu uz dr	1
+揣	uu uz dr	1
+揣	uu cd dr	1
+揥	uu uz di	1
+揥	uu uz di	1
+揥	uu cd di	1
+揦	uu uz la	1
+揦	uu uz la	1
+揦	uu cd la	1
+揧	uu la uz	1
+揨	uu uz tk	1
+揨	uu uz tk	1
+揨	uu cd tk	1
+揩	uu uz jp	1
+揩	uu uz jp	1
+揩	uu cd jp	1
+揪	uu uz qq	1
+揪	uu uz qq	1
+揪	uu cd qq	1
+揫	uu qq uz	1
+揬	uu uz tu	1
+揬	uu uz tu	1
+揬	uu cd tu	1
+揭	uu uz he	1
+揭	uu uz he	1
+揭	uu cd he	1
+搄	uu uz hg	1
+搄	uu uz hg	1
+搄	uu cd hg	1
+揰	uu uz vs	1
+揰	uu uz vs	1
+揰	uu cd vs	1
+揱	uu xt uz	1
+揲	uu uz ye	1
+揲	uu uz ye	1
+揲	uu cd ye	1
+揳	uu uz qi	1
+揳	uu uz qi	1
+揳	uu cd qi	1
+援	uu uz yr	1
+援	uu uz yr	1
+援	uu cd yr	1
+揵	uu uz jm	1
+揵	uu uz jm	1
+揵	uu cd jm	1
+揶	uu uz ye	1
+揶	uu uz ye	1
+揶	uu cd ye	1
+揷	uu uz qm jq	1
+揷	uu uz qm jq	1
+揷	uu cd qm jq	1
+揸	uu uz ia	1
+揸	uu uz ia	1
+揸	uu cd ia	1
+揺	uu uz vc ji	1
+揺	uu uz vc ji	1
+揺	uu cd vc ji	1
+揼	uu uz bg	1
+揼	uu uz bg	1
+揼	uu cd bg	1
+搆	uu uz gz	1
+搆	uu uz gz	1
+搆	uu cd gz	1
+搇	uu uz qb	1
+搇	uu uz qb	1
+搇	uu cd qb	1
+搈	uu uz rs	1
+搈	uu uz rs	1
+搈	uu cd rs	1
+搉	uu uz hu	1
+搉	uu uz hu	1
+搉	uu cd hu	1
+搊	uu uz iu	1
+搊	uu uz iu	1
+搊	uu cd iu	1
+搋	uu uz si	1
+搋	uu uz si	1
+搋	uu cd si	1
+搌	uu uz vj	1
+搌	uu uz vj	1
+搌	uu cd vj	1
+搏	uu uz fu	1
+搏	uu uz fu	1
+搏	uu cd fu	1
+搏	uu uz fu cy	1
+搐	uu uz iu	1
+搐	uu uz iu	1
+搐	uu cd iu	1
+搑	uu uz rs	1
+搑	uu uz rs	1
+搑	uu cd rs	1
+搒	uu uz ph	1
+搒	uu uz ph	1
+搒	uu cd ph	1
+搓	uu uz ia	1
+搓	uu uz ia	1
+搓	uu cd ia	1
+搔	uu uz zc	1
+搔	uu uz zc	1
+搔	uu cd zc	1
+搕	uu uz he	1
+搕	uu uz he	1
+搕	uu cd he	1
+摇	uu uz vc fz	1
+摇	uu uz vc fz	1
+摇	uu cd vc fz	1
+搘	uu uz qi	1
+搘	uu uz qi	1
+搘	uu cd qi	1
+搙	uu uz ru	1
+搙	uu uz ru	1
+搙	uu cd ru	1
+搚	uu uz xp	1
+搚	uu uz xp	1
+搚	uu cd xp	1
+搛	uu uz jm	1
+搛	uu uz jm	1
+搛	uu cd jm	1
+搜	uu uz sz	1
+搜	uu uz sz	1
+搜	uu cd sz	1
+搝	uu uz iz	1
+搝	uu uz iz	1
+搝	uu cd iz	1
+搞	uu uz gc	1
+搞	uu uz gc	1
+搞	uu cd gc	1
+搠	uu uz uo	1
+搠	uu uz uo	1
+搠	uu cd uo	1
+搡	uu uz sh	1
+搡	uu uz sh	1
+搡	uu cd sh	1
+搣	uu uz mp	1
+搣	uu uz mp	1
+搣	uu cd mp	1
+搤	uu uz yi	1
+搤	uu uz yi	1
+搤	uu cd yi	1
+捶	uu uz iv	1
+捶	uu uz iv	1
+捶	uu cd iv	1
+搦	uu uz ro	1
+搦	uu uz ro	1
+搦	uu cd ro	1
+搧	uu uz uj	1
+搧	uu uz uj	1
+搧	uu cd uj	1
+搨	uu uz ri yu	1
+搨	uu uz ri yu	1
+搨	uu cd ri yu	1
+搪	uu uz th	1
+搪	uu uz th	1
+搪	uu cd th	1
+搫	uu bj uz	1
+搬	uu uz bj	1
+搬	uu uz bj	1
+搬	uu cd bj	1
+搭	uu uz da	1
+搭	uu uz da	1
+搭	uu cd da	1
+搮	uu uz li	1
+搮	uu uz li	1
+搮	uu cd li	1
+搯	uu uz yc	1
+搯	uu uz yc	1
+搯	uu cd yc	1
+搰	uu uz gu	1
+搰	uu uz gu	1
+搰	uu cd gu	1
+搱	uu uz xi	1
+搱	uu uz xi	1
+搱	uu cd xi	1
+搲	uu uz xt gx	1
+搲	uu uz wa	1
+搲	uu cd wa	1
+搳	uu uz hd	1
+搳	uu uz hd	1
+搳	uu cd hd	1
+搴	uu mm jk da uz	1
+揾	uu uz wf wf	1
+揾	uu uz wf wf	1
+揾	uu cd wf wf	1
+搷	uu uz vf	1
+搷	uu uz vf	1
+搷	uu cd vf	1
+搸	uu uz qb	1
+搸	uu uz qb	1
+搸	uu cd qb	1
+搹	uu uz ge	1
+搹	uu uz ge	1
+搹	uu cd ge	1
+搻	uu he uz uz	1
+搼	uu uz qr	1
+搼	uu uz qr	1
+搼	uu cd qr	1
+搽	uu uz ia	1
+搽	uu uz ia	1
+搽	uu cd ia	1
+搾	uu uz vd	1
+搾	uu uz vd	1
+搾	uu cd vd	1
+搿	uu uz he uz	1
+摁	uu uz en	1
+摁	uu uz en	1
+摁	uu cd en	1
+摄	uu uz np	1
+摄	uu uz np	1
+摉	uu uz xt rf xi	1
+摉	uu uz xt rf xi	1
+摉	uu cd xt rf xi	1
+摍	uu uz su	1
+摍	uu uz su	1
+摍	uu cd su	1
+摎	uu uz lq	1
+摎	uu uz lq	1
+摎	uu cd lq	1
+摏	uu uz is	1
+摏	uu uz is	1
+摏	uu cd is	1
+摐	uu uz cs	1
+摐	uu uz cs	1
+摐	uu cd cs	1
+掴	uu uz go	1
+掴	uu uz go	1
+掴	uu cd go	1
+摒	uu uz pk	1
+摒	uu uz pk	1
+摒	uu cd pk	1
+摓	uu uz fg	1
+摓	uu uz fg	1
+摓	uu cd fg	1
+摔	uu uz lv	1
+摔	uu uz lv	1
+摔	uu cd lv	1
+摖	uu uz ji	1
+摖	uu uz ji	1
+摖	uu cd ji	1
+摘	uu uz di	1
+摘	uu uz di	1
+摘	uu cd di	1
+摚	uu uz th	1
+摚	uu uz th	1
+摚	uu cd th	1
+摛	uu uz li	1
+摛	uu uz li	1
+摛	uu cd li	1
+掼	uu uz gr	1
+掼	uu uz gr	1
+掼	uu cd gr	1
+摝	uu uz lu	1
+摝	uu uz lu	1
+摝	uu cd lu	1
+摞	uu uz lw	1
+摞	uu uz lw	1
+摞	uu cd lw	1
+搂	uu uz lz	1
+搂	uu uz lz	1
+搂	uu cd lz	1
+搃	uu uz zs	1
+搃	uu uz zs	1
+摡	uu uz ji	1
+摡	uu uz ji	1
+摡	uu cd ji	1
+摢	uu uz hu	1
+摢	uu uz hu	1
+摢	uu cd hu	1
+摣	uu uz co	1
+摣	uu uz co	1
+摣	uu cd co	1
+摤	uu uz ul	1
+摤	uu uz ul	1
+摤	uu cd ul	1
+摦	uu uz hu	1
+摦	uu uz hu	1
+摦	uu cd hu	1
+摧	uu uz cv	1
+摧	uu uz cv	1
+摧	uu cd cv	1
+摨	uu uz xi	1
+摨	uu uz xi	1
+摨	uu cd xi	1
+摩	uu ma uz	1
+摬	uu uz jk	1
+摬	uu uz jk	1
+摬	uu cd jk	1
+摭	uu uz uu	1
+摭	uu uz uu	1
+摭	uu cd uu	1
+摮	uu ao uz	1
+摱	uu uz mj	1
+摱	uu uz mj	1
+摱	uu cd mj	1
+摴	uu uz yu	1
+摴	uu uz yu	1
+摴	uu cd yu	1
+摵	uu uz qi	1
+摵	uu uz qi	1
+摵	uu cd qi	1
+摷	uu uz ic	1
+摷	uu uz ic	1
+摷	uu cd ic	1
+摸	uu uz mo	1
+摸	uu uz mo	1
+摸	uu cd mo	1
+摹	uu mo uz	1
+掺	uu uz cj	1
+掺	uu uz cj	1
+掺	uu cd cj	1
+摽	uu uz pn	1
+摽	uu uz pn	1
+摽	uu cd pn	1
+摾	uu uz ql	1
+摾	uu uz ql	1
+摾	uu cd ql	1
+摿	uu uz rf yb	1
+摿	uu uz rf yb	1
+摿	uu cd rf yb	1
+撀	uu qk uz	1
+撀	uu ug uu uz	1
+撂	uu uz lt	1
+撂	uu uz lt	1
+撂	uu cd lt	1
+撂	uu uz tm ge	1
+撅	uu uz jt	1
+撅	uu uz jt	1
+撅	uu cd jt	1
+撆	uu bi uz	1
+撇	uu uz bi	1
+撇	uu uz bi	1
+撇	uu cd bi	1
+撉	uu dy uz	1
+撍	uu uz ji ji ri	1
+撍	uu uz ji ji ri	1
+撍	uu cd ji ji ri	1
+撍	uu uz cj	1
+撍	uu uz cj	1
+撍	uu cd cj	1
+撎	uu uz yi	1
+撎	uu uz yi	1
+撎	uu cd yi	1
+撑	uu uz vh	1
+撑	uu uz vh	1
+撑	uu cd vh	1
+撑	uu uz uh uz	1
+撒	uu uz sj	1
+撒	uu uz sj	1
+撒	uu cd sj	1
+撔	uu uz jk	1
+撔	uu uz jk	1
+撔	uu cd jk	1
+撕	uu uz si	1
+撕	uu uz si	1
+撕	uu cd si	1
+撖	uu uz gj	1
+撖	uu uz gj	1
+撖	uu cd gj	1
+撗	uu uz hl	1
+撗	uu 	1
+撗	uu uz hl	1
+撗	uu cd hl	1
+撘	uu uz da	1
+撘	uu uz da	1
+撘	uu cd da	1
+撙	uu uz zy	1
+撙	uu uz zy	1
+撙	uu cd zy	1
+撚	uu uz rj	1
+撚	uu uz rj	1
+撚	uu cd rj	1
+撛	uu uz lb	1
+撛	uu uz lb	1
+撛	uu cd lb	1
+撜	uu uz dg	1
+撜	uu uz dg	1
+撜	uu cd dg	1
+撞	uu uz ts	1
+撞	uu uz ts	1
+撞	uu cd ts	1
+撠	uu uz ji	1
+撠	uu uz ji	1
+撠	uu cd ji	1
+撡	uu uz cj	1
+撡	uu uz cj	1
+撡	uu cd cj	1
+撢	uu uz tj	1
+撢	uu uz tj	1
+撢	uu cd tj	1
+掸	uu uz dj	1
+掸	uu uz dj	1
+撤	uu uz yu pu	1
+撤	uu uz yu pu	1
+撤	uu cd yu pu	1
+撦	uu uz ue	1
+撦	uu uz ue	1
+撦	uu cd ue	1
+撨	uu uz jn	1
+撨	uu uz jn	1
+撨	uu cd jn	1
+撩	uu uz ln	1
+撩	uu uz ln	1
+撩	uu cd ln	1
+撬	uu uz cv	1
+撬	uu uz cv	1
+撬	uu cd cv	1
+播	uu uz fj	1
+播	uu uz fj	1
+播	uu cd fj	1
+撮	uu uz zv	1
+撮	uu uz zv	1
+撮	uu cd zv	1
+撰	uu uz xy	1
+撰	uu uz xy	1
+撰	uu cd xy	1
+撱	uu uz sv	1
+撱	uu uz sv	1
+撱	uu cd sv	1
+揿	uu uz qb	1
+揿	uu uz qb	1
+揿	uu cd qb	1
+撴	uu uz dy	1
+撴	uu uz dy	1
+撴	uu cd dy	1
+搅	uu uz jt	1
+搅	uu uz jt	1
+撼	uu uz gj	1
+撼	uu uz gj	1
+撼	uu cd gj	1
+撽	uu uz jn	1
+撽	uu uz jn	1
+撽	uu cd jn	1
+擀	uu uz gj	1
+擀	uu uz gj	1
+擀	uu cd gj	1
+擂	uu uz lw	1
+擂	uu uz lw	1
+擂	uu cd lw	1
+掳	uu uz lu	1
+掳	uu uz lu	1
+掳	uu cd lu	1
+擅	uu uz dj	1
+擅	uu uz dj	1
+擅	uu cd dj	1
+撯	uu uz ve	1
+撯	uu uz ve	1
+擉	uu uz uu	1
+擉	uu uz uu	1
+擉	uu cd uu	1
+操	uu uz pb mu	1
+操	uu uz pb mu	1
+操	uu cd pb mu	1
+操	uu uz zc	1
+擎	uu jk uz	1
+擏	uu uz jk	1
+擏	uu uz jk	1
+擏	uu cd jk	1
+擐	uu uz qs	1
+擐	uu uz qs	1
+擐	uu cd qs	1
+擑	uu uz ji	1
+擑	uu uz ji	1
+擑	uu cd ji	1
+擒	uu uz qb	1
+擒	uu uz qb	1
+擒	uu cd qb	1
+携	uu uz jr	1
+携	uu uz jr	1
+擖	uu uz ge	1
+擖	uu uz ge	1
+擖	uu cd ge	1
+擗	uu uz pi	1
+擗	uu uz pi	1
+擗	uu cd pi	1
+擘	uu pi uz	1
+据	uu uz ju	1
+据	uu uz ju	1
+据	uu cd ju	1
+擛	uu uz ye	1
+擛	uu uz ye	1
+擛	uu cd ye	1
+擝	uu uz mg	1
+擝	uu uz mg	1
+擝	uu cd mg	1
+擢	uu uz di	1
+擢	uu uz di	1
+擢	uu cd di	1
+擤	uu uz bi	1
+擤	uu uz bi	1
+擤	uu cd bi	1
+擦	uu uz ia	1
+擦	uu uz ia	1
+擦	uu cd ia	1
+擨	uu uz ye	1
+擨	uu uz ye	1
+擨	uu cd ye	1
+擩	uu uz xu	1
+擩	uu uz xu	1
+擩	uu cd xu	1
+擭	uu uz ho	1
+擭	uu uz ho	1
+擭	uu cd ho	1
+擮	uu uz jp	1
+擮	uu uz jp	1
+擮	uu cd jp	1
+摈	uu uz bb	1
+摈	uu uz bb	1
+摈	uu cd bb	1
+搁	uu uz ge	1
+搁	uu uz ge	1
+搁	uu cd ge	1
+掷	uu uz vi vg	1
+掷	uu uz vi vg	1
+掷	uu cd vi vg	1
+擵	uu uz mo	1
+擵	uu uz mo	1
+擵	uu cd mo	1
+擶	uu uz jm	1
+擶	uu uz jm	1
+擶	uu cd jm	1
+撷	uu uz jp	1
+撷	uu uz jp	1
+撷	uu cd jp	1
+擸	uu uz lp	1
+擸	uu uz lp	1
+擸	uu cd lp	1
+擹	uu uz tj	1
+擹	uu uz tj	1
+擹	uu cd tj	1
+摆	uu uz ba	1
+摆	uu uz ba	1
+摆	uu cd ba	1
+擞	uu uz uu	1
+擞	uu uz uu	1
+擞	uu cd uu	1
+撸	uu uz lu	1
+撸	uu uz lu	1
+攀	uu fj da uz	1
+攀	uu lb yc da uz	1
+攀	uu mu mu yi yi da uz	1
+攁	uu uz yh	1
+攁	uu uz yh	1
+攁	uu cd yh	1
+攂	uu uz lw	1
+攂	uu uz lw	1
+攂	uu cd lw	1
+攃	uu uz cd	1
+攃	uu uz cd	1
+攃	uu cd cd	1
+摅	uu uz lv	1
+摅	uu uz lv	1
+撵	uu uz nm	1
+撵	uu uz nm	1
+撵	uu cd nm	1
+攈	uu uz jy	1
+攈	uu uz jy	1
+攈	uu cd jy	1
+攉	uu uz ho	1
+攉	uu uz ho	1
+攉	uu cd ho	1
+攌	uu uz hr	1
+攌	uu uz hr	1
+攌	uu cd hr	1
+攍	uu uz yk	1
+攍	uu uz yk	1
+攍	uu cd yk	1
+攐	uu uz qm	1
+攐	uu uz qm	1
+攐	uu cd qm	1
+攓	uu uz jm	1
+攓	uu uz jm	1
+攓	uu cd jm	1
+攕	uu uz xm	1
+攕	uu uz xm	1
+攕	uu cd xm	1
+撄	uu uz yk	1
+撄	uu uz yk	1
+攗	uu uz mi	1
+攗	uu uz mi	1
+攗	uu cd mi	1
+攘	uu uz xl	1
+攘	uu uz xl	1
+攘	uu cd xl	1
+搀	uu uz mm bk	1
+搀	uu uz mm bk	1
+搀	uu cd mm bk	1
+撺	uu uz cr	1
+撺	uu uz cr	1
+撺	uu cd cr	1
+携	uu uz jr	1
+携	uu uz jr	1
+携	uu cd jr	1
+摄	uu uz np	1
+摄	uu uz np	1
+摄	uu cd np	1
+攟	uu uz jy	1
+攟	uu uz jy	1
+攟	uu cd jy	1
+攠	uu uz mi	1
+攠	uu uz mi	1
+攠	uu cd mi	1
+攒	uu uz zj	1
+攒	uu uz zj	1
+攒	uu cd zj	1
+摊	uu uz nj	1
+摊	uu uz nj	1
+摊	uu cd nj	1
+攥	uu uz zr	1
+攥	uu uz zr	1
+攥	uu cd zr	1
+攨	uu uz xt gx gx gx	1
+攨	uu uz xt gx gx gx	1
+攨	uu cd xt gx gx gx	1
+搅	uu uz jt	1
+搅	uu uz jt	1
+搅	uu cd jt	1
+攫	uu uz qu	1
+攫	uu uz qu	1
+攫	uu cd qu	1
+揽	uu uz lj	1
+揽	uu uz lj	1
+揽	uu cd lj	1
+攭	uu uz li	1
+攭	uu uz li	1
+攭	uu cd li	1
+攮	uu uz nh	1
+攮	uu uz nh	1
+攮	uu cd nh	1
+攲	uu qi vi	1
+敍	uu yu pu	1
+教	uu xn pu	1
+教	uu xn pu	1
+敏	uu mw pu	1
+敏	uu mw pu	1
+敐	uu if pu	1
+敐	uu if pu	1
+救	uu qq pu	1
+救	uu qq pu	1
+敒	uu uf pu	1
+敒	uu uf pu	1
+敚	uu dv pu	1
+敚	uu dv pu	1
+敔	uu wu pu	1
+敔	uu wu pu	1
+敕	uu uu pu	1
+敕	uu uu pu	1
+教	uu xn pu	1
+教	uu xn pu	1
+敜	uu nm pu	1
+敜	uu nm pu	1
+敝	uu ba jb ba pu	1
+敝	uu ba jb ba pu	1
+敝	uu bi pu	1
+敝	uu bi pu	1
+敞	uu uh pu	1
+敞	uu uh pu	1
+敟	uu dm pu	1
+敟	uu dm pu	1
+敠	uu vo pu	1
+敡	uu yi pu	1
+敢	uu xx er pu	1
+敢	uu xx er pu	1
+散	uu jk yt pu	1
+散	uu jk yt pu	1
+敤	uu go pu	1
+敥	uu yj pu	1
+敦	uu xl pu	1
+敦	uu xl pu	1
+敧	uu qi pu	1
+敨	uu pz pu	1
+敨	uu pz pu	1
+敪	uu vo pu	1
+敪	uu vo pu	1
+敫	uu bd fh pu	1
+敫	uu bd fh pu	1
+敬	uu ji pu	1
+敬	uu ji pu	1
+敭	uu yi pu	1
+敭	uu yi pu	1
+敮	uu ia pu	1
+敯	uu hy pu	1
+敱	uu qi pu	1
+敲	uu gc pu	1
+敲	uu gc pu	1
+整	uu ii vg	1
+整	uu uu pu vg	1
+敷	uu fu pu	1
+敷	uu fu pu	1
+敷	uu fu fh pu	1
+数	uu lz pu	1
+数	uu lz pu	1
+敹	uu bo mi yi mi pu	1
+敹	uu bo mi yi mi pu	1
+敻	uu dc nw mu xi	1
+敻	uu dc nw mu vi	1
+敼	uu xi pu	1
+斀	uu uu pu	1
+敛	uu qm pu	1
+敛	uu qm pu	1
+敩	uu xt pu	1
+敩	uu xt pu	1
+敩	uu xt pu	1
+敩	uu xt pu	1
+斌	uu wf wu	1
+斐	uu fw wf	1
+斑	uu wh wf wh	1
+斑	uu yu wf wh	1
+斒	uu wf bm	1
+斔	uu wf is yu	1
+斓	uu wf lj	1
+斖	uu wf jq ts mi qp	1
+斛	uu jt dz	1
+斜	uu yu dz	1
+斝	uu kz kz mi dz	1
+斞	uu yu dz	1
+斟	uu uf dz	1
+斠	uu gz dz	1
+斡	uu ui ri ui rf dz	1
+斢	uu hl dz	1
+斣	uu uu dz	1
+斮	uu xi jb	1
+斯	uu qi jb	1
+新	uu qb jb	1
+新	uu li mu jb	1
+斱	uu ve jb	1
+斳	uu jb jb	1
+斴	uu lb jb	1
+斵	uu mc ya jb	1
+斶	uu jb uu	1
+断	uu gy yi mi jb	1
+旇	uu fh pp yi pi	1
+旈	uu fh tz si ir	1
+旈	uu fh hl	1
+旈	uu fh lq	1
+旉	uu fu fh	1
+旋	uu fh pp yi pi	1
+旌	uu fh pp yi ug	1
+旍	uu fh pp yi lk	1
+旎	uu fh pp yi ni	1
+族	uu fh pp yi ui	1
+旐	uu fh pp yi vc	1
+旑	uu fh qi	1
+旒	uu fh pp yi tz si ir	1
+旒	uu fh pp yi hl	1
+旒	uu fh pp yi lq	1
+旓	uu fh pp yi xn	1
+旔	uu fh jm	1
+旖	uu fh pp yi qi	1
+旗	uu fh pp yi qi	1
+旙	uu fh fj	1
+旚	uu fh pp yi pn	1
+旛	uu fh pp yi fj	1
+旜	uu fh pp yi dj	1
+旝	uu fh pp yi hv	1
+旞	uu fh pp yi sv	1
+旣	uu bd bi ji	1
+晗	uu ri hj	1
+晘	uu ri hj	1
+晙	uu ri qy	1
+晚	uu ri mm	1
+晜	uu ri di	1
+晞	uu ri xi	1
+晡	uu ri fu	1
+晢	uu ve ri	1
+晣	uu ri ve	1
+晤	uu ri wu	1
+晥	uu ri wj	1
+晦	uu ri mw	1
+晧	uu ri gc	1
+晨	uu ri if	1
+晩	uu ri mm	1
+晪	uu ri dm	1
+晫	uu ri vo	1
+晬	uu ri zu	1
+晭	uu ri vz	1
+普	uu bk ri	1
+普	uu ba jb	1
+景	uu ri jk	1
+晰	uu ri xi	1
+晱	uu ri yj	1
+晲	uu ri er	1
+晳	uu xi ri	1
+晴	uu ri qk	1
+晵	uu hu pu	1
+晶	uu ri ri ri	1
+晷	uu ri jq	1
+晸	uu ri vg	1
+晹	uu ri yi	1
+智	uu vi ri	1
+晻	uu ri yj	1
+晼	uu ri wj	1
+晽	uu ri lb	1
+晾	uu ri jk	1
+晿	uu ri ih	1
+暀	uu ri wh	1
+暄	uu ri xr	1
+暅	uu ri hg	1
+暆	uu ri ui	1
+暇	uu ri jx	1
+暋	uu mb ri	1
+暌	uu ri gv	1
+暍	uu ri he	1
+暎	uu ri yk	1
+暏	uu ri ve	1
+暑	uu ri ve	1
+暒	uu ri xk	1
+暓	uu wu ri	1
+暔	uu ri nj	1
+暕	uu ri jm	1
+暖	uu ri yr	1
+暗	uu ri yb	1
+暙	uu ri iy	1
+暚	uu ri vc fz	1
+暚	uu ri vc fz	1
+暛	uu ri ia	1
+暜	uu li li ri	1
+暝	uu ri mk	1
+暞	uu ri np	1
+暠	uu ri gc	1
+暡	uu ri wg	1
+暤	uu ri gc	1
+暥	uu ri yj	1
+暦	uu ih lb ri	1
+暨	uu ji dj	1
+暩	uu ri ji	1
+暂	uu vj ri	1
+暭	uu ri gc	1
+暮	uu mo ri	1
+暯	uu ri mo	1
+暲	uu ri vh	1
+暳	uu ri hv	1
+暴	uu ri gs uv	1
+暴	uu ri gs	1
+暵	uu ri ge da	1
+暶	uu ri xr	1
+暸	uu ri ln	1
+暹	uu ri jb	1
+暺	uu ri dj	1
+暻	uu ri jk	1
+暼	uu bi ri	1
+暽	uu ri lb	1
+暾	uu ri dy	1
+暿	uu ri xi	1
+曀	uu ri yi	1
+曁	uu ji dj	1
+曂	uu ri hl	1
+曃	uu ri dd	1
+曈	uu ri ts	1
+曋	uu ri tj	1
+曌	uu mk ks	1
+曍	uu ri gc	1
+曐	uu jk ug	1
+曑	uu jk rf uj	1
+曒	uu ri jn	1
+曓	uu ri iu da bf	1
+曔	uu ri jk	1
+曕	uu ri vj	1
+暧	uu ri ai	1
+曘	uu ri xu	1
+曙	uu ri uu	1
+曚	uu ri mg	1
+曛	uu ri xy	1
+曜	uu ri di	1
+曝	uu ri bc	1
+曟	uu jk if	1
+曡	uu jk yi	1
+曣	uu ri yj	1
+曤	uu ri ho	1
+曦	uu ri xi	1
+曧	uu ri rs	1
+曩	uu ri nh	1
+曹	uu nm yt ri	1
+曹	uu yi gy gy yt ri	1
+曼	uu yt mu yz	1
+曽	uu ba tm yt	1
+曽	uu ba tm ri	1
+曾	uu ba kz gy ba yt	1
+曾	uu ba kz gy ba yt	1
+替	uu fu fu yt	1
+替	uu fu fu ri	1
+最	uu yt qu	1
+最	uu ri qu	1
+朁	uu jb ri	1
+朂	uu yt er li	1
+朂	uu ri er li	1
+朅	uu qu he	1
+朆	uu cg wu	1
+朖	uu yt ll	1
+朘	uu yt qy	1
+朙	uu js yt	1
+朚	uu wh mk	1
+望	uu wh yt wh	1
+朜	uu yt xl	1
+朝	uu ui ri ui yt	1
+朝	uu vo yt	1
+朝	uu ie yt	1
+朞	uu qi yt	1
+期	uu qi yt	1
+朠	uu yt yk	1
+朡	uu yt xs ba xi	1
+朡	uu yt xs ba vi	1
+朣	uu yt ts	1
+朤	uu yt yt yt yt	1
+朦	uu yt mg	1
+樱	uu mu yk	1
+桫	uu mu ua	1
+桬	uu ua mu	1
+桭	uu mu if	1
+桮	uu mu fz	1
+桯	uu mu ig	1
+桰	uu mu ui kz	1
+桲	uu mu bw	1
+桳	uu mu si da ui	1
+桴	uu mu fu	1
+桵	uu mu to	1
+桶	uu mu ys	1
+桷	uu mu jn	1
+桸	uu mu xi	1
+桹	uu mu ll	1
+桺	uu mu yz	1
+桻	uu mu fg	1
+桼	uu mu uv	1
+桽	uu mu zo	1
+桾	uu mu jy	1
+梀	uu mu uu	1
+梁	uu uv il mu	1
+梁	uu uv il mu	1
+梂	uu mu qq	1
+梄	uu mu yz	1
+梅	uu mu mw	1
+梇	uu mu ns	1
+梈	uu mu hg	1
+梊	uu ve mu	1
+梋	uu mu yr	1
+梌	uu mu yu	1
+梍	uu mu bd qi	1
+梎	uu mu zc	1
+梏	uu mu gc	1
+梏	uu mu nq kz	1
+梐	uu mu bi	1
+梐	uu mu bi tu	1
+梑	uu mu di	1
+梒	uu mu hj	1
+梓	uu mu xb	1
+梔	uu mu vi	1
+梕	uu mu rf	1
+梗	uu mu gg	1
+梙	uu mu ir	1
+梚	uu mu mm	1
+梞	uu mu ji	1
+梡	uu mu wj	1
+梢	uu mu xn	1
+梣	uu mu cf	1
+梤	uu mu uj ff	1
+梥	uu mm ss	1
+梧	uu mu wu	1
+梨	uu li mu	1
+梩	uu mu li	1
+梪	uu mu dz	1
+梫	uu mu ji mi yz	1
+梬	uu mu pk	1
+梭	uu mu qy	1
+梮	uu mu ju	1
+梯	uu mu di	1
+械	uu mu jp	1
+梱	uu mu ky	1
+棁	uu mu dv	1
+梳	uu mu tz si ir	1
+梳	uu mu hl	1
+梳	uu mu lq	1
+梵	uu mu mu fj	1
+梶	uu mu ww	1
+梷	uu vj yz mu	1
+梸	uu mu li	1
+梹	uu mu bk	1
+梽	uu mu vi	1
+棃	uu he bc pp mu	1
+棅	uu mu bk	1
+棇	uu mu cs	1
+棇	uu mu gs xb	1
+棈	uu mu qk	1
+棉	uu mu bo	1
+棊	uu qi mu	1
+棋	uu mu qi	1
+棌	uu mu cd	1
+棍	uu mu ky	1
+棎	uu mu uf	1
+棏	uu mu ri yi cy	1
+棐	uu fw mu	1
+棑	uu mu fw	1
+棒	uu mu fg	1
+棓	uu mu pz	1
+棔	uu mu hy	1
+棕	uu mu zs	1
+棘	uu ci ci	1
+棙	uu mu li	1
+棚	uu mu pg	1
+棛	uu mu yu	1
+棝	uu mu gu	1
+棞	uu mu qy	1
+棞	uu mu ww he	1
+棠	uu uh mu	1
+棢	uu mu wh	1
+棣	uu mu li	1
+棤	uu mu xi	1
+棥	uu mu yc mu	1
+棥	uu lb yc	1
+棨	uu hu pu	1
+棪	uu mu yj	1
+棫	uu mu ho	1
+棬	uu mu jr	1
+棭	uu mu ye	1
+森	uu mu mu mu	1
+森	uu mu lb	1
+棯	uu mu nm	1
+棰	uu mu iv	1
+棱	uu mu lk	1
+棳	uu mu vo	1
+棴	uu mu fu	1
+棵	uu mu go	1
+梾	uu mu ld	1
+棷	uu mu qu	1
+棸	uu qu mu	1
+棹	uu mu vo	1
+棺	uu mu gr	1
+棻	uu ff mu	1
+棼	uu lb ff	1
+棽	uu lb jb	1
+棾	uu lb rs	1
+棿	uu mu er	1
+椀	uu mu wj	1
+椁	uu mu xl	1
+椂	uu mu lu	1
+椃	uu mu hu	1
+椄	uu mu qp	1
+椅	uu mu qi	1
+椆	uu mu vz	1
+椇	uu mu ju	1
+椈	uu mu ju	1
+椉	uu tz ir mu	1
+椊	uu mu zu	1
+椋	uu mu jk	1
+椌	uu mu ks	1
+植	uu mu vi	1
+椎	uu mu vv	1
+椐	uu mu ju	1
+椑	uu mu bw	1
+椒	uu mu uu	1
+椓	uu mu iu	1
+椔	uu mu zd	1
+椕	uu lb ff	1
+椕	uu mu ff mu	1
+椖	uu mu fh	1
+椗	uu mu dk	1
+椘	uu lb vi	1
+检	uu mu qm	1
+椞	uu xi mu	1
+椥	uu mu vi	1
+椪	uu mu bk	1
+椯	uu mu dr	1
+椰	uu mu ye	1
+椱	uu mu fu	1
+椳	uu mu ww	1
+椴	uu mu dr	1
+椵	uu mu jx	1
+椶	uu mu xs ba xi	1
+椶	uu mu xs ba vi	1
+椷	uu mu xm	1
+椸	uu mu ui	1
+椹	uu mu uf	1
+椺	uu mu bc	1
+椻	uu mu yj	1
+椼	uu mu yj	1
+椽	uu mu tr	1
+椾	uu mu qm	1
+椿	uu mu iy	1
+楀	uu mu yu	1
+楁	uu mu ke	1
+楂	uu mu ia	1
+楃	uu mu wu	1
+楄	uu mu bm	1
+楅	uu mu fu	1
+楆	uu mu yc	1
+楈	uu mu pi yt	1
+楉	uu mu ro	1
+楋	uu mu la	1
+楌	uu mu yj	1
+楍	uu mu kz kz kz	1
+楏	uu mu kv	1
+楐	uu mu jp	1
+楑	uu mu gv	1
+楒	uu mu si	1
+楔	uu mu qi	1
+楕	uu mu zo yt	1
+楖	uu mu ji	1
+楗	uu mu jm	1
+楘	uu wu mu	1
+楙	uu lb mc	1
+楙	uu mu mc mu	1
+楚	uu lb pi	1
+楛	uu mu ku	1
+楜	uu mu hu	1
+楝	uu mu jm	1
+愣	uu xb wh fh	1
+愣	uu xb wh fh	1
+楟	uu mu tk	1
+楠	uu mu nj	1
+楡	uu mu yu	1
+楢	uu mu qq	1
+楣	uu mu mw	1
+楤	uu mu cs	1
+楥	uu mu yr	1
+楦	uu mu xr	1
+楧	uu mu yk	1
+楩	uu mu bm	1
+楪	uu mu ye	1
+楫	uu mu qi	1
+楫	uu mu kz er	1
+楬	uu mu he	1
+楮	uu mu ve	1
+楯	uu mu dy	1
+楰	uu mu yu	1
+楱	uu mu zz	1
+楲	uu mu ww	1
+楳	uu mu mz	1
+楴	uu mu di	1
+楶	uu mu zi	1
+楶	uu ci dd	1
+楷	uu mu jp	1
+楸	uu mu qq	1
+楹	uu mu yk	1
+楺	uu mu rz	1
+楻	uu mu hl	1
+榀	uu mu pb	1
+概	uu mu ji	1
+榃	uu lb tm	1
+榆	uu mu yu	1
+榊	uu mu uf	1
+榍	uu mu xp	1
+榎	uu mu xx	1
+榏	uu mu yi	1
+榐	uu mu vj	1
+榑	uu mu fu	1
+榒	uu mu ro	1
+榓	uu mu bi mb	1
+榔	uu mu lh	1
+榕	uu mu rs	1
+榖	uu ui mi yi mu uu	1
+榘	uu ju mu	1
+榙	uu mu da	1
+榚	uu mu gc	1
+榛	uu mu qb	1
+榜	uu mu ph	1
+榞	uu mu yr	1
+榟	uu mu zd	1
+榠	uu mu mk	1
+榡	uu mu su	1
+榢	uu mu jx	1
+榤	uu mu jp	1
+榥	uu mu hl	1
+榦	uu ui ri ui rf mu	1
+榧	uu mu fw	1
+榨	uu mu vd	1
+榩	uu mu qm	1
+榫	uu mu sy	1
+榫	uu mu vv ui	1
+榬	uu mu yr	1
+榭	uu mu ue	1
+榰	uu mu qi	1
+榱	uu mu uk	1
+榅	uu mu wf	1
+榳	uu mu tk	1
+榴	uu mu lq	1
+榵	uu mu rs	1
+榶	uu mu th	1
+榷	uu mu hu	1
+榸	uu mu md	1
+榹	uu mu si	1
+榺	uu rz jr	1
+榺	uu yt jr	1
+榻	uu mu ri yu	1
+榻	uu mu yt yu	1
+榼	uu mu he	1
+榽	uu mu xi	1
+榾	uu mu gu	1
+槀	uu gc mu	1
+槁	uu mu gc	1
+槃	uu bj mu	1
+槄	uu mu yc	1
+槅	uu mu ge	1
+槆	uu mu xy	1
+槇	uu mu vf	1
+槈	uu mu ru	1
+槉	uu mu ji	1
+槊	uu mu uo	1
+槌	uu mu vv	1
+槎	uu mu ia	1
+槏	uu mu jm	1
+槐	uu mu gv	1
+槑	uu dd dd	1
+槒	uu mu iu	1
+槔	uu mu gc	1
+槕	uu mu vo	1
+槖	uu ui mi ui mu	1
+槙	uu mu vf	1
+槜	uu mu jr	1
+槢	uu mu xi	1
+槣	uu mu ji	1
+梿	uu mu lm	1
+槥	uu mu hv	1
+槦	uu mu ys	1
+椠	uu mu vj	1
+槨	uu mu go	1
+槩	uu mu ji	1
+概	uu mu ji	1
+槬	uu mu hu	1
+槭	uu mu qi	1
+椮	uu mu cj	1
+槯	uu mu cv	1
+槰	uu mu fg	1
+槱	uu mu yz ho	1
+槱	uu mu yz bn	1
+槲	uu mu hu	1
+槴	uu mu hu	1
+槵	uu mu hr	1
+槷	uu yi mu	1
+槸	uu mu yi	1
+槹	uu mu gc	1
+槺	uu mu kh	1
+椝	uu mu gv	1
+槽	uu mu cc	1
+槾	uu mu mj	1
+槿	uu mu jb	1
+樀	uu mu di	1
+樃	uu mu lh	1
+樆	uu mu li	1
+樇	uu mu xq	1
+樈	uu mu jk	1
+樉	uu mu ul	1
+樊	uu fj da	1
+樋	uu mu ts	1
+樎	uu mu su	1
+樏	uu mu lw	1
+樑	uu mu ll	1
+樒	uu mu mi	1
+楼	uu mu lz	1
+樔	uu mu ic	1
+樕	uu mu uo	1
+樖	uu he ke	1
+樗	uu mu yu	1
+樘	uu mu th	1
+樚	uu mu lu	1
+樛	uu mu lq	1
+樜	uu mu uu	1
+樝	uu mu co	1
+樟	uu mu vh	1
+模	uu mu mo	1
+樥	uu mu pg	1
+樦	uu mu vu vu	1
+榝	uu mu ua	1
+樨	uu mu xi	1
+樬	uu mu cs	1
+樵	uu mu jn	1
+樶	uu mu zv	1
+樷	uu lb qu	1
+樼	uu mu cj	1
+樽	uu mu zy	1
+樾	uu mu yt	1
+椫	uu mu dj	1
+橀	uu mu tz si ir mb	1
+橀	uu mu hl mb	1
+橀	uu mu lq mb	1
+橂	uu mu dm	1
+橄	uu mu gj	1
+橆	uu pp yi xi yi lb	1
+橇	uu mu cv	1
+橉	uu mu lb	1
+橊	uu mu lq	1
+橎	uu mu fj	1
+橏	uu mu uj	1
+橐	uu yi vs mi mu ui	1
+橑	uu mu ln	1
+橓	uu mu uy	1
+橔	uu mu dy	1
+橖	uu mu th	1
+橗	uu mu mg	1
+橘	uu mu yu	1
+橙	uu mu dg	1
+橛	uu mu jt	1
+橜	uu jt mu	1
+橝	uu mu tj	1
+橞	uu mu hv	1
+橠	uu mu ii	1
+橡	uu mu xl	1
+椭	uu mu sv to	1
+橣	uu mu nk	1
+橤	uu so mu	1
+橦	uu mu ts	1
+橧	uu mu cg	1
+橪	uu mu rj	1
+横	uu mu hl	1
+橬	uu mu cj	1
+橭	uu mu gu	1
+橰	uu mu gc	1
+橶	uu mu ji	1
+橷	uu mu dz	1
+橷	uu mu bw bd ji	1
+橾	uu mu zc	1
+橿	uu mu jl	1
+檀	uu mu dj	1
+檩	uu mu bk	1
+檄	uu mu jn	1
+檅	uu mu sv	1
+檆	uu mu uj	1
+檇	uu mu jr	1
+檈	uu mu qs	1
+檊	uu mu gj	1
+檌	uu mu zv	1
+檍	uu mu yi	1
+檎	uu mu qb	1
+檑	uu mu lw	1
+檓	uu mu hv	1
+檕	uu ie qm uu mu	1
+檖	uu mu sv	1
+檗	uu pi mu	1
+檘	uu mu pi	1
+檙	uu mu dk	1
+檚	uu mu iu	1
+檝	uu mu ji	1
+檞	uu mu jp	1
+槚	uu mu jx	1
+檠	uu jk mu	1
+检	uu mu qm	1
+樯	uu mu se	1
+檤	uu mu dc	1
+檦	uu mu pn	1
+檧	uu mu cs	1
+檨	uu mu xm	1
+檫	uu mu ia	1
+檬	uu mu mg	1
+梼	uu mu uz	1
+檱	uu mu ji	1
+槟	uu mu bb	1
+檴	uu mu ho	1
+檵	uu mu gy yi yc yc yi yc yc	1
+檹	uu mu yi	1
+檺	uu mu hc	1
+槛	uu mu jm	1
+檽	uu mu xu	1
+檿	uu ya mu	1
+櫀	uu mu qi	1
+櫁	uu mu mi	1
+櫂	uu mu di	1
+櫄	uu mu xy	1
+櫆	uu mu kv	1
+櫈	uu mu dg	1
+橱	uu mu iu	1
+櫋	uu mu mm	1
+櫏	uu mu qm	1
+櫐	uu lw mu	1
+櫑	uu mu lw	1
+櫒	uu mu cd	1
+橹	uu mu lu	1
+櫗	uu mu mp	1
+櫘	uu mu hv	1
+榈	uu mu lv	1
+榈	uu mu mf lv	1
+櫜	uu yi vs js iu dd	1
+椟	uu mu md	1
+橼	uu mu yr	1
+櫡	uu mu vu	1
+橱	uu mu iu	1
+槠	uu mu vu	1
+橥	uu mu vu	1
+榇	uu mu qb	1
+櫭	uu mu ji	1
+櫮	uu mu ee	1
+櫰	uu mu hk	1
+櫱	uu xt mu	1
+櫲	uu mu yu	1
+榉	uu mu ju	1
+櫺	uu mu lk	1
+樱	uu mu yk	1
+櫼	uu mu xm	1
+櫾	uu mu vc fz xi	1
+櫾	uu mu vc fz xi	1
+欀	uu mu xl	1
+欂	uu mu bc	1
+欃	uu mu ij	1
+欇	uu mu np	1
+欈	uu mu gv	1
+欋	uu mu qu	1
+欎	uu fj mi gf cy	1
+椤	uu mu lo	1
+欔	uu mu jt	1
+榄	uu mu lj	1
+欙	uu mu lw	1
+欚	uu mu li	1
+欜	uu mu nh	1
+欝	uu fj wh gf cy	1
+欝	uu fj wh gf cy	1
+欝	uu fj wh gf cy	1
+棂	uu mu lk	1
+欫	uu wu vi qm	1
+欲	uu gu qm	1
+欳	uu bo ce qm	1
+欵	uu bi ui qm	1
+欶	uu uu qm	1
+欷	uu xi qm	1
+欸	uu yi qm	1
+欹	uu qi qm	1
+欺	uu qi qm	1
+欻	uu yj qm	1
+欼	uu vo qm	1
+款	uu ui ui qm	1
+欿	uu xm qm	1
+歀	uu nd qm	1
+歁	uu uf qm	1
+歂	uu dr qm	1
+歃	uu ia qm	1
+歅	uu yb qm	1
+歆	uu yb qm	1
+歇	uu he qm	1
+歈	uu yu qm	1
+歉	uu jm qm	1
+歊	uu gc qm	1
+歋	uu si qm	1
+歌	uu ge qm	1
+歏	uu jb qm	1
+歑	uu hu qm	1
+歒	uu di qm	1
+歔	uu xu qm	1
+歖	uu xi qm	1
+歘	uu yj qm	1
+歙	uu xi qm	1
+歜	uu uu qm	1
+歠	uu vo yz qm	1
+歮	uu vi vi vi	1
+歰	uu rf rf vi vi	1
+歱	uu vi vs	1
+歴	uu ih lb vi	1
+歶	uu ci yu	1
+殍	uu dd fu	1
+殏	uu dd qq	1
+殐	uu dd uu	1
+殑	uu dd ke	1
+殔	uu dd li	1
+殕	uu dd pz	1
+殖	uu dd vi	1
+殗	uu dd yj	1
+殙	uu dd hy	1
+殛	uu dd ji	1
+殜	uu dd ye	1
+殒	uu dd yr	1
+殟	uu dd wf	1
+殠	uu dd iz	1
+殢	uu dd dd	1
+殣	uu dd jb	1
+殥	uu dd yb	1
+殧	uu dd jq	1
+殩	uu dd cj	1
+殪	uu dd yi	1
+殚	uu dd dj	1
+僵	uu rf jl	1
+僵	uu rf jl	1
+殓	uu dd qm	1
+殡	uu dd bb	1
+殸	uu ug uu	1
+殹	uu yi uu	1
+殽	uu yc uu	1
+殾	uu ve uu	1
+殿	uu ui gs uu	1
+毁	uu jq gs uu	1
+毃	uu gc uu	1
+毅	uu yi uu	1
+毅	uu li ui uu	1
+毇	uu jq mi uu	1
+毈	uu lr dr	1
+毉	uu yi wu	1
+毓	uu mw tz si ir	1
+毓	uu mw hl	1
+毓	uu mw lq	1
+毚	uu dc kz bi tu	1
+毫	uu tz kz js mc	1
+毬	uu mc qq	1
+毭	uu dz mc	1
+毯	uu mc yj	1
+毰	uu mc pz	1
+毱	uu mc ju	1
+毲	uu vo mc	1
+毳	uu mc mc mc	1
+毴	uu mc fw	1
+毷	uu mc mc	1
+毸	uu mc si	1
+毹	uu yu mc	1
+毺	uu mc yu	1
+毻	uu zo yt mc	1
+毼	uu he mc	1
+毽	uu mc jm	1
+毾	uu ri yu mc	1
+毵	uu cj mc	1
+氁	uu mc mo	1
+氃	uu ts mc	1
+氄	uu yu mc	1
+氅	uu ih mc	1
+氆	uu mc pu	1
+氉	uu zc mc	1
+氋	uu mg mc	1
+氇	uu mc lu	1
+氍	uu qu mc	1
+氎	uu lw mm ji mc	1
+氪	uu qi ke	1
+氮	uu qi yj	1
+氯	uu qi lu	1
+氰	uu qi qk	1
+氲	uu qi wf	1
+渎	uu uv md	1
+渎	uu uv md	1
+涪	uu uv pz	1
+涪	uu uv pz	1
+涫	uu uv gr	1
+涫	uu uv gr	1
+涬	uu uv xk	1
+涬	uu uv xk	1
+涭	uu uv uz	1
+涭	uu uv uz	1
+涮	uu uv ux	1
+涮	uu uv ux	1
+涯	uu uv ya	1
+涯	uu uv ya	1
+涰	uu uv vo	1
+涰	uu uv vo	1
+液	uu uv ye	1
+液	uu uv ye	1
+涳	uu uv ks	1
+涳	uu uv ks	1
+涴	uu uv wj	1
+涴	uu uv wj	1
+涵	uu uv hj	1
+涵	uu uv hj	1
+涶	uu uv iv	1
+涶	uu uv iv	1
+涸	uu uv gu	1
+涸	uu uv gu	1
+涹	uu uv ww	1
+涹	uu uv ww	1
+涺	uu uv ju	1
+涺	uu uv ju	1
+涻	uu uv ue	1
+涻	uu uv ue	1
+涽	uu uv hy	1
+涽	uu uv hy	1
+涾	uu uv da	1
+涾	uu uv da	1
+涿	uu uv iu	1
+涿	uu uv iu	1
+淁	uu uv qp	1
+淁	uu uv qp	1
+淂	uu uv ri yi cy	1
+淂	uu uv ri yi cy	1
+淂	uu uv de	1
+淂	uu uv de	1
+淃	uu uv jr	1
+淃	uu uv jr	1
+淄	uu uv zd	1
+淄	uu uv zd	1
+淅	uu uv xi	1
+淅	uu uv xi	1
+淆	uu uv yc	1
+淆	uu uv yc	1
+淇	uu uv qi	1
+淇	uu uv qi	1
+淈	uu uv qu	1
+淈	uu uv qu	1
+淉	uu uv go	1
+淉	uu uv go	1
+淊	uu uv xm	1
+淊	uu uv xm	1
+淋	uu uv lb	1
+淋	uu uv lb	1
+淌	uu uv uh	1
+淌	uu uv uh	1
+淍	uu uv vz	1
+淍	uu uv vz	1
+淎	uu uv fg	1
+淎	uu uv fg	1
+淏	uu uv hc	1
+淏	uu uv hc	1
+淐	uu uv ih	1
+淐	uu uv ih	1
+淑	uu uv uu	1
+淑	uu uv uu	1
+淔	uu uv vi	1
+淔	uu uv vi	1
+淕	uu uv lu	1
+淕	uu uv lu	1
+淖	uu uv vo	1
+淖	uu uv vo	1
+淗	uu uv ju	1
+淗	uu uv ju	1
+淘	uu uv tc	1
+淘	uu uv tc	1
+淛	uu uv vi	1
+淛	uu uv vi	1
+淜	uu uv pg	1
+淜	uu uv pg	1
+淝	uu uv fw	1
+淝	uu uv fw	1
+淞	uu uv ss	1
+淞	uu uv ss	1
+淟	uu uv dm	1
+淟	uu uv dm	1
+淠	uu uv bi	1
+淠	uu uv bi	1
+淡	uu uv yj	1
+淡	uu uv yj	1
+淢	uu uv ho	1
+淢	uu uv ho	1
+淣	uu uv er	1
+淣	uu uv er	1
+淤	uu uv yu	1
+淤	uu uv yu	1
+渌	uu uv lu	1
+渌	uu uv lu	1
+淦	uu uv jb	1
+淦	uu uv jb	1
+淧	uu uv mi	1
+淧	uu uv mi	1
+淩	uu uv lk	1
+淩	uu uv lk	1
+淫	uu uv vc rf	1
+淫	uu uv vc rf	1
+淬	uu uv zu	1
+淬	uu uv zu	1
+淭	uu hu mu	1
+淮	uu uv vv	1
+淮	uu uv vv	1
+淯	uu uv yu	1
+淯	uu uv yu	1
+淰	uu uv nm	1
+淰	uu uv nm	1
+深	uu uv uf	1
+深	uu uv uf	1
+淲	uu uv hu	1
+淲	uu uv hu	1
+淳	uu uv xl	1
+淳	uu uv xl	1
+淴	uu uv hu	1
+淴	uu uv hu	1
+渊	uu uv pp mi gy	1
+渊	uu uv pm yi pj	1
+混	uu uv ky	1
+混	uu uv ky	1
+清	uu uv qk	1
+清	uu uv qk	1
+淹	uu uv yj	1
+淹	uu uv yj	1
+添	uu uv tm	1
+添	uu uv tm	1
+淼	uu uv uv uv	1
+淾	uu jb uv	1
+淿	uu uv bo	1
+淿	uu uv bo	1
+渀	uu uv bf	1
+渀	uu uv bf	1
+渁	uu uv uv	1
+渁	uu uv uv	1
+渂	uu uv mb	1
+渂	uu uv mb	1
+渃	uu uv ro	1
+渃	uu uv ro	1
+渄	uu uv fw	1
+渄	uu uv fw	1
+清	uu uv qk	1
+清	uu uv qk	1
+渆	uu uv bk dc	1
+渆	uu uv bk dc	1
+渆	uu pk dc	1
+渆	uu pk dc	1
+渇	uu uv ri bc bi	1
+渇	uu uv ri bc bi	1
+渒	uu uv bw	1
+渒	uu uv bw	1
+渕	uu uv gr dc	1
+渕	uu uv gr dc	1
+渕	uu yi dc	1
+渕	uu yi dc	1
+渘	uu uv rz	1
+渘	uu uv rz	1
+渚	uu uv ve	1
+渚	uu uv ve	1
+减	uu bk xm	1
+减	uu bk xm	1
+渜	uu uv rr	1
+渜	uu uv rr	1
+渝	uu uv yu	1
+渝	uu uv yu	1
+渞	uu uv uz	1
+渞	uu uv uz	1
+渟	uu uv tk	1
+渟	uu uv tk	1
+渠	uu ju mu	1
+渡	uu uv du	1
+渡	uu uv du	1
+渣	uu uv ia	1
+渣	uu uv ia	1
+渤	uu uv bo	1
+渤	uu uv bo	1
+渥	uu uv wu	1
+渥	uu uv wu	1
+渧	uu uv di	1
+渧	uu uv di	1
+渨	uu uv ww	1
+渨	uu uv ww	1
+渪	uu uv yu	1
+渪	uu uv yu	1
+渫	uu uv ye	1
+渫	uu uv ye	1
+渭	uu uv ww	1
+渭	uu uv ww	1
+渮	uu uv he	1
+渮	uu uv he	1
+港	uu uv xl	1
+港	uu uv xl	1
+渰	uu uv yj	1
+渰	uu uv yj	1
+渱	uu uv hs	1
+渱	uu uv hs	1
+渲	uu uv xr	1
+渲	uu uv xr	1
+渳	uu uv mi	1
+渳	uu uv mi	1
+渴	uu uv he	1
+渴	uu uv he	1
+渵	uu uv mn	1
+渵	uu uv mn	1
+渶	uu uv yk	1
+渶	uu uv yk	1
+渷	uu uv yj	1
+渷	uu uv yj	1
+游	uu uv yz	1
+游	uu uv yz	1
+渹	uu uv hs	1
+渹	uu uv hs	1
+渺	uu uv mu uc	1
+渺	uu uv mu uc	1
+渻	uu uv ug	1
+渻	uu uv ug	1
+渼	uu uv mw	1
+渼	uu uv mw	1
+渽	uu uv zd	1
+渽	uu uv zd	1
+渿	uu uv nd	1
+渿	uu uv nd	1
+湀	uu uv gv	1
+湀	uu uv gv	1
+湁	uu uv ui	1
+湁	uu uv ui	1
+湂	uu uv ee	1
+湂	uu uv ee	1
+湃	uu uv bd	1
+湃	uu uv bd	1
+湄	uu uv mw	1
+湄	uu uv mw	1
+湅	uu uv jm	1
+湅	uu uv jm	1
+湆	uu uv yb	1
+湆	uu uv yb	1
+湇	uu uv li rz	1
+湇	uu uv li rz	1
+湇	uu uv li yt	1
+湇	uu uv li yt	1
+湈	uu uv mz	1
+湈	uu uv mz	1
+湉	uu uv tm	1
+湉	uu uv tm	1
+凑	uu bk zz	1
+凑	uu bk zz	1
+湌	uu uv ui	1
+湌	uu uv ui	1
+湍	uu uv dr	1
+湍	uu uv dr	1
+湍	uu uv uj er	1
+湍	uu uv uj er	1
+湎	uu uv mm	1
+湎	uu uv mm	1
+湐	uu uv bd	1
+湐	uu uv bd	1
+湑	uu uv xu	1
+湑	uu uv xu	1
+湒	uu uv qi	1
+湒	uu uv qi	1
+湓	uu uv pf	1
+湓	uu uv pf	1
+湔	uu uv qm	1
+湔	uu uv qm	1
+湕	uu uv jm	1
+湕	uu uv jm	1
+湖	uu uv hu	1
+湖	uu uv hu	1
+湗	uu uv fg	1
+湗	uu uv fg	1
+湘	uu uv xl	1
+湘	uu uv xl	1
+湙	uu uv yi	1
+湙	uu uv yi	1
+湚	uu uv yb	1
+湚	uu uv yb	1
+湛	uu uv uf	1
+湛	uu uv uf	1
+湜	uu uv ui	1
+湜	uu uv ui	1
+湝	uu uv jp	1
+湝	uu uv jp	1
+湟	uu uv hl	1
+湟	uu uv hl	1
+湠	uu uv tj	1
+湠	uu uv tj	1
+湡	uu uv yu	1
+湡	uu uv yu	1
+湢	uu uv fu	1
+湢	uu uv fu	1
+湣	uu uv hy	1
+湣	uu uv hy	1
+湤	uu uv ui	1
+湤	uu uv ui	1
+湥	uu uv tu	1
+湥	uu uv tu	1
+湦	uu uv xk	1
+湦	uu uv xk	1
+湨	uu uv ju	1
+湨	uu uv ju	1
+湩	uu uv vs	1
+湩	uu uv vs	1
+湫	uu uv qq	1
+湫	uu uv qq	1
+湬	uu qq uv	1
+湮	uu uv yb	1
+湮	uu uv yb	1
+湰	uu uv vi yi ug	1
+湰	uu uv vi yi ug	1
+湱	uu uv ho	1
+湱	uu uv ho	1
+湲	uu uv yr	1
+湲	uu uv yr	1
+湳	uu uv nj	1
+湳	uu uv nj	1
+湴	uu uv bk	1
+湴	uu uv bk	1
+湵	uu uv yz	1
+湵	uu uv yz	1
+湶	uu uv qr	1
+湶	uu uv qr	1
+湷	uu uv iy	1
+湷	uu uv iy	1
+湸	uu uv ll	1
+湸	uu uv ll	1
+湹	uu uv li	1
+湹	uu uv li	1
+湺	uu uv bc	1
+湺	uu uv bc	1
+湻	uu uv xl	1
+湻	uu uv xl	1
+湼	uu uv jq gs	1
+湼	uu uv jq gs	1
+湽	uu uv zd yi	1
+湽	uu uv zd yi	1
+满	uu uv cc ll	1
+满	uu uv cc ll	1
+满	uu cc ll	1
+溆	uu uv xu	1
+溆	uu uv xu	1
+溉	uu uv ji	1
+溉	uu uv ji	1
+溎	uu uv gv	1
+溎	uu uv gv	1
+溏	uu uv th	1
+溏	uu uv th	1
+源	uu uv yr	1
+源	uu uv yr	1
+溒	uu uv yr	1
+溒	uu uv yr	1
+溓	uu uv jm	1
+溓	uu uv jm	1
+溔	uu uv gc	1
+溔	uu uv gc	1
+溕	uu uv mg	1
+溕	uu uv mg	1
+溗	uu uv ig	1
+溗	uu uv ig	1
+溘	uu uv he	1
+溘	uu uv he	1
+溙	uu uv td	1
+溙	uu uv td	1
+溚	uu uv da	1
+溚	uu uv da	1
+溛	uu uv wa	1
+溛	uu uv wa	1
+溜	uu uv lq	1
+溜	uu uv lq	1
+溞	uu uv zc	1
+溞	uu uv zc	1
+溟	uu uv mk	1
+溟	uu uv mk	1
+溠	uu uv ia	1
+溠	uu uv ia	1
+溢	uu uv yi	1
+溢	uu uv yi	1
+溥	uu uv fu	1
+溥	uu uv fu	1
+溦	uu uv uj wu pu	1
+溦	uu uv uj wu pu	1
+溧	uu uv li	1
+溧	uu uv li	1
+溨	uu uv zd	1
+溨	uu uv zd	1
+溪	uu uv xi	1
+溪	uu uv xi	1
+温	uu uv wf	1
+温	uu uv wf	1
+溬	uu uv ql	1
+溬	uu uv ql	1
+溭	uu uv ce	1
+溭	uu uv ce	1
+溯	uu uv uo	1
+溯	uu uv uo	1
+溱	uu uv qb	1
+溱	uu uv qb	1
+溲	uu uv sz	1
+溲	uu uv sz	1
+溴	uu uv iz	1
+溴	uu uv iz	1
+溵	uu uv yb	1
+溵	uu uv yb	1
+溶	uu uv rs	1
+溶	uu uv rs	1
+溷	uu uv hy	1
+溷	uu uv hy	1
+溸	uu uv su	1
+溸	uu uv su	1
+溹	uu uv so	1
+溹	uu uv so	1
+溺	uu uv ro	1
+溺	uu uv ro	1
+溻	uu uv ri yu	1
+溻	uu uv ri yu	1
+湿	uu uv xm	1
+湿	uu uv xm	1
+溽	uu uv ru	1
+溽	uu uv ru	1
+溾	uu uv gv	1
+溾	uu uv gv	1
+溿	uu uv pj	1
+溿	uu uv pj	1
+滀	uu uv iu	1
+滀	uu uv iu	1
+滁	uu uv iu	1
+滁	uu uv iu	1
+滂	uu uv ph	1
+滂	uu uv ph	1
+滃	uu uv wg	1
+滃	uu uv wg	1
+滆	uu uv ge	1
+滆	uu uv ge	1
+滇	uu uv vf	1
+滇	uu uv vf	1
+滈	uu uv gc	1
+滈	uu uv gc	1
+滉	uu uv hl	1
+滉	uu uv hl	1
+滋	uu uv zi	1
+滋	uu uv zi	1
+滍	uu uv ii	1
+滍	uu uv ii	1
+滏	uu uv fu	1
+滏	uu uv fu	1
+滑	uu uv gu	1
+滑	uu uv gu	1
+滒	uu uv ge	1
+滒	uu uv ge	1
+滓	uu uv zd	1
+滓	uu uv zd	1
+滔	uu uv yc	1
+滔	uu uv yc	1
+滕	uu uv ba fu uv	1
+滕	uu uv ba fu uv	1
+滕	uu uv jr uv	1
+滕	uu uv jr uv	1
+滖	uu uv uk	1
+滖	uu uv uk	1
+滘	uu uv mi ba gs kz	1
+滘	uu uv mi ba gs kz	1
+滘	uu uv wh gs kz	1
+滘	uu uv wh gs kz	1
+滛	uu uv vc fz	1
+滛	uu uv vc fz	1
+滜	uu uv gc	1
+滜	uu uv gc	1
+滣	uu uv iy	1
+滣	uu uv iy	1
+滫	uu uv xq	1
+滫	uu uv xq	1
+滮	uu uv bn	1
+滮	uu uv bn	1
+滞	uu uv dd	1
+滞	uu uv dd	1
+滰	uu uv jk	1
+滰	uu uv jk	1
+滱	uu uv kz	1
+滱	uu uv kz	1
+渗	uu uv cj	1
+渗	uu uv cj	1
+滳	uu uv uh	1
+滳	uu uv uh	1
+滴	uu uv di	1
+滴	uu uv di	1
+滵	uu uv mi	1
+滵	uu uv mi	1
+滶	uu uv ao	1
+滶	uu uv ao	1
+滹	uu uv hu	1
+滹	uu uv hu	1
+滺	uu uv yz	1
+滺	uu uv yz	1
+滼	uu uv fj	1
+滼	uu uv fj	1
+滽	uu uv ys	1
+滽	uu uv ys	1
+滚	uu uv gy	1
+滚	uu uv gy	1
+满	uu uv cc ll	1
+满	uu uv cc ll	1
+漀	uu qk uv	1
+渔	uu uv yu	1
+渔	uu uv yu	1
+漂	uu uv pn	1
+漂	uu uv pn	1
+漃	uu uv ji	1
+漃	uu uv ji	1
+漄	uu uv ya	1
+漄	uu uv ya	1
+漅	uu uv ic	1
+漅	uu uv ic	1
+漆	uu uv qi	1
+漆	uu uv qi	1
+漇	uu uv xi	1
+漇	uu uv xi	1
+漈	uu uv ji	1
+漈	uu uv ji	1
+漉	uu uv lu	1
+漉	uu uv lu	1
+溇	uu uv lz	1
+溇	uu uv lz	1
+漋	uu uv ls	1
+漋	uu uv ls	1
+漌	uu uv jb	1
+漌	uu uv jb	1
+漎	uu uv cs	1
+漎	uu uv cs	1
+漏	uu uv lz	1
+漏	uu uv lz	1
+溉	uu uv ji	1
+溉	uu uv ji	1
+漓	uu uv li	1
+漓	uu uv li	1
+演	uu uv yb	1
+演	uu uv yb	1
+漕	uu uv cc	1
+漕	uu uv cc	1
+漖	uu uv jn	1
+漖	uu uv jn	1
+漗	uu uv cs	1
+漗	uu uv cs	1
+漘	uu uv iy	1
+漘	uu uv iy	1
+漛	uu uv ba fu uv	1
+漛	uu uv ba fu uv	1
+漛	uu uv jr uv	1
+漛	uu uv jr uv	1
+漜	uu uv ye	1
+漜	uu uv ye	1
+漝	uu uv xi	1
+漝	uu uv xi	1
+漟	uu uv th	1
+漟	uu uv th	1
+漠	uu uv mo	1
+漠	uu uv mo	1
+漤	uu uv lj	1
+漤	uu uv lj	1
+漥	uu uv xt gv	1
+漥	uu uv xt gv	1
+漦	uu ww pu ih uv	1
+漧	uu uv qm	1
+漧	uu uv qm	1
+漨	uu uv fg	1
+漨	uu uv fg	1
+漩	uu uv xr	1
+漩	uu uv xr	1
+漪	uu uv qr qi	1
+漪	uu uv qr qi	1
+漫	uu uv mj	1
+漫	uu uv mj	1
+渍	uu uv ze	1
+渍	uu uv ze	1
+漭	uu uv mh	1
+漭	uu uv mh	1
+漮	uu uv kh	1
+漮	uu uv kh	1
+漯	uu uv lw	1
+漯	uu uv lw	1
+漰	uu uv bg	1
+漰	uu uv bg	1
+漱	uu uv uo	1
+漱	uu uv uo	1
+漳	uu uv vh	1
+漳	uu uv vh	1
+漴	uu uv is	1
+漴	uu uv is	1
+漵	uu uv xu	1
+漵	uu uv xu	1
+漶	uu uv hr	1
+漶	uu uv hr	1
+漷	uu uv go	1
+漷	uu uv go	1
+渐	uu uv vj	1
+渐	uu uv vj	1
+漹	uu uv yj	1
+漹	uu uv yj	1
+漺	uu uv ul	1
+漺	uu uv ul	1
+漻	uu uv lq	1
+漻	uu uv lq	1
+漼	uu uv cv	1
+漼	uu uv cv	1
+漽	uu uv xi	1
+漽	uu uv xi	1
+漾	uu uv yh	1
+漾	uu uv yh	1
+潀	uu uv vs	1
+潀	uu uv vs	1
+颍	uu bi uv ye	1
+潂	uu uv uj bk	1
+潂	uu uv uj bk	1
+潃	uu uv ii pu rz	1
+潃	uu uv ii pu rz	1
+潃	uu uv ii pu yt	1
+潃	uu uv ii pu yt	1
+潄	uu uv ii	1
+潄	uu uv ii	1
+灌	uu uv gr	1
+灌	uu uv gr	1
+潊	uu uv xu	1
+潊	uu uv xu	1
+潌	uu uv vi	1
+潌	uu uv vi	1
+潎	uu uv bi	1
+潎	uu uv bi	1
+潏	uu uv yu	1
+潏	uu uv yu	1
+潐	uu uv jn	1
+潐	uu uv jn	1
+潒	uu uv xl	1
+潒	uu uv xl	1
+潓	uu uv hv	1
+潓	uu uv hv	1
+潖	uu uv pa	1
+潖	uu uv pa	1
+潗	uu uv ji	1
+潗	uu uv ji	1
+潘	uu uv fj	1
+潘	uu uv fj	1
+潜	uu uv ti	1
+潜	uu uv ti	1
+潝	uu uv xi	1
+潝	uu uv xi	1
+潞	uu uv lu	1
+潞	uu uv lu	1
+潟	uu uv jq bc ho	1
+潟	uu uv jq bc bn	1
+潠	uu uv xy	1
+潠	uu uv xy	1
+潡	uu uv dy	1
+潡	uu uv dy	1
+潢	uu uv hl	1
+潢	uu uv hl	1
+潥	uu uv su	1
+潥	uu uv su	1
+潦	uu uv ln	1
+潦	uu uv ln	1
+潧	uu uv cg	1
+潧	uu uv cg	1
+潨	uu uv vs	1
+潨	uu uv vs	1
+潩	uu uv yi	1
+潩	uu uv yi	1
+潪	uu uv vi	1
+潪	uu uv vi	1
+潫	uu uv jr	1
+潫	uu uv jr	1
+潭	uu uv tj	1
+潭	uu uv tj	1
+潮	uu uv ic	1
+潮	uu uv ic	1
+溃	uu uv gv	1
+溃	uu uv gv	1
+潲	uu uv uc	1
+潲	uu uv uc	1
+潳	uu uv tu	1
+潳	uu uv tu	1
+潵	uu uv sj	1
+潵	uu uv sj	1
+潶	uu uv hw	1
+潶	uu uv hw	1
+滗	uu uv bi	1
+滗	uu uv bi	1
+潸	uu uv mu mu yt	1
+潸	uu uv mu mu yt	1
+潹	uu uv sf	1
+潹	uu uv sf	1
+潺	uu uv cj	1
+潺	uu uv cj	1
+潻	uu uv uu	1
+潻	uu uv uu	1
+潼	uu uv ts	1
+潼	uu uv ts	1
+潽	uu uv pu	1
+潽	uu uv pu	1
+潾	uu uv lb	1
+潾	uu uv lb	1
+澁	uu uv se	1
+澁	uu uv se	1
+澂	uu uv uj yi wh pu	1
+澂	uu uv ii uj yi wh pu vg	1
+澄	uu uv dg	1
+澄	uu uv dg	1
+澈	uu uv yu pu	1
+澈	uu uv yu pu	1
+澉	uu uv gj	1
+澉	uu uv gj	1
+澊	uu uv zy	1
+澊	uu uv zy	1
+澋	uu uv jk	1
+澋	uu uv jk	1
+澌	uu uv si	1
+澌	uu uv si	1
+澍	uu uv uu	1
+澍	uu uv uu	1
+澎	uu uv pg	1
+澎	uu uv pg	1
+澏	uu uv np	1
+澏	uu uv np	1
+澑	uu uv lq	1
+澑	uu uv lq	1
+澓	uu uv fu	1
+澓	uu uv fu	1
+澔	uu uv hc	1
+澔	uu uv hc	1
+澘	uu uv lb ri	1
+澘	uu uv lb ri	1
+澙	uu uv xi	1
+澙	uu uv xi	1
+澞	uu uv yu	1
+澞	uu uv yu	1
+渑	uu uv mb	1
+渑	uu uv mb	1
+澡	uu uv pb mu	1
+澡	uu uv pb mu	1
+澡	uu uv zc	1
+澣	uu uv gj	1
+澣	uu uv gj	1
+澥	uu uv jp	1
+澥	uu uv jp	1
+滪	uu uv yu	1
+滪	uu uv yu	1
+澧	uu uv li	1
+澧	uu uv li	1
+澨	uu uv ui	1
+澨	uu uv ui	1
+澪	uu uv lk	1
+澪	uu uv lk	1
+澭	uu uv ys	1
+澭	uu uv ys	1
+澯	uu uv cj	1
+澯	uu uv cj	1
+淀	uu uv dk	1
+淀	uu uv dk	1
+澳	uu uv ao	1
+澳	uu uv ao	1
+澴	uu uv qs	1
+澴	uu uv qs	1
+澵	uu uv xb	1
+澵	uu uv xb	1
+澶	uu uv dj	1
+澶	uu uv dj	1
+澷	uu uv yt wh fh	1
+澷	uu uv yt wh fh	1
+澸	uu uv gj	1
+澸	uu uv gj	1
+澹	uu uv vj	1
+澹	uu uv vj	1
+澺	uu uv yi	1
+澺	uu uv yi	1
+澻	uu uv sv	1
+澻	uu uv sv	1
+澼	uu uv pi	1
+澼	uu uv pi	1
+澽	uu uv ju	1
+澽	uu uv ju	1
+澿	uu uv jb	1
+澿	uu uv jb	1
+激	uu uv jn	1
+激	uu uv jn	1
+濂	uu uv lm	1
+濂	uu uv lm	1
+濅	uu uv mm vz yz	1
+濅	uu uv mm vz yz	1
+濈	uu uv ji	1
+濈	uu uv ji	1
+濉	uu uv sv	1
+濉	uu uv sv	1
+濋	uu uv iu	1
+濋	uu uv iu	1
+濌	uu is ta	1
+濍	uu uv cs	1
+濍	uu uv cs	1
+濎	uu uv dk	1
+濎	uu uv dk	1
+濐	uu uv uu	1
+濐	uu uv uu	1
+濓	uu uv lm	1
+濓	uu uv lm	1
+湿	uu uv xm	1
+湿	uu uv xm	1
+濖	uu uv uu	1
+濖	uu uv uu	1
+濗	uu uv mu	1
+濗	uu uv mu	1
+溁	uu uv rs	1
+溁	uu uv rs	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+濝	uu uv qi	1
+濝	uu uv qi	1
+濞	uu uv bi	1
+濞	uu uv bi	1
+濠	uu uv hc	1
+濠	uu uv hc	1
+濡	uu uv xu	1
+濡	uu uv xu	1
+濢	uu uv cv	1
+濢	uu uv cv	1
+濣	uu uv wo	1
+濣	uu uv wo	1
+濥	uu uv yb	1
+濥	uu uv yb	1
+濨	uu uv ci	1
+濨	uu uv ci	1
+濩	uu uv ho	1
+濩	uu uv ho	1
+濪	uu uv qk	1
+濪	uu uv qk	1
+滥	uu uv jm	1
+滥	uu uv jm	1
+濬	uu uv rv	1
+濬	uu uv rv	1
+濭	uu uv gd	1
+濭	uu uv gd	1
+濯	uu uv di	1
+濯	uu uv di	1
+潍	uu uv ww	1
+潍	uu uv ww	1
+滨	uu uv bb	1
+滨	uu uv bb	1
+濲	uu uv gu	1
+濲	uu uv gu	1
+潜	uu uv ti	1
+潜	uu uv ti	1
+溅	uu uv jm	1
+溅	uu uv jm	1
+滤	uu uv lv	1
+滤	uu uv lv	1
+瀁	uu uv yh	1
+瀁	uu uv yh	1
+滢	uu uv yk	1
+滢	uu uv yk	1
+渎	uu uv md	1
+渎	uu uv md	1
+渖	uu uv uf	1
+渖	uu uv uf	1
+瀌	uu uv pc	1
+瀌	uu uv pc	1
+瀍	uu uv ij	1
+瀍	uu uv ij	1
+瀎	uu uv mp	1
+瀎	uu uv mp	1
+瀐	uu uv xm	1
+瀐	uu uv xm	1
+瀑	uu uv bc	1
+瀑	uu uv bc	1
+瀓	uu uv vg	1
+瀓	uu uv vg	1
+濒	uu uv pb	1
+濒	uu uv pb	1
+瀖	uu uv ho	1
+瀖	uu uv ho	1
+瀚	uu uv hj	1
+瀚	uu uv hj	1
+瀛	uu uv yk	1
+瀛	uu uv yk	1
+瀜	uu uv rs	1
+瀜	uu uv rs	1
+瀞	uu uv jk	1
+瀞	uu uv jk	1
+潇	uu uv su	1
+潇	uu uv su	1
+潆	uu uv yk	1
+潆	uu uv yk	1
+瀣	uu uv xp	1
+瀣	uu uv xp	1
+瀤	uu uv hk	1
+瀤	uu uv hk	1
+瀥	uu uv he	1
+瀥	uu uv he	1
+潴	uu uv vu	1
+潴	uu uv vu	1
+濑	uu uv ld	1
+濑	uu uv ld	1
+瀪	uu mb qr	1
+瀫	uu uv hu	1
+瀫	uu uv hu	1
+瀱	uu uv ji	1
+瀱	uu uv ji	1
+潋	uu uv lm	1
+潋	uu uv lm	1
+瀳	uu uv jm	1
+瀳	uu uv jm	1
+瀵	uu uv ff	1
+瀵	uu uv ff	1
+瀷	uu uv yi	1
+瀷	uu uv yi	1
+瀸	uu uv xm	1
+瀸	uu uv xm	1
+瀹	uu uv yt	1
+瀹	uu uv yt	1
+瀺	uu uv ij	1
+瀺	uu uv ij	1
+瀻	uu uv dd	1
+瀻	uu uv dd	1
+瀼	uu uv xl	1
+瀼	uu uv xl	1
+瀽	uu uv jm	1
+瀽	uu uv jm	1
+澜	uu uv lj	1
+澜	uu uv lj	1
+瀿	uu uv fj	1
+瀿	uu uv fj	1
+灀	uu uv ul	1
+灀	uu uv ul	1
+灂	uu uv jt	1
+灂	uu uv jt	1
+灃	uu uv fg	1
+灃	uu uv fg	1
+滠	uu uv np	1
+滠	uu uv np	1
+灅	uu uv lw	1
+灅	uu uv lw	1
+灈	uu uv qu	1
+灈	uu uv qu	1
+灉	uu uv ys	1
+灉	uu uv ys	1
+灊	uu uv qb	1
+灊	uu uv qb	1
+灌	uu uv gr	1
+灌	uu uv gr	1
+滟	uu uv yj	1
+滟	uu uv yj	1
+滟	uu uv yj	1
+滟	uu uv yj	1
+灖	uu uv mi	1
+灖	uu uv mi	1
+灗	uu uv uj	1
+灗	uu uv uj	1
+滩	uu uv nj	1
+滩	uu uv nj	1
+灏	uu uv hc	1
+灏	uu uv hc	1
+灞	uu uv ba	1
+灞	uu uv ba	1
+灢	uu uv nh	1
+灢	uu uv nh	1
+湾	uu uv wj	1
+湾	uu uv wj	1
+滦	uu uv lr	1
+滦	uu uv lr	1
+灥	uu qr qr qr	1
+滟	uu uv yj	1
+滟	uu uv yj	1
+灩	uu uv yj	1
+灩	uu uv yj	1
+烯	uu ho xi	1
+烰	uu ho fu	1
+烱	uu ho js	1
+烲	uu ve ho	1
+烳	uu ho fu	1
+烷	uu ho wj	1
+烸	uu ho mw	1
+烹	uu hg ho	1
+烹	uu hg bn	1
+烺	uu ho ll	1
+烼	uu ho ui	1
+烽	uu ho fg	1
+烾	uu yj tu	1
+烿	uu ho ts	1
+焀	uu ho gu	1
+焂	uu yz ho	1
+焃	uu ho ii	1
+焄	uu jy ho	1
+焄	uu jy bn	1
+焅	uu ho gc	1
+焆	uu ho yr	1
+焇	uu ho xn	1
+焈	uu hu yi	1
+焈	uu hu yi	1
+焉	uu vg yi bc ho	1
+焉	uu vg yi bc bn	1
+焊	uu ho hj	1
+焌	uu ho qy	1
+焍	uu ho di	1
+焎	uu ve ho	1
+焎	uu ve bn	1
+焏	uu le kz yz ho	1
+焏	uu le kz yz bn	1
+焐	uu ho wu	1
+焓	uu ho hj	1
+焰	uu ho xm	1
+焗	uu ho ju	1
+焙	uu ho pz	1
+焚	uu lb ho	1
+焜	uu ho ky	1
+焝	uu ho hy	1
+焞	uu ho xl	1
+焟	uu ho xi	1
+焠	uu ho zu	1
+焢	uu ho ks	1
+焣	uu qu ho	1
+焣	uu qu bn	1
+焤	uu fu ho	1
+焥	uu ho wj	1
+焦	uu vv ho	1
+焦	uu vv bn	1
+焧	uu ho cs	1
+焨	uu ho mc	1
+焩	uu ho pg	1
+焪	uu ho qs	1
+焫	uu ho rv	1
+焬	uu ho yi	1
+焮	uu ho xb	1
+焯	uu ho vo	1
+焰	uu ho xm	1
+焱	uu ho ho ho	1
+焲	uu ho ye	1
+焳	uu ho vv	1
+焴	uu ho yu	1
+焵	uu ho gh	1
+然	uu rz qr ho	1
+然	uu yt qr bn	1
+焷	uu ho bw	1
+焸	uu ri ri ho	1
+焺	uu ho ug	1
+焻	uu ho ih	1
+煁	uu ho uf	1
+煂	uu ho ge	1
+煃	uu ho kv	1
+煄	uu ho vs	1
+煅	uu ho dr	1
+煆	uu ho jx	1
+煊	uu ho xr	1
+煋	uu ho xk	1
+煌	uu ho hl	1
+煍	uu ho qq	1
+煎	uu qm ho	1
+煎	uu qm bn	1
+煏	uu ho fu	1
+煐	uu ho yk	1
+煑	uu ve ho	1
+煓	uu ho dr	1
+煔	uu yj vj	1
+煕	uu yi ho	1
+煕	uu yi bn	1
+煖	uu ho yr	1
+煗	uu ho rr	1
+煘	uu ho xm	1
+煚	uu ju ho	1
+煛	uu mu mu ho	1
+煜	uu ho ri li	1
+煝	uu ho mw	1
+煞	uu iu pu ho	1
+煞	uu iu pu bn	1
+煟	uu ho ww	1
+煠	uu ho ye	1
+煡	uu ho jm	1
+煣	uu ho rz	1
+煤	uu ho mz	1
+焕	uu ho hr	1
+煦	uu xu ho	1
+煦	uu xu bn	1
+照	uu ri vc ho	1
+照	uu ri vc bn	1
+煨	uu ho ww	1
+煪	uu ho qq	1
+煫	uu ho ba ui	1
+煭	uu ir lp ho	1
+煭	uu ir lp bn	1
+煮	uu ve ho	1
+煮	uu ve bn	1
+煰	uu ho pb	1
+煲	uu bc ho	1
+煳	uu ho hu	1
+煵	uu ho nj	1
+煸	uu ho bm	1
+煹	uu ho gz	1
+煺	uu ho tv	1
+煻	uu ho th	1
+煼	uu ho iu	1
+煽	uu ho uj	1
+煾	uu ho en	1
+煿	uu ho fu	1
+熀	uu ho hl	1
+熁	uu ho xp	1
+熄	uu ho xi	1
+煴	uu ho wf	1
+熆	uu ho he	1
+熇	uu ho gc	1
+熈	uu pp xi	1
+熊	uu ng ho	1
+熊	uu ng bn	1
+熋	uu ng ho	1
+熎	uu vc fz	1
+熎	uu vc fz	1
+熏	uu pp yi hw	1
+熏	uu pp yi li ba ho	1
+熏	uu pp yi li ba bn	1
+熐	uu ho mk	1
+熑	uu ho jm	1
+熓	uu ho wu	1
+熔	uu ho rs	1
+熘	uu ho lq	1
+熙	uu yi ho	1
+熙	uu yi bn	1
+熛	uu ho pn	1
+熜	uu ho cs	1
+熝	uu ho lu	1
+熞	uu ho jm	1
+熟	uu uu ho	1
+熟	uu uu bn	1
+熠	uu ho xi	1
+熢	uu ho fg	1
+熣	uu ho cv	1
+熤	uu ho yi	1
+熥	uu ho ts	1
+熦	uu ho qt	1
+熨	uu ww ho	1
+熩	uu ho hu	1
+熪	uu ho yi	1
+熫	uu ho uu	1
+熬	uu ao ho	1
+熭	uu hv ho	1
+熮	uu ho lq	1
+熯	uu ho ge da	1
+颎	uu bi ho ye	1
+熳	uu ho mj	1
+熵	uu ho uh	1
+熶	uu ho zv	1
+熷	uu ho cg	1
+熸	uu ho ji ji ri	1
+熸	uu ho cj	1
+熹	uu xi ho	1
+熹	uu xi bn	1
+熺	uu ho xi	1
+熻	uu ho xi	1
+熼	uu ho yi	1
+熿	uu ho hl	1
+燂	uu ho tj	1
+燃	uu ho rj	1
+燄	uu xm yj	1
+燅	uu yi yj	1
+燇	uu ho zy	1
+燊	uu yj mu	1
+燊	uu ho ho ho mu	1
+燋	uu ho jn	1
+燍	uu ho si	1
+燎	uu ho ln	1
+燏	uu ho yu	1
+燐	uu ho lb	1
+燑	uu ho ts	1
+燓	uu fj ho	1
+燓	uu mu yc mu ho	1
+燔	uu ho fj	1
+燕	uu nm bw kz ho	1
+燕	uu nm bw kz bn	1
+燚	uu ho ho ho ho	1
+燛	uu gl ho	1
+焖	uu ho mf	1
+营	uu cc mi lv	1
+燷	uu ho bk	1
+燥	uu ho pb mu	1
+燥	uu ho zc	1
+燧	uu ho sv	1
+燩	uu ho jn	1
+燪	uu ho cs	1
+燫	uu ho lm	1
+毀	uu jq tu uu	1
+燮	uu ho yj ho yz	1
+燯	uu ho lk	1
+燱	uu ho yi	1
+燳	uu ho vc	1
+燸	uu ho xu	1
+燹	uu ui ui ho	1
+燺	uu ho gc	1
+燻	uu ho xy	1
+燽	uu ho uz	1
+焘	uu uz ho	1
+焘	uu uz bn	1
+燿	uu ho di	1
+爀	uu ho he	1
+爂	uu jq ts mi ho	1
+爅	uu ho mo	1
+爆	uu ho bc	1
+爊	uu ho pc	1
+爋	uu ho xy	1
+爑	uu ho jn	1
+爒	uu vi ln	1
+爔	uu ho xi	1
+爕	uu ho yj ho ho	1
+爗	uu ho ye	1
+爙	uu ho xl	1
+爚	uu ho ho yt	1
+爝	uu ho jt	1
+爞	uu ho is	1
+爞	uu ho is is is	1
+爟	uu ho gr	1
+爡	uu ho id	1
+爢	uu mi ho	1
+爢	uu mi bn	1
+爨	uu jq ts mi lb da ho	1
+爴	uu go vc	1
+爵	uu vc yu vg vg	1
+爵	uu vc yu vg	1
+爽	uu da yc yc	1
+爽	uu da yi yi yi yi	1
+牃	uu pj ye	1
+牅	uu pj ys	1
+墙	uu tu se	1
+牌	uu pm bw	1
+牎	uu pm cs	1
+牏	uu pm yu	1
+牐	uu pm ia	1
+牑	uu pm bm	1
+牒	uu pm ye	1
+牓	uu pm ph	1
+牔	uu pm fu	1
+牕	uu pm cs	1
+牖	uu pm hu fu	1
+牍	uu pm md	1
+牚	uu uh ya	1
+牻	uu nq mh	1
+牻	uu nq mh	1
+牾	uu nq wu	1
+牾	uu nq wu	1
+牿	uu nq gc	1
+牿	uu nq gc	1
+犀	uu ui er gy er nq	1
+犁	uu li nq	1
+犂	uu he pp dc nq	1
+犃	uu nq pz	1
+犃	uu nq pz	1
+犄	uu nq qi	1
+犄	uu nq qi	1
+犆	uu nq vi	1
+犆	uu nq vi	1
+犇	uu nq nq nq	1
+犈	uu nq jr	1
+犈	uu nq jr	1
+犉	uu nq xl	1
+犉	uu nq xl	1
+犋	uu nq ju	1
+犋	uu nq ju	1
+犌	uu nq jx	1
+犌	uu nq jx	1
+犍	uu nq jm	1
+犍	uu nq jm	1
+犎	uu fg nq	1
+犏	uu nq bm	1
+犏	uu nq bm	1
+犐	uu nq ke	1
+犐	uu nq ke	1
+犑	uu nq ju	1
+犑	uu nq ju	1
+犒	uu nq gc	1
+犒	uu nq gc	1
+犓	uu nq iu	1
+犓	uu nq iu	1
+犕	uu nq rf cc ih ys	1
+犕	uu nq cc ih ys	1
+犕	uu nq jk ih ys	1
+犗	uu nq hd	1
+犗	uu nq hd	1
+犘	uu ma nq	1
+犚	uu ww nq	1
+犛	uu ww pu ih nq	1
+犛	uu ww pu ih nq	1
+犜	uu nq dy	1
+犜	uu nq dy	1
+犝	uu nq ts	1
+犝	uu nq ts	1
+犟	uu ql nq	1
+犊	uu nq md	1
+犊	uu nq md	1
+犣	uu nq lp	1
+犣	uu nq lp	1
+犥	uu nq pc	1
+犥	uu nq pc	1
+犦	uu nq bc	1
+犦	uu nq bc	1
+犨	uu iz nq	1
+犨	uu vv vv nq	1
+犩	uu ww nq	1
+犪	uu nq kv	1
+犪	uu nq kv	1
+犫	uu iz nq	1
+犫	uu vv yj vv nq	1
+猄	uu qr jk	1
+猄	uu qr jk	1
+猅	uu qr fw	1
+猅	uu qr fw	1
+猆	uu fw qr	1
+猇	uu qr hu	1
+猇	uu qr hu	1
+猈	uu qr bw	1
+猈	uu qr bw	1
+猉	uu qr qi	1
+猉	uu qr qi	1
+猊	uu qr er	1
+猊	uu qr er	1
+猋	uu qr qr qr	1
+猏	uu qr jm	1
+猏	uu qr jm	1
+猑	uu qr ky	1
+猑	uu qr ky	1
+猒	uu mc qr	1
+猒	uu ri rz qr	1
+猒	uu ri yt qr	1
+猓	uu qr go	1
+猓	uu qr go	1
+猔	uu qr zs	1
+猔	uu qr zs	1
+猖	uu qr ih	1
+猖	uu qr ih	1
+猗	uu qr qi	1
+猗	uu qr qi	1
+猘	uu qr vi	1
+猘	uu qr vi	1
+猚	uu qr vv	1
+猚	uu qr vv	1
+猛	uu qr mg	1
+猛	uu qr mg	1
+猜	uu qr qk	1
+猜	uu qr qk	1
+猝	uu qr zu	1
+猝	uu qr zu	1
+猞	uu qr ue	1
+猞	uu qr ue	1
+猢	uu qr hu	1
+猢	uu qr hu	1
+猣	uu qr xs ba xi	1
+猣	uu qr xs ba xi	1
+猣	uu qr xs ba vi	1
+猣	uu qr xs ba vi	1
+猤	uu qr gv	1
+猤	uu qr gv	1
+猥	uu qr ww	1
+猥	uu qr ww	1
+猨	uu qr yr	1
+猨	uu qr yr	1
+猩	uu qr xk	1
+猩	uu qr xk	1
+猭	uu qr tr	1
+猭	uu qr tr	1
+猯	uu qr dr	1
+猯	uu qr dr	1
+猰	uu qr qi	1
+猰	uu qr qi	1
+猱	uu qr rz	1
+猱	uu qr rz	1
+猲	uu qr ge	1
+猲	uu qr ge	1
+猳	uu qr jx	1
+猳	uu qr jx	1
+猴	uu qr hz	1
+猴	uu qr hz	1
+猵	uu qr bm	1
+猵	uu qr bm	1
+猷	uu qq qr	1
+猸	uu qr mw	1
+猸	uu qr mw	1
+猹	uu qr ia	1
+猹	uu qr ia	1
+猼	uu qr fu	1
+猼	uu qr fu	1
+猽	uu qr mk	1
+猽	uu qr mk	1
+猾	uu qr gu	1
+猾	uu qr gu	1
+猿	uu qr yr	1
+猿	uu qr yr	1
+獀	uu qr sz	1
+獀	uu qr sz	1
+獂	uu qr yr	1
+獂	uu qr yr	1
+獆	uu qr gc	1
+獆	uu qr gc	1
+獈	uu qr yi	1
+獈	uu qr yi	1
+獉	uu qr qb	1
+獉	uu qr qb	1
+獋	uu qr gc	1
+獋	uu qr gc	1
+獌	uu qr mj	1
+獌	uu qr mj	1
+獍	uu qr jk	1
+獍	uu qr jk	1
+獐	uu qr vh	1
+獐	uu qr vh	1
+獒	uu ao qr	1
+獓	uu qr ao	1
+獓	uu qr ao	1
+獔	uu qr gc	1
+獔	uu qr gc	1
+獕	uu qr cv	1
+獕	uu qr cv	1
+獗	uu qr jt	1
+獗	uu qr jt	1
+獘	uu bi qr	1
+獙	uu qr bi	1
+獙	uu qr bi	1
+獚	uu qr hl	1
+獚	uu 	1
+獚	uu qr hl	1
+獛	uu qr pu	1
+獛	uu qr pu	1
+獜	uu qr lb	1
+獜	uu qr lb	1
+獝	uu qr yu	1
+獝	uu qr yu	1
+獞	uu qr ts	1
+獞	uu qr ts	1
+獠	uu qr ln	1
+獠	uu qr ln	1
+獡	uu qr xi	1
+獡	uu qr xi	1
+獥	uu qr jn	1
+獥	uu qr jn	1
+獦	uu qr ge	1
+獦	uu qr ge	1
+獧	uu qr qs	1
+獧	uu qr qs	1
+獬	uu qr jp	1
+獬	uu qr jp	1
+獯	uu qr xy	1
+獯	uu qr xy	1
+獳	uu qr xu	1
+獳	uu qr xu	1
+獴	uu qr mg	1
+獴	uu qr mg	1
+猎	uu qr xi	1
+猎	uu qr xi	1
+兽	uu ba tm yi kz	1
+獭	uu qr ld	1
+獭	uu qr ld	1
+献	uu nj qr	1
+猕	uu qr mi	1
+獽	uu qr xl	1
+獽	uu qr xl	1
+獿	uu qr nc	1
+獿	uu qr nc	1
+猡	uu qr lo	1
+猡	uu qr lo	1
+玃	uu qr jt	1
+玃	uu qr jt	1
+率	uu xr bk vu vu ui	1
+率	uu xr bk vu vu ui	1
+玈	uu xr pp yi ui	1
+珳	uu yu wf	1
+珳	uu wh wf	1
+珴	uu yu wo	1
+珴	uu wh wo	1
+珵	uu yu ig	1
+珵	uu wh ig	1
+珶	uu yu di	1
+珶	uu wh di	1
+珷	uu yu wu	1
+珷	uu wh wu	1
+珸	uu yu wu	1
+珸	uu wh wu	1
+珺	uu yu jy	1
+珺	uu wh jy	1
+珻	uu yu mw	1
+珻	uu wh mw	1
+珿	uu yu zu	1
+珿	uu wh zu	1
+琀	uu yu hj	1
+琀	uu wh hj	1
+琁	uu yu pp yi pi	1
+琁	uu wh pp yi pi	1
+琂	uu yu yj	1
+琂	uu wh yj	1
+球	uu yu qq	1
+球	uu wh qq	1
+琄	uu yu yr	1
+琄	uu wh yr	1
+理	uu yu li	1
+理	uu wh li	1
+琇	uu yu xq	1
+琇	uu wh xq	1
+琈	uu yu fu	1
+琈	uu wh fu	1
+琉	uu yu tz si ir	1
+琉	uu wh tz si ir	1
+琉	uu wh hl	1
+琉	uu yu lq	1
+琉	uu wh lq	1
+琋	uu yu xi	1
+琋	uu wh xi	1
+琌	uu yu cf	1
+琌	uu wh cf	1
+琍	uu yu li	1
+琍	uu wh li	1
+琓	uu yu wj	1
+琓	uu wh wj	1
+琔	uu yu dk	1
+琔	uu wh dk	1
+琕	uu yu bw	1
+琕	uu wh bw	1
+琗	uu yu zu	1
+琗	uu wh zu	1
+琘	uu yu hy	1
+琘	uu wh hy	1
+琙	uu yu ho	1
+琙	uu wh ho	1
+琚	uu yu ju	1
+琚	uu wh ju	1
+琛	uu yu uf	1
+琛	uu wh uf	1
+琝	uu yu mb	1
+琝	uu wh mb	1
+琞	uu mk yu	1
+琟	uu yu vv	1
+琟	uu wh vv	1
+琠	uu yu dm	1
+琠	uu wh dm	1
+琡	uu yu uu	1
+琡	uu wh uu	1
+琢	uu yu iu	1
+琢	uu wh iu	1
+琣	uu yu pz	1
+琣	uu wh pz	1
+琥	uu yu hu	1
+琥	uu wh hu	1
+琦	uu yu qi	1
+琦	uu wh qi	1
+琨	uu yu ky	1
+琨	uu wh ky	1
+琩	uu yu ih	1
+琩	uu wh ih	1
+琪	uu yu qi	1
+琪	uu wh qi	1
+琫	uu yu fg	1
+琫	uu wh fg	1
+琬	uu yu wj	1
+琬	uu wh wj	1
+琭	uu yu lu	1
+琭	uu wh lu	1
+琮	uu yu zs	1
+琮	uu wh zs	1
+琯	uu yu gr	1
+琯	uu wh gr	1
+琰	uu yu yj	1
+琰	uu wh yj	1
+琱	uu yu vz	1
+琱	uu wh vz	1
+琲	uu yu fw	1
+琲	uu wh fw	1
+琳	uu yu lb	1
+琳	uu wh lb	1
+琴	uu yu yu jb	1
+琴	uu wh wh jb	1
+琵	uu yu bi	1
+琵	uu wh bi	1
+琶	uu yu ba	1
+琶	uu wh ba	1
+琷	uu yu ql	1
+琷	uu wh ql	1
+琸	uu yu vo	1
+琸	uu wh vo	1
+琹	uu yu yu mu	1
+琹	uu wh wh mu	1
+琽	uu yu ve	1
+琽	uu wh ve	1
+琾	uu yu jp	1
+琾	uu wh jp	1
+瑀	uu yu yu	1
+瑀	uu wh yu	1
+瑁	uu yu mc	1
+瑁	uu wh mc	1
+瑂	uu yu mw	1
+瑂	uu wh mw	1
+瑄	uu yu xr	1
+瑄	uu wh xr	1
+瑅	uu yu ui	1
+瑅	uu wh ui	1
+瑆	uu yu xk	1
+瑆	uu wh xk	1
+瑇	uu yu du	1
+瑇	uu wh du	1
+瑈	uu yu rz	1
+瑈	uu wh rz	1
+瑉	uu yu hy	1
+瑉	uu wh hy	1
+瑊	uu yu xm	1
+瑊	uu wh xm	1
+瑌	uu yu rr	1
+瑌	uu wh rr	1
+瑎	uu yu jp	1
+瑎	uu wh jp	1
+瑏	uu yu ir	1
+瑏	uu wh ir	1
+瑐	uu yu qm	1
+瑐	uu wh qm	1
+瑑	uu yu tr	1
+瑑	uu wh tr	1
+瑓	uu yu jm	1
+瑓	uu wh jm	1
+瑔	uu yu qr	1
+瑔	uu wh qr	1
+瑕	uu yu jx	1
+瑖	uu yu dr	1
+瑖	uu wh dr	1
+瑗	uu yu yr	1
+瑗	uu wh yr	1
+瑘	uu yu ye	1
+瑘	uu wh ye	1
+瑙	uu yu ir xb	1
+瑙	uu wh ir xb	1
+瑚	uu yu hu	1
+瑚	uu wh hu	1
+瑛	uu yu yk	1
+瑛	uu wh yk	1
+瑜	uu yu yu	1
+瑜	uu wh yu	1
+瑝	uu yu hl	1
+瑝	uu wh hl	1
+瑞	uu yu dr	1
+瑞	uu wh dr	1
+瑟	uu yu bi	1
+瑟	uu wh bi	1
+瑠	uu yu lq	1
+瑠	uu wh lq	1
+瑢	uu yu rs	1
+瑢	uu wh rs	1
+琐	uu yu xn bw	1
+琐	uu wh xn bw	1
+瑶	uu yu vc fz	1
+瑶	uu wh vc fz	1
+瑥	uu yu wf	1
+瑥	uu wh wf	1
+瑧	uu yu qb	1
+瑧	uu wh qb	1
+瑨	uu yu jb	1
+瑨	uu wh jb	1
+瑫	uu yu yc	1
+瑫	uu wh yc	1
+瑬	uu lq yu	1
+瑭	uu yu th	1
+瑭	uu wh th	1
+瑮	uu yu li	1
+瑮	uu wh li	1
+琅	uu yu ll	1
+琅	uu wh ll	1
+瑰	uu yu gv	1
+瑰	uu wh gv	1
+瑱	uu yu vf	1
+瑱	uu wh vf	1
+瑳	uu yu ia	1
+瑳	uu wh ia	1
+瑴	uu ui mi yi wh uu	1
+瑵	uu yu zc	1
+瑵	uu wh zc	1
+瑹	uu yu tu	1
+瑹	uu wh tu	1
+瑺	uu yu ih	1
+瑺	uu wh ih	1
+瑾	uu yu jb	1
+瑾	uu wh jb	1
+瑿	uu yi yu	1
+璀	uu yu cv	1
+璀	uu wh cv	1
+璁	uu yu cs	1
+璁	uu wh cs	1
+璂	uu yu ji	1
+璂	uu wh ji	1
+璃	uu yu li	1
+璃	uu wh li	1
+璄	uu yu jk	1
+璄	uu wh jk	1
+璅	uu yu ic	1
+璅	uu wh ic	1
+璆	uu yu lq	1
+璆	uu wh lq	1
+璇	uu yu xr	1
+璇	uu wh xr	1
+璈	uu yu ao	1
+璈	uu wh ao	1
+琏	uu yu lm	1
+琏	uu wh lm	1
+璋	uu yu vh	1
+璋	uu wh vh	1
+璌	uu yu yb	1
+璌	uu wh yb	1
+璏	uu yu vi	1
+璏	uu wh vi	1
+璐	uu yu lu	1
+璐	uu wh lu	1
+璒	uu yu dg	1
+璒	uu wh dg	1
+璔	uu yu cg	1
+璔	uu wh cg	1
+璖	uu yu qu	1
+璖	uu wh qu	1
+璘	uu yu lb	1
+璘	uu wh lb	1
+璙	uu yu ln	1
+璙	uu wh ln	1
+璚	uu yu yu	1
+璚	uu wh yu	1
+璜	uu yu hl	1
+璜	uu 	1
+璜	uu wh hl	1
+璞	uu yu pu	1
+璞	uu wh pu	1
+璟	uu yu jk	1
+璟	uu wh jk	1
+璠	uu yu fj	1
+璠	uu wh fj	1
+琎	uu yu jb	1
+琎	uu wh jb	1
+璢	uu yu lq	1
+璢	uu wh lq	1
+璥	uu yu jk	1
+璥	uu wh jk	1
+瑷	uu yu ai	1
+瑷	uu wh ai	1
+璧	uu pi yu	1
+璨	uu yu cj	1
+璨	uu wh cj	1
+璩	uu yu ju	1
+璩	uu wh ju	1
+璪	uu yu zc	1
+璪	uu wh zc	1
+璬	uu yu jn	1
+璬	uu wh jn	1
+璮	uu yu dj	1
+璮	uu wh dj	1
+璱	uu yu se	1
+璱	uu wh se	1
+璲	uu yu sv	1
+璲	uu wh sv	1
+璷	uu yu fu	1
+璷	uu wh fu	1
+瑸	uu yu bb	1
+瑸	uu wh bb	1
+璻	uu yu cv	1
+璻	uu wh cv	1
+璿	uu yu rv	1
+璿	uu wh rv	1
+瓀	uu yu xu	1
+瓀	uu wh xu	1
+瓁	uu yu ho	1
+瓁	uu wh ho	1
+瓃	uu yu lw	1
+瓃	uu wh lw	1
+瓈	uu yu li	1
+瓈	uu wh li	1
+琼	uu yu jk	1
+琼	uu wh jk	1
+瓌	uu yu hk	1
+瓌	uu wh hk	1
+璎	uu yu yk	1
+璎	uu wh yk	1
+瓖	uu yu xl	1
+瓖	uu wh xl	1
+瓗	uu yu gv	1
+瓗	uu wh gv	1
+瓘	uu yu gr	1
+瓘	uu wh gr	1
+瓒	uu yu zj	1
+瓒	uu wh zj	1
+瓛	uu yu xm	1
+瓛	uu wh xm	1
+瓠	uu kx gx	1
+瓡	uu xk gx	1
+瓢	uu pn gx	1
+瓣	uu xb gx xb	1
+瓤	uu xl gx	1
+瓥	uu gx ui is is	1
+瓹	uu yr wa	1
+瓺	uu ih wa	1
+瓻	uu xi wa	1
+瓽	uu uh wa	1
+瓾	uu ww wa	1
+瓿	uu pz wa	1
+甀	uu iv wa	1
+甂	uu bm wa	1
+甃	uu qq wa	1
+甄	uu yb wa	1
+甆	uu zi wa	1
+甈	uu np wa	1
+甉	uu jm wa	1
+甋	uu di wa	1
+甍	uu cc wh mi wa	1
+甍	uu cc wh mi wa	1
+甍	uu cc wh mi wa	1
+甏	uu pg wa	1
+甐	uu lb wa	1
+甑	uu cg wa	1
+甑	uu cg wa	1
+甓	uu pi wa	1
+甔	uu vj wa	1
+甕	uu ys wa	1
+甗	uu hu ge wa	1
+甗	uu hu ge wa	1
+甛	uu gj ue	1
+甜	uu ue gj	1
+甝	uu hu gj	1
+甞	uu uh gj	1
+甤	uu ui ug	1
+甥	uu ug nj	1
+甦	uu gg ug	1
+甧	uu ug ug yt	1
+畡	uu tm hd	1
+畣	uu rf fu	1
+畤	uu tm si	1
+略	uu tm ge	1
+畦	uu tm gv	1
+畦	uu tm tu tu	1
+畧	uu tm ge	1
+畨	uu mi tm	1
+番	uu bm tm	1
+番	uu cd tm	1
+畬	uu yu tm	1
+畭	uu tm yu	1
+畮	uu tm mu	1
+畯	uu tm qy	1
+畱	uu yz tm	1
+畲	uu yu tm	1
+畳	uu tm yi	1
+畷	uu tm vo	1
+畸	uu tm qi	1
+畹	uu tm wj	1
+畺	uu yi tm yi tm yi	1
+畺	uu sj tm tm	1
+畻	uu tm ba fu tu	1
+畻	uu tm jr tu	1
+畽	uu tm vs	1
+畾	uu tm tm tm	1
+畿	uu yc yc ge tm	1
+畿	uu ji tm	1
+疀	uu zd jp	1
+疁	uu tm lq	1
+疃	uu tm ts	1
+疄	uu tm lb	1
+疅	uu tm jl	1
+疆	uu gs tu jl	1
+畴	uu tm uz	1
+疈	uu fu vu pp fu	1
+疉	uu lw mm ji	1
+叠	uu ro yi	1
+疎	uu pi uu	1
+疏	uu pi tz si ir	1
+疏	uu pi hl	1
+疏	uu pi lq	1
+疐	uu ui mi tm pi	1
+疑	uu bi ui 龴 pi	1
+疵	uu bk ci	1
+疵	uu ne ci	1
+痊	uu bk qr	1
+痊	uu ne qr	1
+痋	uu bk is	1
+痋	uu ne is	1
+痌	uu bk ts	1
+痌	uu ne ts	1
+痍	uu bk yi	1
+痍	uu ne yi	1
+痎	uu bk hd	1
+痎	uu ne hd	1
+痏	uu bk yz	1
+痏	uu ne yz	1
+痐	uu bk hv	1
+痐	uu ne hv	1
+痑	uu bk do	1
+痑	uu ne do	1
+痓	uu bk vi	1
+痓	uu ne vi	1
+痔	uu bk si	1
+痔	uu ne si	1
+痕	uu bk gf	1
+痕	uu ne gf	1
+痗	uu bk mw	1
+痗	uu ne mw	1
+痘	uu bk dz	1
+痘	uu ne dz	1
+痚	uu bk xn	1
+痚	uu ne xn	1
+痛	uu bk ys	1
+痛	uu ne ys	1
+痜	uu bk tu	1
+痜	uu ne tu	1
+痝	uu bk mh	1
+痝	uu ne mh	1
+痞	uu bk fz	1
+痞	uu ne fz	1
+痟	uu bk xn	1
+痟	uu ne xn	1
+痠	uu bk qy	1
+痠	uu ne qy	1
+痡	uu bk fu	1
+痡	uu ne fu	1
+痢	uu bk li	1
+痢	uu ne li	1
+痣	uu bk vi	1
+痣	uu ne vi	1
+痤	uu bk zo	1
+痤	uu ne zo	1
+痥	uu bk dv	1
+痥	uu 	1
+痥	uu ne dv	1
+痦	uu bk wu	1
+痦	uu ne wu	1
+痧	uu bk ua	1
+痧	uu ne ua	1
+痩	uu bk uf yz	1
+痩	uu ne uf yz	1
+痬	uu bk yi	1
+痬	uu ne yi	1
+痭	uu bk pg	1
+痭	uu ne pg	1
+痯	uu bk gr	1
+痯	uu ne gr	1
+痰	uu bk yj	1
+痰	uu ne yj	1
+痱	uu bk fw	1
+痱	uu ne fw	1
+麻	uu gl lb	1
+痳	uu bk lb	1
+痳	uu ne lb	1
+痵	uu bk ji	1
+痵	uu ne ji	1
+痶	uu bk dm	1
+痶	uu ne dm	1
+痷	uu bk yj	1
+痷	uu ne yj	1
+痸	uu bk vi	1
+痸	uu ne vi	1
+痹	uu bk bi	1
+痹	uu ne bi	1
+痺	uu bk bw	1
+痺	uu ne bw	1
+痻	uu bk hy	1
+痻	uu ne hy	1
+痼	uu bk gu	1
+痼	uu ne gu	1
+痽	uu bk vv	1
+痽	uu ne vv	1
+痾	uu bk aa	1
+痾	uu ne aa	1
+痿	uu bk ww	1
+痿	uu ne ww	1
+瘀	uu bk yu	1
+瘀	uu ne yu	1
+瘁	uu bk zu	1
+瘁	uu ne zu	1
+痖	uu bk ya	1
+痖	uu ne ya	1
+瘃	uu bk iu	1
+瘃	uu ne iu	1
+瘄	uu bk xi	1
+瘄	uu ne xi	1
+瘇	uu bk vs	1
+瘇	uu ne vs	1
+瘈	uu bk qi	1
+瘈	uu ne qi	1
+瘉	uu bk yu	1
+瘉	uu ne yu	1
+瘊	uu bk hz	1
+瘊	uu ne hz	1
+瘌	uu bk la	1
+瘌	uu ne la	1
+瘎	uu bk uf	1
+瘎	uu ne uf	1
+瘏	uu bk ve	1
+瘏	uu ne ve	1
+瘐	uu bk yu	1
+瘐	uu ne yu	1
+痪	uu bk hr	1
+痪	uu ne hr	1
+瘔	uu bk ku	1
+瘔	uu ne ku	1
+瘕	uu bk jx	1
+瘕	uu ne jx	1
+瘖	uu bk yb	1
+瘖	uu ne yb	1
+瘙	uu bk zc	1
+瘙	uu ne zc	1
+瘚	uu bk jt	1
+瘚	uu ne jt	1
+瘛	uu bk jx	1
+瘛	uu ne jx	1
+瘜	uu bk xi	1
+瘜	uu ne xi	1
+瘝	uu bk da	1
+瘝	uu ne da	1
+瘞	uu bk zo	1
+瘞	uu ne zo	1
+瘟	uu bk wf	1
+瘟	uu ne wf	1
+瘠	uu bk ji	1
+瘠	uu ne ji	1
+瘢	uu bk bj	1
+瘢	uu ne bj	1
+瘣	uu bk gv	1
+瘣	uu ne gv	1
+瘤	uu bk lq	1
+瘤	uu ne lq	1
+瘥	uu bk ia	1
+瘥	uu ne ia	1
+瘦	uu bk sz	1
+瘦	uu ne sz	1
+瘨	uu bk vf	1
+瘨	uu ne vf	1
+瘩	uu bk da	1
+瘩	uu ne da	1
+瘭	uu bk pn	1
+瘭	uu ne pn	1
+瘆	uu bk cj	1
+瘆	uu ne cj	1
+瘯	uu bk zu	1
+瘯	uu ne zu	1
+瘰	uu bk lw	1
+瘰	uu ne lw	1
+瘗	uu bk jx	1
+瘗	uu ne jx	1
+瘳	uu bk lq	1
+瘳	uu ne lq	1
+瘴	uu bk vh	1
+瘴	uu ne vh	1
+瘵	uu bk ji	1
+瘵	uu ne ji	1
+瘶	uu bk uo	1
+瘶	uu ne uo	1
+瘷	uu bk ii	1
+瘷	uu ne ii	1
+瘸	uu bk jx rz	1
+瘸	uu ne jx rz	1
+瘺	uu bk lz	1
+瘺	uu ne lz	1
+瘘	uu bk lz	1
+瘘	uu ne lz	1
+瘼	uu bk mo	1
+瘼	uu ne mo	1
+瘽	uu bk jb	1
+瘽	uu ne jb	1
+癀	uu bk hl	1
+癀	uu 	1
+癀	uu ne hl	1
+癁	uu bk fu	1
+癁	uu ne fu	1
+癃	uu bk ls	1
+癃	uu ne ls	1
+癄	uu bk jn	1
+癄	uu ne jn	1
+癅	uu bk lq	1
+癅	uu ne lq	1
+痨	uu bk lc	1
+痨	uu ne lc	1
+痫	uu bk xm	1
+痫	uu ne xm	1
+瘅	uu bk dj	1
+瘅	uu ne dj	1
+癊	uu bk yb	1
+癊	uu ne yb	1
+癌	uu bk pb uj	1
+癌	uu ne pb uj	1
+癌	uu ne np	1
+癍	uu bk bj	1
+癍	uu ne bj	1
+癏	uu bk qs	1
+癏	uu ne qs	1
+愈	uu yu xb	1
+癓	uu bk ww	1
+癓	uu ne ww	1
+癔	uu bk yi	1
+癔	uu ne yi	1
+癕	uu bk ys	1
+癕	uu ne ys	1
+癖	uu bk pi	1
+癖	uu ne pi	1
+癗	uu bk lw	1
+癗	uu ne lw	1
+癙	uu bk uu	1
+癙	uu ne uu	1
+癚	uu bk vj	1
+癚	uu ne vj	1
+癝	uu bk bk	1
+癝	uu ne bk	1
+癜	uu bk dm	1
+癜	uu ne dm	1
+瘪	uu bk zi ly	1
+瘪	uu ne zi ly	1
+痴	uu bk vi	1
+痴	uu ne vi	1
+痒	uu bk yh	1
+痒	uu ne yh	1
+癥	uu bk vg	1
+癥	uu ne vg	1
+癨	uu bk ho	1
+癨	uu ne ho	1
+癞	uu bk ld	1
+癞	uu ne ld	1
+癣	uu bk xm	1
+癣	uu ne xm	1
+瘿	uu bk yk	1
+瘿	uu ne yk	1
+瘾	uu bk yb	1
+瘾	uu ne yb	1
+癯	uu bk qu	1
+癯	uu ne qu	1
+瘫	uu bk nj	1
+瘫	uu ne nj	1
+癫	uu bk dm	1
+癫	uu ne dm	1
+癳	uu bk lw	1
+癳	uu ne lw	1
+登	uu bo dz	1
+皉	uu bd ci	1
+皎	uu bd jn	1
+皏	uu bd bk	1
+皐	uu bd er ui er	1
+皒	uu bd wo	1
+皓	uu bd gc	1
+皔	uu bd hj	1
+皕	uu bd bd	1
+皖	uu bd wj	1
+皗	uu bd vz	1
+皘	uu bd qk	1
+皙	uu xi bd	1
+皑	uu bd qi	1
+皛	uu bd bd bd	1
+皜	uu bd gc	1
+皝	uu hl gl	1
+皞	uu bd gc	1
+皠	uu bd cv	1
+皡	uu bd gc	1
+皢	uu bd yc	1
+皤	uu bd fj	1
+皥	uu bd gc	1
+皦	uu bd jn	1
+皨	uu xn tu	1
+皩	uu hl hl	1
+皫	uu bd pc	1
+皬	uu bd ho	1
+皭	uu bd jt	1
+皳	uu qq pi	1
+皴	uu qy pi	1
+皵	uu xi pi	1
+皶	uu ia pi	1
+皷	uu ui dz pi	1
+皲	uu jy pi	1
+皲	uu pi jy	1
+皻	uu co pi	1
+皼	uu yi pi	1
+皽	uu dj pi	1
+盒	uu he mb	1
+盓	uu wu mb	1
+盔	uu hv mb	1
+盕	uu fj mb	1
+盙	uu fu mb	1
+盚	uu qq mb	1
+盛	uu ig mb	1
+盗	uu ci mb	1
+盝	uu lu mb	1
+盟	uu mk mb	1
+盠	uu tr mb	1
+盢	uu qr mb	1
+盘	uu vz mb	1
+盥	uu jq uv mb	1
+盦	uu jb yz mb	1
+盩	uu xk pu mb	1
+盫	uu he yz mb	1
+盬	uu if pp yi gu mb	1
+盭	uu yc xk pu mb	1
+盭	uu yc xk pu mb	1
+眥	uu ci mu	1
+眦	uu mu ci	1
+眭	uu mu gv	1
+眮	uu mu ts	1
+眰	uu mu vi	1
+眱	uu mu yi	1
+眲	uu mu er	1
+眳	uu mu mk	1
+眴	uu mu xy	1
+眵	uu mu do	1
+眶	uu mu kl	1
+眷	uu ba fu mu	1
+眷	uu jr mu	1
+眸	uu mu mz	1
+眹	uu mu gr	1
+眺	uu mu vc	1
+眻	uu mu yh	1
+眼	uu mu gf	1
+眽	uu mu ih ui	1
+睂	uu bk gy ih mu	1
+睃	uu mu qy	1
+睄	uu mu xn	1
+睅	uu mu hj	1
+睆	uu mu wj	1
+睇	uu mu di	1
+睈	uu mu ig	1
+睉	uu mu zo	1
+睊	uu mu yr	1
+睋	uu mu wo	1
+睌	uu mu mm	1
+睍	uu mu jm	1
+睎	uu mu xi	1
+睒	uu mu yj	1
+睓	uu mu dm	1
+睕	uu mu wj	1
+睖	uu mu lk	1
+睗	uu mu yi	1
+睙	uu mu li	1
+睚	uu mu ya	1
+睛	uu mu qk	1
+睁	uu mu vg	1
+睐	uu mu ld	1
+睟	uu mu zu	1
+睠	uu mu jr	1
+睡	uu mu iv	1
+睢	uu mu vv	1
+督	uu uu mu	1
+睤	uu mu bi	1
+睥	uu mu bw	1
+睦	uu mu lu	1
+睦	uu mu tu er tu	1
+睧	uu mu hy	1
+睨	uu mu er	1
+睩	uu mu lu	1
+睪	uu wh xk	1
+睫	uu mu jp	1
+睬	uu mu cd	1
+睭	uu mu vz	1
+睮	uu mu yu	1
+睯	uu mb mu	1
+睰	uu mu ro	1
+睱	uu mu jx	1
+睲	uu mu xk	1
+睳	uu mu kv	1
+睶	uu mu iy	1
+睷	uu mu jm	1
+睸	uu mu mw	1
+睹	uu mu ve	1
+睺	uu mu hz	1
+睻	uu mu xr	1
+睼	uu mu ui	1
+睽	uu mu gv	1
+睾	uu vu mu xk	1
+睾	uu vu wh xk	1
+睿	uu bo mi yi ba rf mu	1
+瞀	uu wu mu	1
+瞁	uu mu ju	1
+瞂	uu dy ba	1
+瞃	uu mu dy	1
+瞄	uu mu mn	1
+瞅	uu mu qq	1
+眯	uu mu mi	1
+瞈	uu mu wg	1
+瞉	uu ui mi yi mu uu	1
+瞊	uu mu th	1
+瞋	uu mu vf	1
+瞌	uu mu he	1
+瞌	uu mu qu mb	1
+瞍	uu mu sz	1
+瞎	uu mu hd	1
+瞏	uu mu yr	1
+瞏	uu wh yr	1
+瞐	uu mu mu mu	1
+瞑	uu mu mk	1
+瞔	uu mu ze	1
+瞕	uu mu vh	1
+瞖	uu yi mu	1
+瞙	uu mu mo	1
+瞚	uu mu yb	1
+瞝	uu mu li	1
+瞒	uu mu cc ll	1
+瞒	uu mu cc ll	1
+瞟	uu mu pn	1
+瞠	uu mu th	1
+瞢	uu cc wh mi mu	1
+瞢	uu cc wh mi mu	1
+瞢	uu cc wh mi mu	1
+瞥	uu bi mu	1
+瞦	uu mu xi	1
+瞧	uu mu jn	1
+瞨	uu mu pu	1
+瞪	uu mu dg	1
+瞫	uu mu tj	1
+瞬	uu mu uy	1
+瞮	uu mu yu pu	1
+瞮	uu mu yu pu	1
+瞰	uu mu gj	1
+瞲	uu mu yu	1
+瞳	uu mu ts	1
+瞵	uu mu lb	1
+瞆	uu mu gv	1
+瞸	uu mu ye	1
+瞻	uu mu vj	1
+睑	uu mu qm	1
+瞽	uu gu mu	1
+瞾	uu mu mu ks	1
+瞿	uu mu mu vv	1
+矀	uu mu ww	1
+矁	uu mu iz	1
+矂	uu mu zc	1
+矄	uu mu xy	1
+矅	uu mu di	1
+矆	uu mu ho	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+矈	uu mu mm	1
+矍	uu qu yz	1
+矍	uu mu mu vi	1
+矍	uu mu mu vv yz	1
+矎	uu mu xs	1
+矏	uu mu mm	1
+矐	uu mu ho	1
+矒	uu mu mg	1
+矔	uu mu gr	1
+矗	uu vi vi vi	1
+瞩	uu mu uu	1
+矞	uu mc js	1
+矟	uu mc xn	1
+矠	uu mc xi	1
+矡	uu mc jt	1
+矪	uu ui vz	1
+矬	uu ui zo	1
+短	uu ui dz	1
+矮	uu ui ww	1
+矫	uu ui qn	1
+矰	uu ui cg	1
+矱	uu ui ho	1
+砦	uu ci ui	1
+硂	uu ui qr	1
+硃	uu ui vu	1
+硄	uu ui gl	1
+硅	uu ui gv	1
+硆	uu ui he	1
+硇	uu ui xb	1
+硈	uu ui ji	1
+硉	uu ui yu	1
+硊	uu ui ww	1
+硋	uu ui hd	1
+硌	uu ui ge	1
+硍	uu ui gf	1
+硎	uu ui xk	1
+硏	uu ui jm	1
+硐	uu ui ts	1
+硑	uu ui bk	1
+硒	uu ui xi	1
+硔	uu ui gs	1
+硝	uu ui xn	1
+硞	uu ui gc	1
+硟	uu ui yj	1
+硠	uu ui ll	1
+硡	uu ui hs	1
+硢	uu ui yu	1
+硣	uu ui xn	1
+硖	uu ui jx	1
+硥	uu ui mh	1
+硦	uu ui ns	1
+硧	uu ui ys	1
+硩	uu ve ui	1
+硪	uu ui wo	1
+硫	uu ui tz si ir	1
+硫	uu ui hl	1
+硫	uu ui lq	1
+硬	uu ui gg	1
+硭	uu ui mh	1
+硰	uu ua ui	1
+硱	uu ui ky	1
+硲	uu ui gu	1
+硶	uu ui cf	1
+硸	uu ui an	1
+硹	uu ui ss	1
+硺	uu ui iu	1
+硼	uu ui pg	1
+硽	uu ui yj	1
+硾	uu ui iv	1
+硿	uu ui ks	1
+棋	uu mu qi	1
+碂	uu ui zs	1
+碃	uu ui qk	1
+碄	uu ui lb	1
+碅	uu ui qy	1
+碆	uu bo ui	1
+碇	uu ui dk	1
+碈	uu ui hy	1
+碉	uu ui vz	1
+碋	uu ui ke	1
+碌	uu ui lu	1
+碎	uu ui zu	1
+碏	uu ui xi	1
+碐	uu ui lk	1
+碑	uu ui bw	1
+碒	uu ui jb	1
+碓	uu ui vv	1
+碔	uu ui wu	1
+碕	uu ui qi	1
+碗	uu ui wj	1
+碘	uu ui dm	1
+碚	uu ui pz	1
+碝	uu ui rr	1
+碞	uu pb ui	1
+碟	uu ui ye	1
+碟	uu ui ui mu	1
+碠	uu ui tk	1
+碡	uu ui du	1
+碣	uu ui he	1
+碤	uu ui yk	1
+碥	uu ui bm	1
+碦	uu ui ke	1
+碧	uu wh bd ui	1
+碨	uu ui ww	1
+硕	uu ui ye	1
+碪	uu ui uf	1
+碫	uu ui dr	1
+碬	uu ui jx	1
+碮	uu ui ui	1
+碰	uu ui bk	1
+碱	uu ui xm	1
+碲	uu ui di	1
+碳	uu ui tj	1
+碴	uu ui ia	1
+碶	uu ui qi	1
+碹	uu ui xr	1
+确	uu ui jn	1
+碻	uu ui gc	1
+碾	uu ui vj	1
+碿	uu ui xp	1
+磀	uu ui ni	1
+磁	uu ui zi	1
+磁	uu ui zi	1
+磂	uu ui lq	1
+磃	uu ui si	1
+磄	uu ui th	1
+磅	uu ui ph	1
+磆	uu ui gu	1
+磇	uu ui xb bi	1
+磈	uu ui gv	1
+磉	uu ui sh	1
+磊	uu ui ui ui	1
+磋	uu ui ia	1
+磌	uu ui vf	1
+磍	uu ui hd	1
+磎	uu ui xi	1
+磏	uu ui jm	1
+磐	uu bj ui	1
+硙	uu ui qi	1
+磓	uu ui vv	1
+磔	uu ui jp	1
+磕	uu ui he	1
+磕	uu ui qu mb	1
+磖	uu ui xi	1
+磘	uu ui vc fz	1
+磘	uu ui vc fz	1
+磙	uu ui gy	1
+磜	uu ui ji	1
+磝	uu ui ao	1
+磞	uu ui bg	1
+磟	uu ui lq	1
+硵	uu ui lu	1
+磡	uu ui kj	1
+磡	uu ui uf li	1
+磢	uu ui ul	1
+碜	uu ui cj	1
+磤	uu ui yb	1
+磥	uu ui lw	1
+磦	uu ui pn	1
+碛	uu ui ze	1
+磨	uu ma ui	1
+磩	uu ui qi	1
+磪	uu ui cv	1
+磬	uu ug uu ui	1
+磬	uu qk ui	1
+磭	uu ui iy	1
+磰	uu ui uj	1
+磲	uu ui qu	1
+磳	uu ui cg	1
+磴	uu ui dg	1
+磶	uu ui xi	1
+磷	uu ui lb	1
+磸	uu ui dm	1
+磹	uu ui tj	1
+磺	uu ui hl	1
+磻	uu ui fj	1
+磼	uu ui ji	1
+硗	uu ui yc	1
+磿	uu li ui	1
+礁	uu ui jn	1
+礃	uu ui vh	1
+硚	uu ui qn	1
+礅	uu ui dy	1
+硷	uu ui qm	1
+礇	uu ui ao	1
+礈	uu ui sv	1
+礉	uu ui jn	1
+礊	uu ie qm uu ui	1
+礌	uu ui lw	1
+礍	uu ui ge	1
+礓	uu ui jl	1
+礔	uu ui pi	1
+礕	uu pi ui	1
+碍	uu ui ri yi cy	1
+碍	uu ui de	1
+礝	uu ui xu	1
+礞	uu ui mg	1
+礠	uu ui ci	1
+礡	uu ui po	1
+礣	uu ui mp	1
+礤	uu ui cd	1
+礧	uu ui lw	1
+礨	uu lw ui	1
+礬	uu fj da ui	1
+礬	uu mu yc mu da ui	1
+礭	uu ui ho	1
+礳	uu ui mo	1
+礴	uu ui bc	1
+礵	uu ui ul	1
+礶	uu ui gr	1
+祡	uu ci ui	1
+祦	uu ui wu	1
+祦	uu ui wu	1
+票	uu xi ui	1
+票	uu ya ui	1
+票	uu xi ui	1
+祭	uu yr ui	1
+祰	uu ui gc	1
+祰	uu ui gc	1
+祱	uu ui dv	1
+祱	uu 	1
+祱	uu ui dv	1
+祲	uu ui ji mi yz	1
+祲	uu ui ji mi yz	1
+祳	uu ui if	1
+祳	uu ui if	1
+祴	uu ui jp	1
+祴	uu ui jp	1
+祵	uu ui ky	1
+祵	uu ui ky	1
+祶	uu ui di	1
+祶	uu ui di	1
+祹	uu ui tc	1
+祹	uu ui tc	1
+祺	uu ui qi	1
+祺	uu ui qi	1
+祻	uu ui gu	1
+祻	uu ui gu	1
+祼	uu ui go	1
+祼	uu ui go	1
+祽	uu ui zu	1
+祽	uu ui zu	1
+祾	uu ui lk	1
+祾	uu ui lk	1
+禄	uu ui lu	1
+禄	uu ui lu	1
+禁	uu lb ui	1
+禂	uu ui vz	1
+禂	uu ui vz	1
+禃	uu ui vi	1
+禃	uu ui vi	1
+禆	uu ui bw	1
+禆	uu ui bw	1
+禇	uu ui ve	1
+禇	uu ui ve	1
+禉	uu ui qq	1
+禉	uu ui qq	1
+禊	uu ui qi	1
+禊	uu ui qi	1
+禋	uu ui yb	1
+禋	uu ui yb	1
+禌	uu ui zi	1
+禌	uu ui zi	1
+祸	uu ui go	1
+祸	uu ui go	1
+福	uu ui fu	1
+福	uu ui fu	1
+禐	uu ui yr	1
+禐	uu ui yr	1
+禑	uu ui yu	1
+禑	uu ui yu	1
+禒	uu ui tr	1
+禒	uu ui tr	1
+禔	uu ui ui	1
+禔	uu ui ui	1
+禖	uu ui mz	1
+禖	uu ui mz	1
+禗	uu ui si	1
+禗	uu ui si	1
+禘	uu ui di	1
+禘	uu ui di	1
+禚	uu ui gc	1
+禚	uu ui gc	1
+禛	uu ui vf	1
+禛	uu ui vf	1
+禝	uu ui ce	1
+禝	uu ui ce	1
+禞	uu ui gc	1
+禞	uu ui gc	1
+禟	uu ui th	1
+禟	uu ui th	1
+禠	uu ui si	1
+禠	uu ui si	1
+禢	uu ui ri yu	1
+禢	uu ui ri yu	1
+禤	uu ui mu yu	1
+禤	uu ui wh yu	1
+禥	uu ui ji	1
+禥	uu ui ji	1
+御	uu ii xp	1
+禧	uu ui xi	1
+禧	uu ui xi	1
+禩	uu ui yi	1
+禩	uu ui yi	1
+禅	uu ui dj	1
+禅	uu ui dj	1
+禫	uu ui tj	1
+禫	uu ui tj	1
+禭	uu ui sv	1
+禭	uu ui sv	1
+祷	uu ui uz	1
+祷	uu ui uz	1
+禳	uu ui xl	1
+禳	uu ui xl	1
+禴	uu ui yt	1
+禴	uu ui yt	1
+禼	uu bo kz yi js si	1
+禽	uu rf li	1
+秱	uu he ts	1
+秲	uu he si	1
+秳	uu he ue	1
+秴	uu he he	1
+秵	uu he yb	1
+秶	uu ci he	1
+秷	uu he vi	1
+秸	uu he ji	1
+秹	uu he rf	1
+秺	uu he vd	1
+移	uu he do	1
+秼	uu he vu	1
+秿	uu he fu	1
+稀	uu he xi	1
+稁	uu tz kz js he	1
+稂	uu he ll	1
+稃	uu he fu	1
+稄	uu he qy	1
+税	uu he dv	1
+稆	uu he lv	1
+稇	uu he ky	1
+稈	uu he hj	1
+稉	uu he gg	1
+稊	uu he di	1
+程	uu he ig	1
+稌	uu he yu	1
+稍	uu he xn	1
+稑	uu he lu	1
+稒	uu he gu	1
+稓	uu he xi	1
+稔	uu he nm	1
+稕	uu he xl	1
+稖	uu he pz	1
+稗	uu he bw	1
+稘	uu he qi	1
+稙	uu he vi	1
+稚	uu he vv	1
+稛	uu he ky	1
+棱	uu mu lk	1
+稝	uu he pg	1
+稞	uu he go	1
+禀	uu tz hv ui	1
+稠	uu he vz	1
+稡	uu he zu	1
+稢	uu he ho	1
+稤	uu he jk	1
+稧	uu he qi	1
+稨	uu he bm	1
+稩	uu he ww	1
+稪	uu he fu	1
+稫	uu he fu	1
+稬	uu he rr	1
+稭	uu he jp	1
+稯	uu he xs ba xi	1
+稯	uu he xs ba vi	1
+稰	uu he xu	1
+稻	uu he yc	1
+稴	uu he jm	1
+稵	uu he zi	1
+稶	uu he yu	1
+稷	uu he tm er xi	1
+稷	uu he tm er vi	1
+稷	uu he ce	1
+稸	uu he iu	1
+稹	uu he vf	1
+稺	uu he xi	1
+稻	uu he yc	1
+稼	uu he jx	1
+稽	uu he yz vi	1
+稾	uu gc he	1
+稿	uu he gc	1
+穁	uu he rs	1
+穗	uu he hv	1
+穄	uu he ji	1
+穅	uu he kh	1
+穆	uu he bd xn uj	1
+穈	uu ma he	1
+穉	uu he xi	1
+穊	uu he ji	1
+穋	uu he lq	1
+稣	uu yu he	1
+颖	uu bi he ye	1
+稳	uu he ji	1
+穐	uu he gv	1
+穓	uu he yi	1
+穔	uu he hl	1
+穕	uu he ji	1
+穗	uu he hv	1
+穙	uu he pu	1
+穛	uu he jn	1
+穜	uu he ts	1
+穟	uu he sv	1
+秾	uu he ns	1
+穑	uu he se	1
+秽	uu he sv	1
+穣	uu he yi ba jk yi	1
+穤	uu he xu	1
+稳	uu he ji	1
+穞	uu he lu	1
+穮	uu he pc	1
+穰	uu he xl	1
+穱	uu he jt	1
+窏	uu xt wu	1
+窐	uu xt gv	1
+窒	uu xt vi	1
+窓	uu xt si xb	1
+窔	uu xt jn	1
+窕	uu xt vc	1
+窖	uu xt gc	1
+窗	uu xt cs	1
+窘	uu xt jy	1
+窙	uu xt xn	1
+窚	uu xt ig	1
+窛	uu xt yr nv	1
+窞	uu xt xm	1
+窟	uu xt qu	1
+窠	uu xt go	1
+窡	uu xt vo	1
+窢	uu xt ho	1
+窣	uu xt zu	1
+窨	uu xt yb	1
+窝	uu xt go	1
+窫	uu xt qi	1
+窬	uu xt yu	1
+窑	uu xt fz	1
+窑	uu xt fz	1
+窱	uu xt tn	1
+窲	uu xt ln	1
+窳	uu xt gx gx	1
+窴	uu xt vf	1
+窭	uu xt lz	1
+窷	uu xt ln	1
+窸	uu xt xi	1
+窹	uu xt pj wu	1
+窥	uu xt gv	1
+窻	uu xt cs	1
+窻	uu il xb	1
+窼	uu xt ic	1
+窾	uu xt kr	1
+窿	uu xt ls	1
+竁	uu xt cv	1
+竂	uu xt ln	1
+窜	uu xt ir	1
+竆	uu xt gs	1
+窦	uu xt md	1
+竟	uu li ri er	1
+章	uu li zc	1
+竢	uu li yi	1
+竣	uu li qy	1
+竤	uu li hs	1
+童	uu li li	1
+竦	uu li uu	1
+竧	uu li uf	1
+竨	uu li vo	1
+竩	uu li yi	1
+竬	uu li yu	1
+竭	uu li he	1
+竮	uu li pk	1
+端	uu li dr	1
+端	uu li uj er	1
+竰	uu li li	1
+竲	uu li cg	1
+竳	uu li dg	1
+竴	uu li zy	1
+竵	uu li ge xi gy	1
+竵	uu li yi kz xi gy js ba xx	1
+竸	uu jk jk	1
+竸	uu bk yc	1
+笗	uu vu ds	1
+笘	uu vu vj	1
+笙	uu vu ug	1
+笚	uu vu jx	1
+笛	uu vu yz	1
+笜	uu vu iu	1
+笝	uu vu ww yz	1
+笞	uu vu td	1
+笟	uu vu gx	1
+笠	uu vu li	1
+笡	uu vu qp	1
+笢	uu vu mb	1
+笣	uu vu bc	1
+笤	uu vu vc	1
+笥	uu vu si	1
+符	uu vu fu	1
+笧	uu vu ce	1
+笨	uu vu bf	1
+笩	uu vu dd	1
+笪	uu vu dj	1
+第	uu vu dn pp	1
+第	uu vu gs gy pp	1
+笭	uu vu lk	1
+笮	uu vu va	1
+笯	uu vu nu	1
+笰	uu vu fu	1
+笱	uu vu ju	1
+笲	uu vu bm	1
+笳	uu vu jx	1
+笴	uu vu ke	1
+笵	uu vu fj	1
+笶	uu vu ui	1
+笷	uu vu mc	1
+笸	uu vu po	1
+笻	uu vu qs	1
+笿	uu vu ge	1
+筀	uu vu gv	1
+筁	uu vu qu	1
+筂	uu vu ii	1
+筃	uu vu yb	1
+筄	uu vu vc	1
+筅	uu vu xm	1
+筇	uu vu qs	1
+筈	uu vu ue	1
+等	uu vu si	1
+筊	uu vu jn	1
+筋	uu vu rz li	1
+筋	uu vu yt li	1
+筌	uu vu qr	1
+筎	uu vu ru	1
+筏	uu vu fa	1
+筐	uu vu kl	1
+筒	uu vu ts	1
+筓	uu vu jm	1
+答	uu vu he	1
+筕	uu vu xk	1
+策	uu vu ci	1
+筗	uu vu vs	1
+筘	uu vu kz	1
+筙	uu vu lw	1
+筞	uu vu ss	1
+筟	uu vu fu	1
+筠	uu vu jy	1
+筡	uu vu yu	1
+筢	uu vu ba	1
+筣	uu vu li	1
+筤	uu vu ll	1
+筥	uu vu lv	1
+筦	uu vu wj	1
+筨	uu vu hj	1
+筩	uu vu ys	1
+筪	uu vu xx	1
+筬	uu vu ig	1
+筭	uu vu ns	1
+筮	uu vu wu	1
+筯	uu vu vu	1
+筰	uu vu zo	1
+筱	uu vu yz	1
+筲	uu vu xn	1
+筳	uu vu tk	1
+筵	uu vu yj	1
+筶	uu vu gc	1
+筷	uu vu kk	1
+筸	uu vu hj	1
+筻	uu vu gg	1
+箁	uu vu pz	1
+箃	uu vu qu	1
+箄	uu vu bw	1
+箅	uu vu bi	1
+箆	uu nw bi	1
+箇	uu vu gu	1
+箈	uu vu vi	1
+箉	uu vu gk	1
+箊	uu vu yu	1
+笺	uu vu jm	1
+箌	uu vu dc	1
+箍	uu vu uz za	1
+箍	uu vu uz za	1
+箍	uu vu cd za	1
+箎	uu vu hu	1
+筝	uu vu vg	1
+箐	uu vu qk	1
+箑	uu vu jp	1
+箒	uu vu vz	1
+箔	uu vu po	1
+箕	uu vu qi	1
+箖	uu vu lb	1
+算	uu vu mu gs	1
+箘	uu vu qy	1
+箙	uu vu fu	1
+箚	uu vu he dc	1
+箚	uu vu he dc	1
+箛	uu vu gu	1
+箜	uu vu ks	1
+箝	uu vu qm	1
+箞	uu vu jr	1
+箟	uu vu ky	1
+箠	uu vu iv	1
+管	uu vu gr	1
+箢	uu vu wj	1
+箣	uu vu ci	1
+箤	uu vu zu	1
+箥	uu vu bo	1
+箬	uu vu ro	1
+箭	uu vu qm	1
+箯	uu vu bm	1
+箰	uu sy zi	1
+箱	uu vu xl	1
+箲	uu vu xi	1
+箳	uu vu pk	1
+箴	uu vu xm	1
+箵	uu vu ug	1
+箶	uu vu hu	1
+箷	uu vu ui	1
+箸	uu vu ve	1
+箺	uu vu iy	1
+箻	uu vu lv	1
+箼	uu vu wu	1
+箽	uu vu vs	1
+箾	uu vu xt	1
+箿	uu vu qi	1
+篁	uu vu hl	1
+篂	uu vu xk	1
+篃	uu vu mw	1
+篅	uu vu dr	1
+篆	uu vu tr	1
+篇	uu vu bm	1
+篈	uu vu fg	1
+筑	uu vu gs	1
+篊	uu vu hs	1
+箧	uu vu fh jx	1
+篌	uu vu hz	1
+篍	uu vu qq	1
+篎	uu vu mn	1
+篏	uu vu gj qm	1
+筼	uu vu yr	1
+篕	uu vu he	1
+篖	uu vu th	1
+篗	uu vu vi	1
+篘	uu vu iu	1
+篙	uu vu gc	1
+篚	uu vu fw	1
+篛	uu vu ro	1
+篜	uu vu vg	1
+篝	uu vu gz	1
+篞	uu vu np	1
+篞	uu vu uv ri gs	1
+篞	uu vu uv ri gs	1
+篟	uu vu qm	1
+筿	uu vu tn	1
+篡	uu vu mu da si	1
+篣	uu vu ph	1
+篥	uu vu li	1
+篦	uu vu xb bi	1
+篧	uu vu hu	1
+篨	uu vu iu	1
+筛	uu vu ui	1
+篪	uu vu si	1
+篫	uu vu uz	1
+篫	uu vu gs uz	1
+笼	uu vu ls	1
+篰	uu vu bu	1
+篲	uu vu hv	1
+筚	uu vu bi	1
+篴	uu vu vu	1
+篶	uu vu yj	1
+篷	uu vu fg	1
+篹	uu vu mu da jp	1
+篹	uu vu mu da xm	1
+篺	uu vu bd	1
+篻	uu vu pn	1
+篼	uu vu dz	1
+篽	uu vu yu	1
+篾	uu vu wh uu	1
+篾	uu vu wh uu	1
+篾	uu vu gh uu	1
+箦	uu vu ze	1
+簁	uu vu xi	1
+簃	uu vu yi	1
+簄	uu vu hu	1
+簅	uu vu ij	1
+簆	uu vu kz	1
+簇	uu vu zu	1
+簈	uu vu bk	1
+簉	uu vu zc	1
+簊	uu vu ji	1
+簋	uu vu gf mb	1
+簌	uu vu uo	1
+篓	uu vu lz	1
+簎	uu vu co	1
+簏	uu vu lu	1
+簑	uu vu uk	1
+簒	uu vu mu da me	1
+簔	uu vu uk	1
+簕	uu vu lw	1
+箫	uu vu su	1
+簙	uu vu bo	1
+簚	uu vu wh ge jb	1
+簚	uu vu wh ge jb	1
+簛	uu vu si	1
+簝	uu vu ln	1
+箪	uu vu dj	1
+簟	uu vu tj	1
+簠	uu vu fu	1
+简	uu vu jm	1
+篑	uu vu gv	1
+簦	uu vu dg	1
+簧	uu vu hl	1
+簨	uu vu xy	1
+簮	uu vu fu fu ri	1
+箫	uu vu su	1
+簬	uu vu lu	1
+簭	uu vu ui rf kz	1
+簮	uu vu fu fu ri	1
+簰	uu vu pd	1
+簲	uu vu pi	1
+簳	uu vu gj	1
+簴	uu vu ju	1
+簶	uu vu lu	1
+檐	uu mu vj	1
+簸	uu vu qi pi	1
+筜	uu vu dh	1
+簺	uu vu sd	1
+簼	uu vu gz	1
+签	uu vu qm	1
+簿	uu vu bc	1
+籀	uu vu uz lq	1
+籀	uu vu uz lq	1
+篮	uu vu jm	1
+籅	uu vu yu	1
+籆	uu vu ho	1
+籇	uu vu hc	1
+籈	uu vu vf	1
+籊	uu vu di	1
+筹	uu vu uz	1
+籍	uu vu ji	1
+籐	uu vu tg	1
+籑	uu vu mu yi ui	1
+籑	uu vu mu da ll	1
+籒	uu vu uz lq	1
+籒	uu vu uz lq	1
+籒	uu vu cd lq	1
+籓	uu vu pj	1
+籕	uu vu lq	1
+籗	uu vu ho	1
+籘	uu vu tg	1
+箓	uu vu lu	1
+篯	uu vu jm	1
+箨	uu vu ze	1
+籝	uu vu yk	1
+籞	uu vu yu	1
+籁	uu vu ld	1
+笼	uu vu ls	1
+签	uu vu qm	1
+籥	uu vu yt	1
+籦	uu vu vs	1
+籧	uu vu ju	1
+笾	uu vu bm	1
+簖	uu vu dr	1
+篱	uu vu li	1
+箩	uu vu lo	1
+籯	uu vu yk	1
+籰	uu vu jt	1
+籱	uu vu yu iz	1
+籱	uu vu yu vv vv	1
+粒	uu mi li	1
+粓	uu mi gj	1
+粕	uu mi bd	1
+粖	uu mi mo	1
+粗	uu mi qp	1
+粘	uu mi vj	1
+粙	uu mi yz	1
+粚	uu mi pp yi ye	1
+粜	uu iu mi	1
+粞	uu mi xi	1
+粟	uu xi mi	1
+粟	uu ya mi	1
+粟	uu xi mi	1
+粠	uu mi gs	1
+粡	uu mi ts	1
+粢	uu ci mi	1
+粥	uu gs mi gs	1
+粦	uu mi ir	1
+粨	uu mi bd	1
+粰	uu mi fu	1
+粱	uu uv dc ba mi	1
+粱	uu uv dc ba mi	1
+粲	uu dd yz mi	1
+粲	uu ee yz mi	1
+粳	uu mi gg	1
+粴	uu mi li	1
+粤	uu vu js mi kv	1
+粶	uu mi lu	1
+粷	uu mi ju	1
+粸	uu mi qi	1
+粹	uu mi zu	1
+粺	uu mi bw	1
+粼	uu lb kk	1
+粽	uu mi zs	1
+精	uu mi qk	1
+粿	uu mi go	1
+糂	uu mi uf	1
+糄	uu mi bm	1
+糅	uu mi rz	1
+糆	uu mi mm	1
+糇	uu mi hz	1
+糈	uu mi xu	1
+粽	uu mi zs	1
+糊	uu mi hu	1
+糋	uu mi qm	1
+糌	uu mi vi rf ri	1
+糍	uu mi zi	1
+糎	uu mi li	1
+糏	uu mi xp	1
+糐	uu mi fu	1
+糑	uu mi ro	1
+糒	uu mi cc ih ys	1
+糒	uu mi cc ih ys	1
+糓	uu ui mi yi mi uu	1
+糔	uu mi zc	1
+糕	uu mi gc	1
+糖	uu mi th	1
+糗	uu mi iz	1
+糙	uu mi zc	1
+粧	uu mi vl	1
+糛	uu mi th	1
+糜	uu ma mi	1
+糁	uu mi cj	1
+粪	uu mi gs	1
+糟	uu mi cc	1
+糠	uu mi kh	1
+糡	uu mi jk	1
+糢	uu mi mo	1
+糣	uu mi ji ji ri	1
+糣	uu mi cj	1
+糤	uu mi sj	1
+糥	uu mi xu	1
+糦	uu mi xi	1
+粮	uu mi ll	1
+糨	uu mi ql	1
+糪	uu pi mi	1
+糫	uu mi qs	1
+糯	uu mi xu	1
+糱	uu xt mi	1
+粝	uu mi li	1
+糳	uu vo jq uu mi	1
+糵	uu xt mi	1
+糶	uu tn di	1
+紫	uu ci si	1
+紫	uu ci mi	1
+累	uu tm mi	1
+累	uu tm si	1
+絛	uu yz mi	1
+絜	uu fg dc mi	1
+絫	uu lw mi	1
+絭	uu ba fu mi	1
+絭	uu jr mi	1
+絮	uu ru si	1
+絮	uu ru mi	1
+綔	uu kx xi	1
+综	uu si zs	1
+综	uu si zs	1
+缍	uu si iv	1
+缍	uu si iv	1
+绿	uu si lu	1
+绿	uu si lu	1
+绸	uu si vz	1
+绸	uu si vz	1
+绻	uu si jr	1
+绻	uu si jr	1
+綤	uu uc mi	1
+綦	uu qi mi	1
+绶	uu si uz	1
+绶	uu si uz	1
+维	uu si vv	1
+维	uu si vv	1
+綮	uu hu pu mi	1
+綮	uu hu pu mi	1
+绹	uu si tc	1
+绹	uu si tc	1
+绾	uu si gr	1
+绾	uu si gr	1
+绷	uu si pg	1
+绷	uu si pg	1
+缀	uu si vo	1
+缀	uu si vo	1
+绺	uu si jq	1
+绺	uu si jq	1
+绮	uu si qi	1
+绮	uu si qi	1
+绽	uu si dk	1
+绽	uu si dk	1
+绰	uu si vo	1
+绰	uu si vo	1
+绫	uu si lk	1
+绫	uu si lk	1
+绵	uu si bo	1
+绵	uu si bo	1
+绲	uu si ky	1
+绲	uu si ky	1
+缁	uu si zd	1
+缁	uu si zd	1
+绯	uu si fw	1
+绯	uu si fw	1
+緐	uu mw xi	1
+绿	uu si lu	1
+绿	uu si lu	1
+绪	uu si ve	1
+绪	uu si ve	1
+绬	uu si yk	1
+绬	uu si yk	1
+绱	uu si uh	1
+绱	uu si uh	1
+绪	uu si ve	1
+绪	uu si ve	1
+缃	uu si xl	1
+缃	uu si xl	1
+缄	uu si xm	1
+缄	uu si xm	1
+缂	uu si ge	1
+缂	uu si ge	1
+缐	uu si qr	1
+缐	uu si qr	1
+緜	uu bo xi	1
+缉	uu si qi	1
+缉	uu si qi	1
+缉	uu si kz er	1
+缎	uu si dr	1
+缎	uu si dr	1
+缔	uu si di	1
+缔	uu si di	1
+缗	uu si hy	1
+缗	uu si hy	1
+缘	uu si tr	1
+缘	uu si tr	1
+缌	uu si si	1
+缌	uu si si	1
+编	uu si bm	1
+编	uu si bm	1
+缓	uu si yr	1
+缓	uu si yr	1
+缅	uu si mm	1
+缅	uu si mm	1
+缑	uu si hz	1
+缑	uu si hz	1
+缈	uu si mu uc	1
+缈	uu si mu uc	1
+緳	uu gl jp	1
+缏	uu si bm	1
+缏	uu si bm	1
+缇	uu si ui	1
+缇	uu si ui	1
+缊	uu si wf	1
+缊	uu si wf	1
+缠	uu si li	1
+缠	uu si li	1
+萦	uu cc mi si	1
+萦	uu cc mi si	1
+缙	uu si jb	1
+缙	uu si jb	1
+缢	uu si yi	1
+缢	uu si yi	1
+缒	uu si vv	1
+缒	uu si vv	1
+縏	uu bj mi	1
+缣	uu si jm	1
+缣	uu si jm	1
+缊	uu si wf	1
+缊	uu si wf	1
+缞	uu si uk	1
+缞	uu si uk	1
+缚	uu si fu	1
+缚	uu si fu	1
+缜	uu si vf	1
+缜	uu si vf	1
+缟	uu si gc	1
+缟	uu si gc	1
+缛	uu si ru	1
+缛	uu si ru	1
+縠	uu ui mi xi uu	1
+縢	uu rz jr	1
+縢	uu yt jr	1
+缝	uu si fg	1
+缝	uu si fg	1
+缡	uu si li	1
+缡	uu si li	1
+缩	uu si su	1
+缩	uu si su	1
+缧	uu si lw	1
+缧	uu si lw	1
+缦	uu si mj	1
+缦	uu si mj	1
+絷	uu vi mi	1
+缕	uu si lz	1
+缕	uu si lz	1
+缥	uu si pn	1
+缥	uu si pn	1
+縻	uu ma mi	1
+绩	uu si ze	1
+绩	uu si ze	1
+繁	uu mw pu si	1
+繁	uu mw pu mi	1
+绷	uu si pg	1
+绷	uu si pg	1
+繄	uu yi mi	1
+缫	uu si ic	1
+缫	uu si ic	1
+缪	uu si lq	1
+缪	uu si lq	1
+繇	uu yt fz xi	1
+繋	uu uu mi	1
+缯	uu si cg	1
+缯	uu si cg	1
+缮	uu si uj	1
+缮	uu si uj	1
+缭	uu si ln	1
+缭	uu si ln	1
+繛	uu su vo	1
+繠	uu so mi	1
+缋	uu si gv	1
+缋	uu si gv	1
+繤	uu mu da mi	1
+绳	uu si mb	1
+绳	uu si mb	1
+缰	uu si jl	1
+缰	uu si jl	1
+缳	uu si qs	1
+缳	uu si qs	1
+缲	uu si zc	1
+缲	uu si zc	1
+缴	uu si jn	1
+缴	uu si jn	1
+繴	uu pi mi	1
+缤	uu si bb	1
+缤	uu si bb	1
+缱	uu si qm	1
+缱	uu si qm	1
+纂	uu vu mu da si	1
+纂	uu vu mu da mi	1
+纂	uu vu mu da si	1
+颣	uu mi mi ye	1
+缬	uu si jp	1
+缬	uu si jp	1
+续	uu si md	1
+续	uu si md	1
+纍	uu lw mi	1
+缠	uu si gl li	1
+缠	uu si gl li	1
+缠	uu si gl li	1
+缠	uu si gl li	1
+缨	uu si yk	1
+缨	uu si yk	1
+缵	uu si zj	1
+缵	uu si zj	1
+纛	uu du xm	1
+缆	uu si lj	1
+缆	uu si lj	1
+缾	uu fz bk	1
+缿	uu fz hz	1
+罄	uu ug uu fz	1
+罄	uu qk fz	1
+罅	uu fz hu	1
+罇	uu fz zy	1
+罉	uu fz vh	1
+罋	uu ys fz	1
+罂	uu bw bw fz	1
+罍	uu lw fz	1
+罐	uu fz gr	1
+罣	uu wh gv	1
+罣	uu wh gv	1
+罤	uu wh di	1
+罤	uu wh di	1
+罥	uu wh yr	1
+罥	uu wh yr	1
+罦	uu wh fu	1
+罦	uu wh fu	1
+罧	uu wh lb	1
+罧	uu wh lb	1
+罧	uu gh lb	1
+罨	uu wh yj	1
+罨	uu wh yj	1
+罩	uu wh vo	1
+罩	uu wh vo	1
+罩	uu gh vo	1
+罪	uu wh fw	1
+罪	uu wh fw	1
+罪	uu gh fw	1
+罫	uu wh gx	1
+罫	uu wh gx	1
+罬	uu wh vo	1
+罬	uu wh vo	1
+罭	uu wh ho	1
+罭	uu wh ho	1
+置	uu wh vi	1
+置	uu wh vi	1
+置	uu gh vi	1
+罯	uu wh yb	1
+罯	uu wh yb	1
+罱	uu wh nj	1
+罱	uu wh nj	1
+署	uu wh ve	1
+署	uu wh ve	1
+罳	uu wh si	1
+罳	uu wh si	1
+罶	uu wh lq	1
+罶	uu wh lq	1
+罹	uu wh xb vv	1
+罹	uu wh xb vv	1
+罹	uu gh xb vv	1
+罺	uu wh ic	1
+罺	uu wh ic	1
+罻	uu wh ww	1
+罻	uu wh ww	1
+罽	uu wh ih uj	1
+罽	uu wh ih uj	1
+罾	uu wh cg	1
+罾	uu wh cg	1
+罿	uu wh ts	1
+罿	uu wh ts	1
+羀	uu wh lq	1
+羀	uu wh lq	1
+羃	uu wh mu	1
+羃	uu wh mu	1
+罴	uu ba ho	1
+罴	uu ba bn	1
+羇	uu wh ge qi	1
+羇	uu wh ge qi	1
+羁	uu wh ge ma	1
+羁	uu wh ge ma	1
+羕	uu yh ys	1
+羚	uu yh lk	1
+羛	uu yh fu	1
+羜	uu yh nk	1
+羝	uu yh di	1
+羠	uu yh yi	1
+羢	uu yh rs	1
+羣	uu jy yh	1
+群	uu jy yh	1
+羟	uu yh ug	1
+羦	uu yh wj	1
+羧	uu yh qy	1
+羡	uu yh ci	1
+羫	uu yh ks	1
+羬	uu yh xm	1
+羭	uu yh yu	1
+羮	uu gc yi fu	1
+羯	uu yh he	1
+羰	uu yh tj	1
+羱	uu yh yr	1
+羲	uu yh he kc ge	1
+羳	uu yh fj	1
+羶	uu yh dj	1
+羶	uu yh dj	1
+羸	uu wh kz yt yh fj	1
+羹	uu gc mw	1
+羺	uu yh xu	1
+羼	uu ui uj	1
+翇	uu yu ba	1
+翈	uu jx yu	1
+翉	uu bf yu	1
+翊	uu li yu	1
+翋	uu yu li	1
+翌	uu yu li	1
+翍	uu yu pi	1
+翎	uu lk yu	1
+翏	uu yu rf uj	1
+翐	uu yu ui	1
+翑	uu yu ju	1
+翓	uu ji yu	1
+翔	uu yh yu	1
+翕	uu he yu	1
+翖	uu he yu	1
+翗	uu do yu	1
+翛	uu yz yu	1
+翝	uu hs yu	1
+翞	uu yu jk	1
+翟	uu yu vv	1
+翠	uu yu zu	1
+翡	uu fw yu	1
+翢	uu vz yu	1
+翣	uu yu qp	1
+翤	uu kz ce	1
+翥	uu ve yu	1
+翦	uu qm yu	1
+翧	uu xr yu	1
+翨	uu yu ui	1
+翩	uu bm yu	1
+翪	uu yu xs ba xi	1
+翪	uu yu xs ba vi	1
+翫	uu xi yr	1
+翚	uu yu jy	1
+翭	uu yu hz	1
+翮	uu ge yu	1
+翯	uu yu gc	1
+翰	uu ui ri ui rf yu	1
+翲	uu pn yu	1
+翳	uu yi yu	1
+翷	uu lb yu	1
+翘	uu yc yu	1
+翱	uu gc yu	1
+翻	uu fj yu	1
+翼	uu yu yi	1
+翙	uu sv yu	1
+翾	uu qs yu	1
+耀	uu gl di	1
+耈	uu lc ju	1
+耋	uu lc vi	1
+耚	uu lw pi	1
+耛	uu lw td	1
+耜	uu lw ui ya yi	1
+耝	uu lw qp	1
+耞	uu lw jx	1
+耠	uu lw he	1
+耡	uu lw vu	1
+耤	uu lw xi	1
+耥	uu lw uh	1
+耦	uu lw yu	1
+耨	uu lw ru	1
+耩	uu lw gz	1
+耪	uu lw ph	1
+耫	uu lw ze	1
+耧	uu lw lz	1
+耢	uu lw lc	1
+耯	uu lw ho	1
+耰	uu lw yz	1
+耱	uu lw mo	1
+耲	uu lw hk	1
+聃	uu er rj	1
+聄	uu er rf uj	1
+聅	uu er ui	1
+聆	uu er lk	1
+聇	uu er vg	1
+聈	uu er yz	1
+聉	uu er iu	1
+聊	uu er mc	1
+聎	uu er vc	1
+聏	uu er er	1
+聐	uu er ji	1
+聑	uu er er	1
+聒	uu er ue	1
+聕	uu er gc	1
+聘	uu er pk	1
+聘	uu er yz kc	1
+聙	uu er qk	1
+聚	uu er yz yb	1
+聛	uu er bw	1
+聜	uu er ks	1
+聝	uu er ho	1
+聟	uu vi er	1
+聠	uu er bk	1
+聡	uu er cs	1
+聤	uu er tk	1
+聥	uu er yu	1
+聦	uu er cs	1
+聧	uu er gv	1
+聫	uu er yc yc da	1
+聬	uu er wg	1
+聭	uu er gv	1
+联	uu er gr	1
+聪	uu er zs	1
+聱	uu ao er	1
+聩	uu er gv	1
+职	uu er vi	1
+聸	uu er vj	1
+聍	uu er nk	1
+聋	uu ls er	1
+肄	uu bi ui yu	1
+肆	uu ih yu	1
+肇	uu hu pu yu	1
+肇	uu hu pu yu	1
+肇	uu hu pu yu	1
+肇	uu hu pu yu	1
+肈	uu hu ge yu	1
+胔	uu ci rz	1
+胔	uu ci yt	1
+胬	uu nu rz	1
+胬	uu nu yt	1
+胾	uu ui ge rz	1
+胾	uu tu ge rz	1
+胾	uu zd rz	1
+脕	uu rz mm	1
+脕	uu yt mm	1
+脖	uu rz bw	1
+脖	uu yt bw	1
+脗	uu rz wu kz	1
+脗	uu yt wu kz	1
+脘	uu rz wj	1
+脘	uu yt wj	1
+脙	uu rz qq	1
+脙	uu yt qq	1
+脜	uu rz yi zi	1
+脜	uu yt yi zi	1
+脝	uu rz hg	1
+脝	uu yt hg	1
+脞	uu rz zo	1
+脞	uu yt zo	1
+脟	uu rz lv	1
+脟	uu yt lv	1
+脢	uu rz mw	1
+脢	uu yt mw	1
+脣	uu if rz	1
+脣	uu if yt	1
+脤	uu rz if	1
+脤	uu yt if	1
+脦	uu rz te	1
+脦	uu yt te	1
+脧	uu rz qy	1
+脧	uu yt qy	1
+脨	uu rz uu	1
+脨	uu yt uu	1
+脪	uu rz xi	1
+脪	uu yt xi	1
+脱	uu rz dv	1
+脱	uu yt dv	1
+脬	uu rz fu	1
+脬	uu yt fu	1
+脭	uu rz ig	1
+脭	uu yt ig	1
+脮	uu rz to	1
+脮	uu yt to	1
+脯	uu rz fu	1
+脯	uu yt fu	1
+脰	uu rz dz	1
+脰	uu yt dz	1
+脲	uu rz nn	1
+脲	uu yt nn	1
+脴	uu rz fz	1
+脴	uu yt fz	1
+脵	uu rz wu	1
+脵	uu yt wu	1
+脷	uu rz li	1
+脷	uu yt li	1
+脺	uu rz zu	1
+脺	uu yt zu	1
+脽	uu rz vv	1
+脽	uu yt vv	1
+脾	uu rz bw	1
+脾	uu yt bw	1
+脿	uu rz bn	1
+脿	uu yt bn	1
+腂	uu rz go	1
+腂	uu yt go	1
+腃	uu rz jr	1
+腃	uu yt jr	1
+腄	uu rz iv	1
+腄	uu yt iv	1
+腅	uu rz yj	1
+腅	uu yt yj	1
+腆	uu rz dm	1
+腆	uu yt dm	1
+腇	uu rz ww	1
+腇	uu yt ww	1
+腈	uu rz qk	1
+腈	uu yt qk	1
+腉	uu rz er	1
+腉	uu yt er	1
+腋	uu rz ye	1
+腋	uu yt ye	1
+腍	uu rz nm	1
+腍	uu yt nm	1
+腏	uu rz vo	1
+腏	uu yt vo	1
+腐	uu fu rz	1
+腐	uu gl fu rz	1
+腑	uu rz fu	1
+腑	uu yt fu	1
+腒	uu rz ju	1
+腒	uu yt ju	1
+腓	uu rz fw	1
+腓	uu yt fw	1
+腔	uu rz ks	1
+腔	uu yt ks	1
+腕	uu rz wj	1
+腕	uu yt wj	1
+腗	uu rz bi	1
+腗	uu yt bi	1
+腙	uu rz zs	1
+腙	uu yt zs	1
+腚	uu rz dk	1
+腚	uu yt dk	1
+腛	uu rz wu	1
+腛	uu yt wu	1
+腜	uu rz mz	1
+腜	uu yt mz	1
+腝	uu rz rr	1
+腝	uu yt rr	1
+腞	uu rz tr	1
+腞	uu yt tr	1
+腟	uu rz ui	1
+腟	uu yt ui	1
+腠	uu rz zz	1
+腠	uu yt zz	1
+脶	uu rz go	1
+脶	uu yt go	1
+腢	uu rz yu	1
+腢	uu yt yu	1
+腣	uu rz di	1
+腣	uu yt di	1
+腤	uu rz yb	1
+腤	uu yt yb	1
+腥	uu rz xk	1
+腥	uu yt xk	1
+腧	uu rz yu	1
+腧	uu yt yu	1
+腨	uu rz dr	1
+腨	uu yt dr	1
+腩	uu rz nj	1
+腩	uu yt nj	1
+腬	uu rz rz	1
+腬	uu yt rz	1
+腭	uu rz ee	1
+腭	uu yt ee	1
+腮	uu rz si	1
+腮	uu yt si	1
+腯	uu rz dy	1
+腯	uu yt dy	1
+腰	uu rz yc	1
+腰	uu yt yc	1
+腱	uu rz jm	1
+腱	uu yt jm	1
+腲	uu rz ww	1
+腲	uu yt ww	1
+脚	uu rz qt	1
+脚	uu yt qt	1
+腴	uu rz yu	1
+腴	uu yt yu	1
+腵	uu rz jx	1
+腵	uu yt jx	1
+腶	uu rz dr	1
+腶	uu yt dr	1
+腷	uu rz fu	1
+腷	uu yt fu	1
+腹	uu rz fu	1
+腹	uu yt fu	1
+腺	uu rz qr	1
+腺	uu yt qr	1
+腿	uu rz tv	1
+腿	uu yt tv	1
+膀	uu rz ph	1
+膀	uu yt ph	1
+膁	uu rz jm	1
+膁	uu yt jm	1
+膂	uu lv rz	1
+膂	uu lv yt	1
+腽	uu rz wf	1
+腽	uu yt wf	1
+膄	uu rz sz	1
+膄	uu yt sz	1
+膅	uu rz th	1
+膅	uu yt th	1
+膆	uu rz su	1
+膆	uu yt su	1
+膇	uu rz vv	1
+膇	uu yt vv	1
+膈	uu rz ge	1
+膈	uu yt ge	1
+膉	uu rz yi	1
+膉	uu yt yi	1
+膊	uu rz fu	1
+膊	uu yt fu	1
+膌	uu rz ji	1
+膌	uu yt ji	1
+膍	uu rz xb bi	1
+膍	uu yt xb bi	1
+膎	uu rz xi	1
+膎	uu yt xi	1
+膏	uu gc rz	1
+膏	uu gc yt	1
+膐	uu lv rz	1
+膐	uu lv yt	1
+膔	uu rz lu	1
+膔	uu yt lu	1
+腘	uu rz go	1
+腘	uu yt go	1
+膖	uu rz fg	1
+膖	uu yt fg	1
+膗	uu rz cv	1
+膗	uu yt cv	1
+膘	uu rz pn	1
+膘	uu yt pn	1
+膙	uu rz ql	1
+膙	uu yt ql	1
+膛	uu rz th	1
+膛	uu yt th	1
+膜	uu rz mo	1
+膜	uu yt mo	1
+膝	uu rz qi	1
+膝	uu yt qi	1
+膟	uu rz lv	1
+膟	uu yt lv	1
+膡	uu rz jr	1
+膡	uu yt jr	1
+膣	uu rz vi	1
+膣	uu yt vi	1
+膥	uu mo ig	1
+膦	uu rz lb	1
+膦	uu yt lb	1
+膧	uu rz ts	1
+膧	uu yt ts	1
+膨	uu rz pg	1
+膨	uu yt pg	1
+腻	uu rz er	1
+腻	uu yt er	1
+膪	uu rz ii	1
+膪	uu yt ii	1
+膫	uu rz ln	1
+膫	uu yt ln	1
+膬	uu rz cv	1
+膬	uu yt cv	1
+膯	uu rz dg	1
+膯	uu yt dg	1
+膰	uu rz fj	1
+膰	uu yt fj	1
+膲	uu rz jn	1
+膲	uu yt jn	1
+膳	uu rz uj	1
+膳	uu yt uj	1
+膵	uu rz cv	1
+膵	uu yt cv	1
+膺	uu gl rf vv rz	1
+膺	uu gl rf vv yt	1
+膺	uu gl rf vv rz	1
+膺	uu gl sv rz	1
+膻	uu rz dj	1
+膻	uu yt dj	1
+臀	uu rz dm	1
+臀	uu yt dm	1
+臁	uu rz lm	1
+臁	uu yt lm	1
+臂	uu rz pi	1
+臂	uu yt pi	1
+臃	uu rz ys	1
+臃	uu yt ys	1
+臄	uu rz ju	1
+臄	uu yt ju	1
+臅	uu rz uu	1
+臅	uu yt uu	1
+臆	uu rz yi	1
+臆	uu yt yi	1
+臇	uu rz jr	1
+臇	uu yt jr	1
+臈	uu rz ge	1
+臈	uu yt ge	1
+脸	uu rz qm	1
+脸	uu yt qm	1
+臊	uu rz zc	1
+臊	uu yt zc	1
+臋	uu dm rz	1
+臋	uu dm yt	1
+臌	uu rz gu	1
+臌	uu yt gu	1
+臎	uu rz cv	1
+臎	uu yt cv	1
+膑	uu rz bb	1
+膑	uu yt bb	1
+臐	uu rz xy	1
+臐	uu yt xy	1
+臑	uu rz xu	1
+臑	uu yt xu	1
+臒	uu rz ho	1
+臒	uu yt ho	1
+臕	uu rz pc	1
+臕	uu yt pc	1
+臖	uu xk rz	1
+臖	uu xk yt	1
+腊	uu rz xi	1
+腊	uu yt xi	1
+臙	uu rz yj	1
+臙	uu yt yj	1
+臛	uu rz ho	1
+臛	uu yt ho	1
+臝	uu wh kz yt go fj	1
+臞	uu rz qu	1
+臞	uu yt qu	1
+脔	uu yi rz	1
+臜	uu rz zj	1
+臜	uu yt zj	1
+臧	uu yi pj fu pp vu if	1
+臧	uu pj wu if	1
+臩	uu gl gc	1
+臮	uu zi xx rf rf	1
+臯	uu zi vu vu ui vu vu	1
+臯	uu zi er ui er	1
+臰	uu zi si	1
+臱	uu zi xt fh	1
+臲	uu np ww	1
+臵	uu vi ge	1
+臶	uu vi cy	1
+臷	uu ui ge vi	1
+臷	uu tu ge vi	1
+臷	uu zd vi	1
+臸	uu vi vi	1
+臹	uu vi ig	1
+臻	uu vi qb	1
+舂	uu fu yi jq	1
+舃	uu jq yi bc ho xi	1
+舃	uu jq yi bc bn xi	1
+舄	uu jq bc ho	1
+舄	uu jq bc bn	1
+舅	uu jq nj	1
+舋	uu jq ts mi qp	1
+舑	uu ue rj	1
+舒	uu ue yu	1
+舓	uu ue yi	1
+舔	uu ue tm	1
+舕	uu ue yj	1
+铺	uu jb fu	1
+铺	uu jb fu	1
+铺	uu jb jb fu	1
+铺	uu jb jb fu	1
+舘	uu rf ue gr	1
+舙	uu ue ue ue	1
+舚	uu ue vj	1
+舜	uu vc mi ir	1
+舜	uu vc mi ir	1
+舝	uu tu ir mi mz	1
+舞	uu pp yi xi yi ir	1
+舞	uu pp yi yi gy gy gy gy yi ir	1
+舲	uu vz lk	1
+舳	uu vz yz	1
+舴	uu vz va	1
+舵	uu vz ta	1
+舶	uu vz bd	1
+舷	uu vz xr	1
+舸	uu vz ke	1
+船	uu vz ba kz	1
+舺	uu vz jx	1
+舼	uu vz gs	1
+舽	uu vz jl	1
+舾	uu vz xi	1
+艀	uu vz fu	1
+艁	uu vz gc	1
+艂	uu vz fg	1
+艃	uu vz li	1
+艄	uu vz xn	1
+艅	uu vz yu	1
+艆	uu vz ll	1
+艇	uu vz tk	1
+艉	uu vz ww	1
+艊	uu vz bo	1
+艋	uu vz mg	1
+艌	uu vz nm	1
+艍	uu vz ju	1
+艎	uu vz hl	1
+艏	uu vz uz	1
+艐	uu vz xs ba xi	1
+艐	uu vz xs ba vi	1
+艑	uu vz bm	1
+艒	uu vz mc	1
+艓	uu vz ye	1
+艕	uu vz ph	1
+艖	uu vz ia	1
+艗	uu vz yi	1
+艘	uu vz sz	1
+艚	uu vz cc	1
+艞	uu vz yc	1
+艟	uu vz ts	1
+艥	uu vz qi ge	1
+艧	uu vz ho	1
+艨	uu vz mg	1
+舻	uu vz lu	1
+艬	uu vz ij	1
+艴	uu fu se	1
+艵	uu bk se	1
+茻	uu ie ie ie ie	1
+茻	uu cc cc	1
+莾	uu cc bf	1
+莾	uu cc bf	1
+莾	uu cc bf	1
+莿	uu cc ci	1
+莿	uu cc ci	1
+莿	uu cc ci	1
+菀	uu cc wj	1
+菀	uu cc wj	1
+菀	uu cc wj	1
+菁	uu cc qk	1
+菁	uu cc qk	1
+菁	uu cc qk	1
+菂	uu cc de	1
+菂	uu cc de	1
+菂	uu cc de	1
+菅	uu cc gr	1
+菅	uu cc gr	1
+菅	uu cc gr	1
+菆	uu cc qu	1
+菆	uu cc qu	1
+菆	uu cc qu	1
+菇	uu cc gu	1
+菇	uu cc gu	1
+菇	uu cc gu	1
+菈	uu cc la	1
+菈	uu cc la	1
+菈	uu cc la	1
+菉	uu cc lu	1
+菉	uu cc lu	1
+菉	uu cc lu	1
+菊	uu cc ju	1
+菊	uu cc ju	1
+菊	uu cc ju	1
+菊	uu cc bc mi	1
+菋	uu cc ww	1
+菋	uu cc ww	1
+菋	uu cc ww	1
+菌	uu cc qy	1
+菌	uu cc qy	1
+菌	uu cc qy	1
+菍	uu cc nm	1
+菍	uu cc nm	1
+菍	uu cc nm	1
+菎	uu cc ky	1
+菎	uu cc ky	1
+菎	uu cc ky	1
+菏	uu cc he	1
+菏	uu cc he	1
+菏	uu cc he	1
+菐	uu ye ba sj rf	1
+菑	uu cc zd	1
+菑	uu cc zd	1
+菑	uu cc zd	1
+菒	uu cc gc	1
+菒	uu cc gc	1
+菒	uu cc gc	1
+菔	uu cc fu	1
+菔	uu cc fu	1
+菔	uu cc fu	1
+菖	uu cc ih	1
+菖	uu cc ih	1
+菖	uu cc ih	1
+菗	uu cc iz	1
+菗	uu cc iz	1
+菗	uu cc iz	1
+菘	uu cc ss	1
+菘	uu cc ss	1
+菘	uu cc ss	1
+菙	uu cc iv	1
+菙	uu cc iv	1
+菙	uu cc iv	1
+菜	uu cc cd	1
+菜	uu cc cd	1
+菜	uu cc cd	1
+菝	uu cc ba	1
+菝	uu cc ba	1
+菝	uu cc ba	1
+菞	uu cc he bc pp	1
+菞	uu cc he bc pp	1
+菞	uu cc he bc pp	1
+菟	uu cc tu	1
+菟	uu cc tu	1
+菟	uu cc tu	1
+菠	uu cc bo	1
+菠	uu cc bo	1
+菠	uu cc bo	1
+菡	uu cc hj	1
+菡	uu cc hj	1
+菡	uu cc hj	1
+菢	uu cc bc	1
+菢	uu cc bc	1
+菢	uu cc bc	1
+菤	uu cc jr	1
+菤	uu cc jr	1
+菤	uu cc jr	1
+菥	uu cc xi	1
+菥	uu cc xi	1
+菥	uu cc xi	1
+菧	uu cc di	1
+菧	uu cc di	1
+菧	uu cc di	1
+菨	uu cc qp	1
+菨	uu cc qp	1
+菨	uu cc qp	1
+菩	uu cc pz	1
+菩	uu cc pz	1
+菩	uu cc pz	1
+菪	uu cc dh	1
+菪	uu cc dh	1
+菪	uu cc dh	1
+菫	uu cc xx kz sj	1
+菫	uu cc xx kz sj	1
+菫	uu cc xx kz sj	1
+菬	uu cc vc	1
+菬	uu cc vc	1
+菬	uu cc vc	1
+菭	uu cc vi	1
+菭	uu cc vi	1
+菭	uu cc vi	1
+菮	uu cc gg	1
+菮	uu cc gg	1
+菮	uu cc gg	1
+菰	uu cc gu	1
+菰	uu cc gu	1
+菰	uu cc gu	1
+菱	uu cc lk	1
+菱	uu cc lk	1
+菱	uu cc lk	1
+菲	uu cc fw	1
+菲	uu cc fw	1
+菲	uu cc fw	1
+菳	uu cc jb	1
+菳	uu cc jb	1
+菳	uu cc jb	1
+菴	uu cc yj	1
+菴	uu cc yj	1
+菴	uu cc yj	1
+菵	uu cc wh	1
+菵	uu cc wh	1
+菵	uu cc wh	1
+菶	uu cc fg	1
+菶	uu cc fg	1
+菶	uu cc fg	1
+菷	uu cc vz	1
+菷	uu cc vz	1
+菷	uu cc vz	1
+菹	uu cc ju	1
+菹	uu cc ju	1
+菹	uu cc ju	1
+菺	uu cc jm	1
+菺	uu cc jm	1
+菺	uu cc jm	1
+菻	uu cc lb	1
+菻	uu cc lb	1
+菻	uu cc lb	1
+菼	uu cc yj	1
+菼	uu cc yj	1
+菼	uu cc yj	1
+菽	uu cc uu	1
+菽	uu cc uu	1
+菽	uu cc uu	1
+菾	uu cc tm	1
+菾	uu cc tm	1
+菾	uu cc tm	1
+菿	uu cc dc	1
+菿	uu cc dc	1
+菿	uu cc dc	1
+萀	uu cc hu	1
+萀	uu cc hu	1
+萀	uu cc hu	1
+萁	uu cc qi	1
+萁	uu cc qi	1
+萁	uu cc qi	1
+萂	uu cc he	1
+萂	uu cc he	1
+萂	uu cc he	1
+萃	uu cc zu	1
+萃	uu cc zu	1
+萃	uu cc zu	1
+萄	uu cc tc	1
+萄	uu cc tc	1
+萄	uu cc tc	1
+萅	uu cc iy	1
+萅	uu cc iy	1
+萅	uu cc iy	1
+萆	uu cc bw	1
+萆	uu cc bw	1
+萆	uu cc bw	1
+萉	uu cc fw	1
+萉	uu cc fw	1
+萉	uu cc fw	1
+萋	uu cc qi	1
+萋	uu cc qi	1
+萋	uu cc qi	1
+萌	uu cc mk	1
+萌	uu cc mk	1
+萌	uu cc mk	1
+萍	uu cc uv pk	1
+萍	uu cc uv pk	1
+萍	uu cc uv pk	1
+萎	uu cc ww	1
+萎	uu cc ww	1
+萎	uu cc ww	1
+萏	uu cc xm	1
+萏	uu cc xm	1
+萏	uu cc xm	1
+萐	uu cc jp	1
+萐	uu cc jp	1
+萐	uu cc jp	1
+萒	uu cc yj	1
+萒	uu cc yj	1
+萒	uu cc yj	1
+萓	uu cc yi	1
+萓	uu cc yi	1
+萓	uu cc yi	1
+萔	uu cc vc	1
+萔	uu cc vc	1
+萔	uu cc vc	1
+萖	uu cc er	1
+萖	uu cc er	1
+萖	uu cc er	1
+萗	uu cc zs	1
+萗	uu cc zs	1
+萗	uu cc zs	1
+萘	uu cc nd	1
+萘	uu cc nd	1
+萘	uu cc nd	1
+萛	uu cc mu gs	1
+萛	uu cc mu gs	1
+萛	uu cc mu gs	1
+萜	uu cc tp	1
+萜	uu cc tp	1
+萜	uu cc tp	1
+萠	uu cc pg	1
+萠	uu cc pg	1
+萠	uu cc pg	1
+萩	uu cc qq	1
+萩	uu cc qq	1
+萩	uu cc qq	1
+萪	uu cc ke	1
+萪	uu cc ke	1
+萪	uu cc ke	1
+萫	uu cc xl	1
+萫	uu cc xl	1
+萫	uu cc xl	1
+萭	uu cc yu	1
+萭	uu cc yu	1
+萭	uu cc yu	1
+萮	uu cc yu	1
+萮	uu cc yu	1
+萮	uu cc yu	1
+萰	uu cc jm	1
+萰	uu cc jm	1
+萰	uu cc jm	1
+萱	uu cc xr	1
+萱	uu cc xr	1
+萱	uu cc xr	1
+萲	uu cc yr	1
+萲	uu cc yr	1
+萲	uu cc yr	1
+萳	uu cc nj	1
+萳	uu cc nj	1
+萳	uu cc nj	1
+萶	uu cc iy	1
+萶	uu cc iy	1
+萶	uu cc iy	1
+萷	uu cc xt	1
+萷	uu cc xt	1
+萷	uu cc xt	1
+萸	uu cc yu	1
+萸	uu cc yu	1
+萸	uu cc yu	1
+萹	uu cc bm	1
+萹	uu cc bm	1
+萹	uu cc bm	1
+萺	uu cc mc	1
+萺	uu cc mc	1
+萺	uu cc mc	1
+萻	uu cc yb	1
+萻	uu cc yb	1
+萻	uu cc yb	1
+萼	uu cc ee	1
+萼	uu cc ee	1
+萼	uu cc ee	1
+落	uu cc lo	1
+落	uu cc lo	1
+落	uu cc lo	1
+萾	uu cc yk	1
+萾	uu cc yk	1
+萾	uu cc yk	1
+萿	uu cc ho	1
+萿	uu cc ho	1
+萿	uu cc ho	1
+葀	uu cc ko	1
+葀	uu cc ko	1
+葀	uu cc ko	1
+葁	uu cc jl	1
+葁	uu cc jl	1
+葁	uu cc jl	1
+葂	uu cc mm	1
+葂	uu cc mm	1
+葂	uu cc mm	1
+葃	uu cc zo	1
+葃	uu cc zo	1
+葃	uu cc zo	1
+葄	uu cc zo	1
+葄	uu cc zo	1
+葄	uu cc zo	1
+葅	uu cc zu	1
+葅	uu cc zu	1
+葅	uu cc zu	1
+葆	uu cc bc	1
+葆	uu cc bc	1
+葆	uu cc bc	1
+葇	uu cc rz	1
+葇	uu cc rz	1
+葇	uu cc rz	1
+葈	uu cc xi	1
+葈	uu cc xi	1
+葈	uu cc xi	1
+葈	uu td mu	1
+葊	uu cc yj	1
+葊	uu cc yj	1
+葊	uu cc yj	1
+葋	uu cc qu	1
+葋	uu cc qu	1
+葋	uu cc qu	1
+葌	uu cc jm	1
+葌	uu cc jm	1
+葌	uu cc jm	1
+葍	uu cc fu	1
+葍	uu cc fu	1
+葍	uu cc fu	1
+葎	uu cc lv	1
+葎	uu cc lv	1
+葎	uu cc lv	1
+葏	uu cc jb	1
+葏	uu cc jb	1
+葏	uu cc jb	1
+葐	uu cc pf	1
+葐	uu cc pf	1
+葐	uu cc pf	1
+葐	uu ff mb	1
+葑	uu cc fg	1
+葑	uu cc fg	1
+葑	uu cc fg	1
+葓	uu cc hs	1
+葓	uu cc hs	1
+葓	uu cc hs	1
+葔	uu cc hz	1
+葔	uu cc hz	1
+葔	uu cc hz	1
+葕	uu cc yj	1
+葕	uu cc yj	1
+葕	uu cc yj	1
+葖	uu cc tu	1
+葖	uu cc tu	1
+葖	uu cc tu	1
+着	uu yh pp mu	1
+著	uu cc ve	1
+著	uu cc ve	1
+著	uu cc ve	1
+葘	uu cc zd yi	1
+葘	uu cc zd yi	1
+葘	uu cc zd yi	1
+葙	uu cc xl	1
+葙	uu cc xl	1
+葙	uu cc xl	1
+葚	uu cc uf	1
+葚	uu cc uf	1
+葚	uu cc uf	1
+葛	uu cc he	1
+葛	uu cc he	1
+葛	uu cc he	1
+葜	uu cc qi	1
+葜	uu cc qi	1
+葜	uu cc qi	1
+葞	uu cc mi	1
+葞	uu cc mi	1
+葞	uu cc mi	1
+葟	uu cc hl	1
+葟	uu cc hl	1
+葟	uu cc hl	1
+葠	uu cc qb	1
+葠	uu cc qb	1
+葠	uu cc qb	1
+葡	uu cc pu	1
+葡	uu cc pu	1
+葡	uu cc pu	1
+葢	uu cc he	1
+葢	uu cc he	1
+葢	uu cc he	1
+董	uu cc vs	1
+董	uu cc vs	1
+董	uu cc vs	1
+葥	uu cc qm	1
+葥	uu cc qm	1
+葥	uu cc qm	1
+葧	uu cc bo	1
+葧	uu cc bo	1
+葧	uu cc bo	1
+葨	uu cc ww	1
+葨	uu cc ww	1
+葨	uu cc ww	1
+葩	uu cc pa	1
+葩	uu cc pa	1
+葩	uu cc pa	1
+葪	uu cc jn dc	1
+葪	uu cc jn dc	1
+葪	uu cc jn dc	1
+葫	uu cc hu	1
+葫	uu cc hu	1
+葫	uu cc hu	1
+葬	uu cc si gs	1
+葬	uu cc si gs	1
+葬	uu cc si gs	1
+葭	uu cc jx	1
+葭	uu cc jx	1
+葭	uu cc jx	1
+葮	uu cc dr	1
+葮	uu cc dr	1
+葮	uu cc dr	1
+葰	uu cc jy	1
+葰	uu cc jy	1
+葰	uu cc jy	1
+葲	uu cc qr	1
+葲	uu cc qr	1
+葲	uu cc qr	1
+葳	uu cc ww	1
+葳	uu cc ww	1
+葳	uu cc ww	1
+葴	uu cc xm	1
+葴	uu cc xm	1
+葴	uu cc xm	1
+葵	uu cc gv	1
+葵	uu cc gv	1
+葵	uu cc gv	1
+葶	uu cc tk	1
+葶	uu cc tk	1
+葶	uu cc tk	1
+葸	uu cc si	1
+葸	uu cc si	1
+葸	uu cc si	1
+葹	uu cc ui	1
+葹	uu cc ui	1
+葹	uu cc ui	1
+葺	uu cc qi	1
+葺	uu cc qi	1
+葺	uu cc qi	1
+葺	uu cc kz er	1
+葼	uu cc xs ba xi	1
+葼	uu cc xs ba vi	1
+葼	uu cc xs ba vi	1
+葽	uu cc yc	1
+葽	uu cc yc	1
+葽	uu cc yc	1
+葾	uu cc yr	1
+葾	uu cc yr	1
+葾	uu cc yr	1
+葾	uu yr xb	1
+葿	uu cc mw	1
+葿	uu cc mw	1
+葿	uu cc mw	1
+蒁	uu cc uu	1
+蒁	uu cc uu	1
+蒁	uu cc uu	1
+蒂	uu cc di	1
+蒂	uu cc di	1
+蒂	uu cc di	1
+蒃	uu cc tr	1
+蒃	uu cc tr	1
+蒃	uu cc tr	1
+蒄	uu cc gr	1
+蒄	uu cc gr	1
+蒄	uu cc gr	1
+蒆	uu cc gs nv	1
+蒆	uu cc gs nv	1
+蒆	uu cc gs nv	1
+蒈	uu cc jp	1
+蒈	uu cc jp	1
+蒈	uu cc jp	1
+蒎	uu cc pd	1
+蒎	uu cc pd	1
+蒎	uu cc pd	1
+蒐	uu cc gv	1
+蒐	uu cc gv	1
+蒐	uu cc gv	1
+蒑	uu cc yb	1
+蒑	uu cc yb	1
+蒑	uu cc yb	1
+蒀	uu cc wf	1
+蒀	uu cc wf	1
+蒀	uu cc wf	1
+蒖	uu cc vf	1
+蒖	uu cc vf	1
+蒖	uu cc vf	1
+蒗	uu cc lh	1
+蒗	uu cc lh	1
+蒗	uu cc lh	1
+蒘	uu cc na	1
+蒘	uu cc na	1
+蒘	uu cc na	1
+蒘	uu ru uz	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+蒙	uu cc mg	1
+蒚	uu cc ge	1
+蒚	uu cc ge	1
+蒚	uu cc ge	1
+蒛	uu cc qt	1
+蒛	uu cc qt	1
+蒛	uu cc qt	1
+蒜	uu cc ui ui	1
+蒜	uu cc ui ui	1
+蒜	uu cc ui ui	1
+蒝	uu cc yr	1
+蒝	uu cc yr	1
+蒝	uu cc yr	1
+蒟	uu cc li ju	1
+蒟	uu cc li ju	1
+蒟	uu cc li ju	1
+蒠	uu cc xi	1
+蒠	uu cc xi	1
+蒠	uu cc xi	1
+蒡	uu cc ph	1
+蒡	uu cc ph	1
+蒡	uu cc ph	1
+蒢	uu cc iu	1
+蒢	uu cc iu	1
+蒢	uu cc iu	1
+蒣	uu cc xu	1
+蒣	uu cc xu	1
+蒣	uu cc xu	1
+蒤	uu cc tu	1
+蒤	uu cc tu	1
+蒤	uu cc tu	1
+蒥	uu cc lq	1
+蒥	uu cc lq	1
+蒥	uu cc lq	1
+蒦	uu cc vi	1
+蒦	uu cc vv yz	1
+蒦	uu cc vi	1
+蒦	uu cc vi	1
+蒧	uu cc wu vj	1
+蒧	uu cc wu vj	1
+蒧	uu cc wu vj	1
+蒨	uu cc qm	1
+蒨	uu cc qm	1
+蒨	uu cc qm	1
+蒩	uu cc zu	1
+蒩	uu cc zu	1
+蒩	uu cc zu	1
+蒪	uu cc fu	1
+蒪	uu cc fu	1
+蒪	uu cc fu	1
+蒫	uu cc ia	1
+蒫	uu cc ia	1
+蒫	uu cc ia	1
+蒬	uu cc yr	1
+蒬	uu cc yr	1
+蒬	uu cc yr	1
+蒭	uu cc iu	1
+蒭	uu cc iu	1
+蒭	uu cc iu	1
+蒮	uu cc hu	1
+蒮	uu cc hu	1
+蒮	uu cc hu	1
+蒯	uu pj dc	1
+蒯	uu pj dc	1
+蒰	uu cc bj	1
+蒰	uu cc bj	1
+蒰	uu cc bj	1
+蒱	uu cc bu	1
+蒱	uu cc bu	1
+蒱	uu cc bu	1
+蒲	uu cc pu	1
+蒲	uu cc pu	1
+蒲	uu cc pu	1
+蒴	uu cc uo	1
+蒴	uu cc uo	1
+蒴	uu cc uo	1
+蒵	uu cc xi	1
+蒵	uu cc xi	1
+蒵	uu cc xi	1
+蒸	uu cc vg	1
+蒸	uu cc vg	1
+蒸	uu cc vg	1
+蒹	uu cc jm	1
+蒹	uu cc jm	1
+蒹	uu cc jm	1
+蒺	uu cc ji	1
+蒺	uu cc ji	1
+蒺	uu cc ji	1
+蒻	uu cc ro	1
+蒻	uu cc ro	1
+蒻	uu cc ro	1
+蒽	uu cc en	1
+蒽	uu cc en	1
+蒽	uu cc en	1
+蒾	uu cc mi	1
+蒾	uu cc mi	1
+蒾	uu cc mi	1
+蒿	uu cc gc	1
+蒿	uu cc gc	1
+蒿	uu cc gc	1
+蓁	uu cc qb	1
+蓁	uu cc qb	1
+蓁	uu cc qb	1
+蓂	uu cc mk	1
+蓂	uu cc mk	1
+蓂	uu cc mk	1
+蓃	uu cc sz	1
+蓃	uu cc sz	1
+蓃	uu cc sz	1
+蓄	uu cc iu	1
+蓄	uu cc iu	1
+蓄	uu cc iu	1
+蓅	uu cc lq	1
+蓅	uu cc lq	1
+蓅	uu cc lq	1
+蓆	uu cc xi	1
+蓆	uu cc xi	1
+蓆	uu cc xi	1
+蓇	uu cc gu	1
+蓇	uu cc gu	1
+蓇	uu cc gu	1
+蓈	uu cc lh	1
+蓈	uu cc lh	1
+蓈	uu cc lh	1
+蓉	uu cc rs	1
+蓉	uu cc rs	1
+蓉	uu cc rs	1
+蓊	uu cc wg	1
+蓊	uu cc wg	1
+蓊	uu cc wg	1
+盖	uu cc yh mb	1
+盖	uu cc yh mb	1
+盖	uu cc yh mb	1
+蓌	uu cc co	1
+蓌	uu cc co	1
+蓌	uu cc co	1
+蓌	uu co sv	1
+蓍	uu cc qi	1
+蓍	uu cc qi	1
+蓍	uu cc qi	1
+蓎	uu cc th	1
+蓎	uu cc th	1
+蓎	uu cc th	1
+蓏	uu cc gx gx	1
+蓏	uu cc gx gx	1
+蓏	uu cc gx gx	1
+蓐	uu cc ru	1
+蓐	uu cc ru	1
+蓐	uu cc ru	1
+蓑	uu cc uk	1
+蓑	uu cc uk	1
+蓑	uu cc uk	1
+蓓	uu cc bw	1
+蓓	uu cc bw	1
+蓓	uu cc bw	1
+蓔	uu cc gc	1
+蓔	uu cc gc	1
+蓔	uu cc gc	1
+蓕	uu cc gv	1
+蓕	uu cc gv	1
+蓕	uu cc gv	1
+蓖	uu cc xb bi	1
+蓖	uu cc xb bi	1
+蓖	uu cc xb bi	1
+蓗	uu cc tu	1
+蓗	uu cc tu	1
+蓗	uu cc tu	1
+蓚	uu cc xq	1
+蓚	uu cc xq	1
+蓚	uu cc xq	1
+蓛	uu cc ce	1
+蓛	uu cc ce	1
+蓛	uu cc ce	1
+蓡	uu cc jb	1
+蓡	uu cc jb	1
+蓡	uu cc jb	1
+蓢	uu cc lh	1
+蓢	uu cc lh	1
+蓢	uu cc lh	1
+蓧	uu cc tn	1
+蓧	uu cc tn	1
+蓧	uu cc tn	1
+蓨	uu cc yz yt	1
+蓨	uu cc yz yt	1
+蓨	uu cc yz yt	1
+蓪	uu cc ts	1
+蓪	uu cc ts	1
+蓪	uu cc ts	1
+蓫	uu cc vu	1
+蓫	uu cc vu	1
+蓫	uu cc vu	1
+蓬	uu cc fg	1
+蓬	uu cc fg	1
+蓬	uu cc fg	1
+蓭	uu cc an	1
+蓭	uu cc an	1
+蓭	uu cc an	1
+蓰	uu cc xi	1
+蓰	uu cc xi	1
+蓰	uu cc xi	1
+蓱	uu cc pk	1
+蓱	uu cc pk	1
+蓱	uu cc pk	1
+蓳	uu cc jb	1
+蓳	uu cc jb	1
+蓳	uu cc jb	1
+蓵	uu cc jp	1
+蓵	uu cc jp	1
+蓵	uu cc jp	1
+蓶	uu cc ww	1
+蓶	uu cc ww	1
+蓶	uu cc ww	1
+蓷	uu cc tv	1
+蓷	uu cc tv	1
+蓷	uu cc tv	1
+蓸	uu cc cc	1
+蓸	uu cc cc	1
+蓸	uu cc cc	1
+蓹	uu cc yu	1
+蓹	uu cc yu	1
+蓹	uu cc yu	1
+蓼	uu cc lq	1
+蓼	uu cc lq	1
+蓼	uu cc lq	1
+蓿	uu cc su	1
+蓿	uu cc su	1
+蓿	uu cc su	1
+蔀	uu cc bu	1
+蔀	uu cc bu	1
+蔀	uu cc bu	1
+蔁	uu cc vh	1
+蔁	uu cc vh	1
+蔁	uu cc vh	1
+蔂	uu cc lw	1
+蔂	uu cc lw	1
+蔂	uu cc lw	1
+蔃	uu cc ql	1
+蔃	uu cc ql	1
+蔃	uu cc ql	1
+蔆	uu cc lk	1
+蔆	uu cc lk	1
+蔆	uu cc lk	1
+蔇	uu cc ji	1
+蔇	uu cc ji	1
+蔇	uu cc ji	1
+蔈	uu cc pn	1
+蔈	uu cc pn	1
+蔈	uu cc pn	1
+蓘	uu cc gy	1
+蓘	uu cc gy	1
+蓘	uu cc gy	1
+蔊	uu cc hj	1
+蔊	uu cc hj	1
+蔊	uu cc hj	1
+蔋	uu cc uu	1
+蔋	uu cc uu	1
+蔋	uu cc uu	1
+蔌	uu cc uo	1
+蔌	uu cc uo	1
+蔌	uu cc uo	1
+蔍	uu cc lu	1
+蔍	uu cc lu	1
+蔍	uu cc lu	1
+蔏	uu cc uh	1
+蔏	uu cc uh	1
+蔏	uu cc uh	1
+蔐	uu cc di	1
+蔐	uu cc di	1
+蔐	uu cc di	1
+蔑	uu cc wh uu	1
+蔑	uu cc gh uu	1
+蔑	uu cc wh uu	1
+蔒	uu cc xy	1
+蔒	uu cc xy	1
+蔒	uu cc xy	1
+蔓	uu cc mj	1
+蔓	uu cc mj	1
+蔓	uu cc mj	1
+蔖	uu cc co	1
+蔖	uu cc co	1
+蔖	uu cc co	1
+蔗	uu cc uu	1
+蔗	uu cc uu	1
+蔗	uu cc uu	1
+蔙	uu cc xr	1
+蔙	uu cc xr	1
+蔙	uu cc xr	1
+蔚	uu cc ww	1
+蔚	uu cc ww	1
+蔚	uu cc ww	1
+蔛	uu cc hu	1
+蔛	uu cc hu	1
+蔛	uu cc hu	1
+蔛	uu cc jt dz	1
+蔛	uu cc jt dz	1
+蔛	uu cc jt dz	1
+蔜	uu cc ao	1
+蔜	uu cc ao	1
+蔜	uu cc ao	1
+蔝	uu cc mi	1
+蔝	uu cc mi	1
+蔝	uu cc mi	1
+蒌	uu cc lz	1
+蒌	uu cc lz	1
+蒌	uu cc lz	1
+蔟	uu cc zu	1
+蔟	uu cc zu	1
+蔟	uu cc zu	1
+蔠	uu cc vs	1
+蔠	uu cc vs	1
+蔠	uu cc vs	1
+蔡	uu cc ji	1
+蔡	uu cc ji	1
+蔡	uu cc ji	1
+蔢	uu cc po	1
+蔢	uu cc po	1
+蔢	uu cc po	1
+蒋	uu cc jl	1
+蒋	uu cc jl	1
+蒋	uu cc jl	1
+蔤	uu cc mi	1
+蔤	uu cc mi	1
+蔤	uu cc mi	1
+葱	uu cc cs	1
+葱	uu cc cs	1
+葱	uu cc cs	1
+蔧	uu cc hv	1
+蔧	uu cc hv	1
+蔧	uu cc hv	1
+蔨	uu cc qr	1
+蔨	uu cc qr	1
+蔨	uu cc qr	1
+蔩	uu cc yb	1
+蔩	uu cc yb	1
+蔩	uu cc yb	1
+蔫	uu cc yj	1
+蔫	uu cc yj	1
+蔫	uu cc yj	1
+蔬	uu cc uu	1
+蔬	uu cc uu	1
+蔬	uu cc uu	1
+蔰	uu cc hu	1
+蔰	uu cc hu	1
+蔰	uu cc hu	1
+蔲	uu cc kz	1
+蔲	uu cc kz	1
+蔲	uu cc kz	1
+蔳	uu cc qk	1
+蔳	uu cc qk	1
+蔳	uu cc qk	1
+麻	uu gl lb	1
+蔵	uu cc yt if	1
+蔵	uu cc yt if	1
+蔵	uu cc yt if	1
+蔸	uu cc dz	1
+蔸	uu cc dz	1
+蔸	uu cc dz	1
+蔻	uu cc kz	1
+蔻	uu cc kz	1
+蔻	uu cc kz	1
+蔽	uu cc bi	1
+蔽	uu cc bi	1
+蔽	uu cc bi	1
+蔾	uu li mu	1
+蕀	uu cc ji	1
+蕀	uu cc ji	1
+蕀	uu cc ji	1
+蕂	uu cc ug	1
+蕂	uu cc ug	1
+蕂	uu cc ug	1
+蕃	uu cc fj	1
+蕃	uu cc fj	1
+蕃	uu cc fj	1
+蕅	uu cc yu	1
+蕅	uu cc yu	1
+蕅	uu cc yu	1
+蒇	uu cc wu bw	1
+蒇	uu cc wu bw	1
+蒇	uu cc wu bw	1
+蕈	uu cc tj	1
+蕈	uu cc tj	1
+蕈	uu cc tj	1
+蕉	uu cc jn	1
+蕉	uu cc jn	1
+蕉	uu cc jn	1
+蕊	uu cc so	1
+蕊	uu cc so	1
+蕊	uu cc so	1
+蕊	uu xb xb xb	1
+蕋	uu cc se	1
+蕋	uu cc se	1
+蕋	uu cc se	1
+蕌	uu cc lw	1
+蕌	uu cc lw	1
+蕌	uu cc lw	1
+蕍	uu cc yu	1
+蕍	uu cc yu	1
+蕍	uu cc yu	1
+蕐	uu cc er rf rf rf rf ui	1
+蕐	uu cc er rf rf rf rf ui	1
+蕐	uu cc er rf rf rf rf ui	1
+蕔	uu cc bc	1
+蕔	uu cc bc	1
+蕔	uu cc bc	1
+蕖	uu cc qu	1
+蕖	uu cc qu	1
+蕖	uu cc qu	1
+蕗	uu cc lu	1
+蕗	uu cc lu	1
+蕗	uu cc lu	1
+蕙	uu cc hv	1
+蕙	uu cc hv	1
+蕙	uu cc hv	1
+蕚	uu cc pb kv	1
+蕚	uu cc pb kv	1
+蕚	uu cc pb kv	1
+蕚	uu cc kz ee	1
+蕚	uu cc kz ee	1
+蕚	uu cc kz ee	1
+蕛	uu cc ti	1
+蕛	uu cc ti	1
+蕛	uu cc ti	1
+蕜	uu cc bw	1
+蕜	uu cc bw	1
+蕜	uu cc bw	1
+蕜	uu fw xb	1
+蕞	uu cc zv	1
+蕞	uu cc zv	1
+蕞	uu cc zv	1
+蕠	uu cc xu	1
+蕠	uu cc xu	1
+蕠	uu cc xu	1
+蒉	uu cc gv	1
+蒉	uu cc gv	1
+蒉	uu cc gv	1
+蕣	uu cc uy	1
+蕣	uu cc uy	1
+蕣	uu cc uy	1
+蕤	uu cc ui ug	1
+蕤	uu cc ui ug	1
+蕤	uu cc ui ug	1
+蕥	uu cc ya	1
+蕥	uu cc ya	1
+蕥	uu cc ya	1
+蕨	uu cc jt	1
+蕨	uu cc jt	1
+蕨	uu cc jt	1
+蕫	uu cc ts	1
+蕫	uu cc ts	1
+蕫	uu cc ts	1
+萧	uu cc su	1
+萧	uu cc su	1
+萧	uu cc su	1
+蕮	uu cc xi	1
+蕮	uu cc xi	1
+蕮	uu cc xi	1
+蕯	uu cc ls	1
+蕯	uu cc ls	1
+蕯	uu cc ls	1
+蕵	uu cc sy	1
+蕵	uu cc sy	1
+蕵	uu cc sy	1
+蕶	uu cc lk	1
+蕶	uu cc lk	1
+蕶	uu cc lk	1
+蓣	uu cc yu	1
+蓣	uu cc yu	1
+蓣	uu cc yu	1
+蕸	uu cc xx	1
+蕸	uu cc xx	1
+蕸	uu cc xx	1
+蕹	uu cc ys	1
+蕹	uu cc ys	1
+蕹	uu cc ys	1
+蕺	uu cc ji	1
+蕺	uu cc ji	1
+蕺	uu cc ji	1
+蕻	uu cc ih gs	1
+蕻	uu cc ih gs	1
+蕻	uu cc ih gs	1
+蕼	uu cc si	1
+蕼	uu cc si	1
+蕼	uu cc si	1
+蕾	uu cc lw	1
+蕾	uu cc lw	1
+蕾	uu cc lw	1
+蕿	uu cc nr	1
+蕿	uu cc nr	1
+蕿	uu cc nr	1
+蕰	uu cc wf	1
+蕰	uu cc wf	1
+蕰	uu cc wf	1
+薂	uu cc jn	1
+薂	uu cc jn	1
+薂	uu cc jn	1
+薃	uu cc hc	1
+薃	uu cc hc	1
+薃	uu cc hc	1
+薄	uu cc uv fu cy	1
+薄	uu cc uv fu	1
+薄	uu cc uv fu	1
+薅	uu cc ru	1
+薅	uu cc ru	1
+薅	uu cc ru	1
+薇	uu cc ww	1
+薇	uu cc ww	1
+薇	uu cc ww	1
+薉	uu cc sv	1
+薉	uu cc sv	1
+薉	uu cc sv	1
+蓟	uu cc yu dc	1
+蓟	uu cc yu dc	1
+蓟	uu cc yu dc	1
+薎	uu cc kl	1
+薎	uu cc kl	1
+薎	uu cc kl	1
+薏	uu cc yi	1
+薏	uu cc yi	1
+薏	uu cc yi	1
+薐	uu cc lg	1
+薐	uu cc lg	1
+薐	uu cc lg	1
+薒	uu cc cj	1
+薒	uu cc cj	1
+薒	uu cc cj	1
+薓	uu cc uv vz yz	1
+薓	uu cc uv vz yz	1
+薓	uu cc uv vz yz	1
+蔷	uu cc se	1
+蔷	uu cc se	1
+蔷	uu cc se	1
+薕	uu cc lm	1
+薕	uu cc lm	1
+薕	uu cc lm	1
+薙	uu cc vi	1
+薙	uu cc vi	1
+薙	uu cc vi	1
+薛	uu cc hu ya yi xb	1
+薛	uu cc hu ya yi xb	1
+薛	uu cc hu ya yi xb	1
+薜	uu cc pi	1
+薜	uu cc pi	1
+薜	uu cc pi	1
+薝	uu cc vj	1
+薝	uu cc vj	1
+薝	uu cc vj	1
+薞	uu cc sy	1
+薞	uu cc sy	1
+薞	uu cc sy	1
+薡	uu cc dk	1
+薡	uu cc dk	1
+薡	uu cc dk	1
+薢	uu cc jp	1
+薢	uu cc jp	1
+薢	uu cc jp	1
+薣	uu cc gu	1
+薣	uu cc gu	1
+薣	uu cc gu	1
+薤	uu cc dd jq	1
+薤	uu cc dd jq	1
+薤	uu cc dd jq	1
+薥	uu cc uu	1
+薥	uu cc uu	1
+薥	uu cc uu	1
+薧	uu cc tz kz js si	1
+薧	uu cc tz kz js si	1
+薧	uu cc tz kz js si	1
+薨	uu cc wh mi si	1
+薨	uu cc wh mi si	1
+薨	uu cc wh mi si	1
+萨	uu cc fu ij	1
+萨	uu cc fu ij	1
+萨	uu cc fu ij	1
+薪	uu cc xb	1
+薪	uu cc xb	1
+薪	uu cc xb	1
+薰	uu cc xy	1
+薰	uu cc xy	1
+薰	uu cc xy	1
+薯	uu cc uu	1
+薯	uu cc uu	1
+薯	uu cc uu	1
+薰	uu cc xy	1
+薰	uu cc xy	1
+薰	uu cc xy	1
+薶	uu cc li	1
+薶	uu cc li	1
+薶	uu cc li	1
+薷	uu cc xu	1
+薷	uu cc xu	1
+薷	uu cc xu	1
+薸	uu cc pn	1
+薸	uu cc pn	1
+薸	uu cc pn	1
+薹	uu cc td	1
+薹	uu cc td	1
+薹	uu cc td	1
+薻	uu cc ic	1
+薻	uu cc ic	1
+薻	uu cc ic	1
+薼	uu cc if	1
+薼	uu cc if	1
+薼	uu cc if	1
+薽	uu cc vf	1
+薽	uu cc vf	1
+薽	uu cc vf	1
+薾	uu cc er	1
+薾	uu cc er	1
+薾	uu cc er	1
+薿	uu cc yi	1
+薿	uu cc yi	1
+薿	uu cc yi	1
+藁	uu cc gc	1
+藁	uu cc gc	1
+藁	uu cc gc	1
+藁	uu hc mu	1
+藂	uu cc ju	1
+藂	uu cc ju	1
+藂	uu cc ju	1
+藃	uu cc xn	1
+藃	uu cc xn	1
+藃	uu cc xn	1
+藄	uu cc qi	1
+藄	uu cc qi	1
+藄	uu cc qi	1
+藆	uu cc qm	1
+藆	uu cc qm	1
+藆	uu cc qm	1
+藈	uu cc kv	1
+藈	uu cc kv	1
+藈	uu cc kv	1
+藊	uu cc bm	1
+藊	uu cc bm	1
+藊	uu cc bm	1
+藋	uu cc di	1
+藋	uu cc di	1
+藋	uu cc di	1
+藌	uu cc mi	1
+藌	uu cc mi	1
+藌	uu cc mi	1
+蓝	uu cc jm	1
+蓝	uu cc jm	1
+蓝	uu cc jm	1
+藏	uu cc zh	1
+藏	uu cc zh	1
+藏	uu cc zh	1
+藐	uu cc mc	1
+藐	uu cc mc	1
+藐	uu cc mc	1
+藑	uu cc xs	1
+藑	uu cc xs	1
+藑	uu cc xs	1
+藒	uu cc he he	1
+藒	uu cc he he	1
+藒	uu cc he he	1
+藕	uu cc ou	1
+藕	uu cc ou	1
+藕	uu cc ou	1
+藗	uu cc su	1
+藗	uu cc su	1
+藗	uu cc su	1
+藙	uu cc yi	1
+藙	uu cc yi	1
+藙	uu cc yi	1
+藜	uu cc li	1
+藜	uu cc li	1
+藜	uu cc li	1
+藞	uu cc lw	1
+藞	uu cc lw	1
+藞	uu cc lw	1
+藟	uu cc lw	1
+藟	uu cc lw	1
+藟	uu cc lw	1
+藠	uu cc xn	1
+藠	uu cc xn	1
+藠	uu cc xn	1
+藡	uu cc ui	1
+藡	uu cc ui	1
+藡	uu cc ui	1
+藢	uu cc vg	1
+藢	uu cc vg	1
+藢	uu cc vg	1
+藤	uu cc tg	1
+藤	uu cc tg	1
+藤	uu cc tg	1
+藦	uu cc mo	1
+藦	uu cc mo	1
+藦	uu cc mo	1
+藨	uu cc pc	1
+藨	uu cc pc	1
+藨	uu cc pc	1
+藩	uu cc pj	1
+藩	uu cc pj	1
+藩	uu cc pj	1
+薮	uu cc uu	1
+薮	uu cc uu	1
+薮	uu cc uu	1
+藫	uu uv xy	1
+藫	uu uv xy	1
+藭	uu cc qs	1
+藭	uu cc qs	1
+藭	uu cc qs	1
+藮	uu cc qn	1
+藮	uu cc qn	1
+藮	uu cc qn	1
+藯	uu cc ww	1
+藯	uu cc ww	1
+藯	uu cc ww	1
+藱	uu cc gv	1
+藱	uu cc gv	1
+藱	uu cc gv	1
+藳	uu cc gc	1
+藳	uu cc gc	1
+藳	uu cc gc	1
+藳	uu hc he	1
+蕴	uu cc yy	1
+蕴	uu cc yy	1
+蕴	uu cc yy	1
+蕏	uu cc vu	1
+蕏	uu cc vu	1
+蕏	uu cc vu	1
+蔼	uu cc ye	1
+蔼	uu cc ye	1
+蔼	uu cc ye	1
+蔺	uu cc mf vv	1
+蔺	uu cc mf vv	1
+蔺	uu cc mf vv	1
+藻	uu cc zc	1
+藻	uu cc zc	1
+藻	uu cc zc	1
+藼	uu cc xm	1
+藼	uu cc xm	1
+藼	uu cc xm	1
+藽	uu cc qb	1
+藽	uu cc qb	1
+藽	uu cc qb	1
+藿	uu cc ho	1
+藿	uu cc ho	1
+藿	uu cc ho	1
+萚	uu cc ze	1
+萚	uu cc ze	1
+萚	uu cc ze	1
+蘁	uu cc ee	1
+蘁	uu cc ee	1
+蘁	uu cc ee	1
+蘂	uu cc rv	1
+蘂	uu cc rv	1
+蘂	uu cc rv	1
+蘂	uu rv mu	1
+蘃	uu cc se mu	1
+蘃	uu cc se mu	1
+蘃	uu cc se mu	1
+蕲	uu cc dj jb	1
+蕲	uu cc dj jb	1
+蕲	uu cc dj jb	1
+蘅	uu cc hg	1
+蘅	uu cc hg	1
+蘅	uu cc hg	1
+蘉	uu cc wh mi qb	1
+蘉	uu cc wh mi qb	1
+蘉	uu cc wh mi qb	1
+蕴	uu cc yy	1
+蕴	uu cc yy	1
+蕴	uu cc yy	1
+蘌	uu cc yu	1
+蘌	uu cc yu	1
+蘌	uu cc yu	1
+薫	uu cc xy	1
+薫	uu cc xy	1
+薫	uu cc xy	1
+蘎	uu cc yu fw	1
+蘎	uu cc yu fw	1
+蘎	uu cc yu fw	1
+蘑	uu cc mo	1
+蘑	uu cc mo	1
+蘑	uu cc mo	1
+蘖	uu cc bo	1
+蘖	uu cc bo	1
+蘖	uu cc bo	1
+蘖	uu xt mu	1
+蘗	uu cc bo	1
+蘗	uu cc bo	1
+蘗	uu cc bo	1
+蘘	uu cc xl	1
+蘘	uu cc xl	1
+蘘	uu cc xl	1
+蘙	uu cc yi	1
+蘙	uu cc yi	1
+蘙	uu cc yi	1
+藓	uu cc xm	1
+藓	uu cc xm	1
+藓	uu cc xm	1
+蘛	uu cc uf yu	1
+蘛	uu cc uf yu	1
+蘛	uu cc uf yu	1
+蘜	uu cc ju	1
+蘜	uu cc ju	1
+蘜	uu cc ju	1
+蔹	uu cc lm	1
+蔹	uu cc lm	1
+蔹	uu cc lm	1
+蘡	uu cc vf vf nv	1
+蘡	uu cc vf vf nv	1
+蘡	uu cc vf vf nv	1
+蘣	uu cc tz	1
+蘣	uu 	1
+蘣	uu cc tz	1
+蘣	uu cc tz	1
+蘥	uu cc yt	1
+蘥	uu cc yt	1
+蘥	uu cc yt	1
+蘦	uu cc lk	1
+蘦	uu cc lk	1
+蘦	uu cc lk	1
+蘧	uu cc ju	1
+蘧	uu cc ju	1
+蘧	uu cc ju	1
+蘨	uu cc vc fz xi	1
+蘨	uu cc vc fz xi	1
+蘨	uu cc vc fz xi	1
+蘩	uu cc fj	1
+蘩	uu cc fj	1
+蘩	uu cc fj	1
+蘪	uu cc mi	1
+蘪	uu cc mi	1
+蘪	uu cc mi	1
+蘮	uu cc ji	1
+蘮	uu cc ji	1
+蘮	uu cc ji	1
+蘯	uu cc dh	1
+蘯	uu cc dh	1
+蘯	uu cc dh	1
+蘯	uu dh mb	1
+蘲	uu cc lw	1
+蘲	uu cc lw	1
+蘲	uu cc lw	1
+蘳	uu cc hx	1
+蘳	uu 	1
+蘳	uu cc hx	1
+蘳	uu cc hx	1
+蘴	uu cc li	1
+蘴	uu cc li	1
+蘴	uu cc li	1
+蘶	uu cc ww	1
+蘶	uu cc ww	1
+蘶	uu cc ww	1
+蘷	uu cc nc	1
+蘷	uu cc nc	1
+蘷	uu cc nc	1
+蘸	uu cc yz vv ho	1
+蘸	uu cc yz vv bn	1
+蘸	uu cc yz vv bn	1
+蘹	uu cc hk	1
+蘹	uu cc hk	1
+蘹	uu cc hk	1
+蓠	uu cc li	1
+蓠	uu cc li	1
+蓠	uu cc li	1
+蘼	uu cc mi	1
+蘼	uu cc mi	1
+蘼	uu cc mi	1
+蘽	uu cc lw	1
+蘽	uu cc lw	1
+蘽	uu cc lw	1
+蘾	uu cc hk	1
+蘾	uu cc hk	1
+蘾	uu cc hk	1
+萝	uu cc lo	1
+萝	uu cc lo	1
+萝	uu cc lo	1
+虀	uu cc ji	1
+虀	uu cc ji	1
+虀	uu cc ji	1
+虁	uu cc kl nc	1
+虁	uu cc kl nc	1
+虁	uu cc kl nc	1
+虂	uu cc lu	1
+虂	uu cc lu	1
+虂	uu cc lu	1
+虆	uu cc lw	1
+虆	uu cc lw	1
+虆	uu cc lw	1
+虇	uu cc gs gr	1
+虇	uu cc gs gr	1
+虇	uu cc gs gr	1
+虋	uu cc xb	1
+虋	uu cc xb	1
+虋	uu cc xb	1
+虌	uu cc bp	1
+虌	uu cc bp	1
+虌	uu cc bp	1
+虌	uu bi mm	1
+虖	uu hu hu	1
+虖	uu hu hu	1
+虗	uu hu qq	1
+虗	uu hu qq	1
+虘	uu hu qp	1
+虘	uu hu qp	1
+虙	uu hu bi	1
+虙	uu hu bi	1
+虚	uu hu ye	1
+虚	uu hu ye	1
+虝	uu hu wu	1
+虞	uu hu wu	1
+虞	uu hu wu	1
+虠	uu jn hu	1
+虡	uu hu gr yi ba	1
+虡	uu hu gr yi ba	1
+虢	uu lv hu	1
+虣	uu wu hu	1
+虤	uu hu hu	1
+虨	uu hu bb	1
+虨	uu hu bb	1
+虨	uu hu lb uj	1
+虨	uu hu lb uj	1
+虩	uu xn ri xn hu	1
+虪	uu hu uu	1
+蚫	uu is bc	1
+蚭	uu is ni	1
+蚮	uu is dd	1
+蚯	uu is qq	1
+蚰	uu is yz	1
+蚱	uu is va	1
+蚲	uu is pk	1
+蚳	uu is di	1
+蚴	uu is yz	1
+蚵	uu is ke	1
+蚶	uu is gj	1
+蚸	uu is ii	1
+蚹	uu is fu	1
+蚺	uu is rj	1
+蚻	uu va is	1
+蚼	uu is ju	1
+蚽	uu is pi	1
+蚾	uu is pi	1
+蚿	uu is xr	1
+蛀	uu is vu	1
+蛁	uu is vc	1
+蛂	uu is ba	1
+蛃	uu is bk	1
+蛄	uu is gu	1
+蛅	uu is vj	1
+蛆	uu is qp	1
+蛇	uu is ta	1
+蛈	uu is ui	1
+蛉	uu is lk	1
+蛋	uu pi is	1
+蛌	uu is gx	1
+萤	uu cc mi is	1
+萤	uu cc mi is	1
+萤	uu cc mi is	1
+蛐	uu is qu	1
+蛑	uu is mz	1
+蛒	uu is ge	1
+蛓	uu ui ge is	1
+蛓	uu 	1
+蛓	uu tu ge is	1
+蛓	uu zd is	1
+蛔	uu is hv	1
+蛕	uu is yz	1
+蛖	uu is mh	1
+蛗	uu hu ya yi is	1
+蛗	uu hu ya yi is	1
+蛘	uu is yh	1
+蛙	uu is gv	1
+蛚	uu is lp	1
+蛛	uu is vu	1
+蛜	uu is yi	1
+蛝	uu is gf	1
+蛞	uu is ue	1
+蛟	uu is jn	1
+蛠	uu is xp	1
+蛡	uu is yu	1
+蛢	uu is bk	1
+蛣	uu is ji	1
+蛤	uu is he	1
+蛥	uu is do	1
+蛦	uu is yi	1
+蛨	uu is bd	1
+蛩	uu gs is	1
+蛪	uu fg dc is	1
+蛫	uu is ww	1
+蛬	uu gs is	1
+蛭	uu is vi	1
+蛶	uu is lv	1
+蛷	uu is qq	1
+蛸	uu is xn	1
+蛹	uu is ys	1
+蛱	uu is jx	1
+蜕	uu is dv	1
+蛾	uu is wo	1
+蛿	uu is hj	1
+蜀	uu wh bc is	1
+蜁	uu is pp yi pi	1
+蜂	uu is fg	1
+蜃	uu if is	1
+蜄	uu is if	1
+蜅	uu is fu	1
+蜇	uu ve is	1
+蜈	uu is wu	1
+蜉	uu is fu	1
+蜊	uu is li	1
+蜋	uu is ll	1
+蜌	uu is bi tu	1
+蜍	uu is yu	1
+蜎	uu is yr	1
+蜏	uu is xq	1
+蜑	uu yj is	1
+蜒	uu is yj	1
+蜓	uu is tk	1
+蜔	uu is dm	1
+蛔	uu is hv	1
+蜘	uu is vi	1
+蜙	uu is ss	1
+蜚	uu is fw	1
+蜛	uu is ju	1
+蜜	uu mm bi is	1
+蜜	uu mi is	1
+蜝	uu qi is	1
+蜞	uu is qi	1
+蜟	uu is yu	1
+蜠	uu is qy	1
+蜢	uu is mg	1
+蜣	uu is ql	1
+蜤	uu xi is	1
+蜥	uu is xi	1
+蜧	uu is li	1
+蜨	uu is jp	1
+蜩	uu is vz	1
+蜪	uu is tc	1
+蜫	uu is ky	1
+蜬	uu is hj	1
+蜭	uu is xm	1
+蜮	uu is ho	1
+蜯	uu is fg	1
+蜰	uu fw is	1
+蜱	uu is bw	1
+蜲	uu is ww	1
+蜳	uu is xl	1
+蜴	uu is yi	1
+蜶	uu is zu	1
+蜷	uu is jr	1
+蜹	uu is rv	1
+蜺	uu is er	1
+蜻	uu is qk	1
+蜼	uu is vv	1
+蜾	uu is go	1
+蜿	uu is wj	1
+蝂	uu is bj	1
+蝃	uu is vo	1
+蛧	uu is wh	1
+蝅	uu tm tm is	1
+蝆	uu is mi	1
+蜡	uu is xi	1
+蝌	uu is ke	1
+蝍	uu is ji	1
+蝎	uu is he	1
+蝏	uu is tk	1
+蝐	uu is mc	1
+蝑	uu is xu	1
+蝒	uu is mm	1
+蝓	uu is yu	1
+蝔	uu is jp	1
+蝖	uu is xr	1
+蝗	uu is hl	1
+蝘	uu is yj	1
+蝙	uu is bm	1
+蝚	uu is rz	1
+蝛	uu is ww	1
+蝝	uu is tr	1
+蝞	uu is mw	1
+猬	uu qr ww	1
+猬	uu qr ww	1
+蝠	uu is fu	1
+蝡	uu is rr	1
+蝣	uu is yz	1
+蝤	uu is qq	1
+蝥	uu wu is	1
+蝧	uu is yk	1
+蝩	uu is vs	1
+蝫	uu is ve	1
+蝬	uu is xs ba xi	1
+蝬	uu 	1
+蝬	uu is xs ba vi	1
+蝭	uu is ui	1
+蝮	uu is fu	1
+蝯	uu is yr	1
+蝰	uu is kv	1
+蝱	uu wh is is	1
+蝲	uu is la	1
+蝳	uu is du	1
+蝴	uu is hu	1
+蝵	uu qq is	1
+蝶	uu is ye	1
+蝷	uu is gl ni	1
+蜗	uu is go	1
+蝹	uu is wf	1
+蝺	uu is yu	1
+蝻	uu is nj	1
+蝽	uu is iy	1
+蝇	uu is mb	1
+螂	uu is lh	1
+螃	uu is ph	1
+蛳	uu is ui	1
+螅	uu is xi	1
+螆	uu is zi	1
+螇	uu is xi	1
+螈	uu is yr	1
+螉	uu is wg	1
+螊	uu is jm	1
+螋	uu is sz	1
+螌	uu bj is	1
+融	uu ge is	1
+螎	uu is ge	1
+螏	uu is ji	1
+螑	uu is iz	1
+螒	uu ui ri ui rf is	1
+螓	uu is qb	1
+螔	uu is si	1
+螕	uu is xb bi	1
+螖	uu is gu	1
+螗	uu is th	1
+螙	uu mu is is	1
+螚	uu ng is	1
+螛	uu is hd	1
+螜	uu ui mi uu is	1
+螝	uu is gv	1
+螟	uu is mk	1
+螠	uu is yi	1
+螡	uu wf is is	1
+萤	uu cc mi is	1
+螣	uu ba fu is	1
+螣	uu jr is	1
+螤	uu wf yu	1
+螪	uu is uh	1
+螫	uu ue is	1
+螬	uu is cc	1
+螭	uu is li	1
+螯	uu ao is	1
+螰	uu is lu	1
+螱	uu ww is	1
+螲	uu is vi	1
+螳	uu is th	1
+螵	uu is pn	1
+螶	uu ju is is	1
+螷	uu bi is	1
+螸	uu yu is	1
+螺	uu is lw	1
+蝼	uu is lz	1
+螼	uu is jb	1
+螽	uu ds is is	1
+螾	uu is yb	1
+螀	uu jl is	1
+蟀	uu is lv	1
+蟁	uu mb is is	1
+蟃	uu is mj	1
+蛰	uu vi is	1
+蟅	uu is uu	1
+蟆	uu is mo	1
+蟇	uu mo is	1
+蝈	uu is go	1
+蟉	uu is lq	1
+蟊	uu mc is is	1
+蟋	uu is xi	1
+蟌	uu is cs	1
+蟍	uu is li	1
+螨	uu is cc ll	1
+螨	uu is cc ll	1
+螨	uu is cc ll	1
+蟑	uu is vh	1
+蟒	uu is mh	1
+蟓	uu is xl	1
+蟔	uu is hw	1
+蟕	uu is zi	1
+蟖	uu is si	1
+蟗	uu yi kz gy js iu is	1
+蟘	uu is dd	1
+蟚	uu pg is	1
+蟛	uu is pg	1
+蟝	uu is qu	1
+蟞	uu bi is	1
+蟟	uu is ln	1
+蟠	uu is fj	1
+蟢	uu is xi	1
+蟤	uu is xy	1
+蟥	uu is hl	1
+蟨	uu jt is	1
+蟩	uu is jt	1
+蟪	uu is hv	1
+蟫	uu is tj	1
+蝉	uu is dj	1
+蟭	uu is jn	1
+蟮	uu is uj	1
+蛲	uu is yc	1
+蟴	uu si is	1
+蛏	uu is ug	1
+蟸	uu ui is is	1
+蟹	uu jp is	1
+蟺	uu is dj	1
+蟼	uu jk is	1
+蟾	uu is vj	1
+蠂	uu is ye	1
+蠃	uu wh kz yt is fj	1
+蠄	uu is qb	1
+蝇	uu is mb	1
+蠉	uu is qs	1
+蠊	uu is lm	1
+蠋	uu is uu	1
+蠍	uu is xp	1
+蠎	uu is mh	1
+蠏	uu is jp	1
+蛴	uu is qi	1
+蝾	uu is rs	1
+蠓	uu is mg	1
+蠕	uu is xu	1
+蠖	uu is ho	1
+蠗	uu is di	1
+蠘	uu is jp	1
+蠚	uu ro is is	1
+蠛	uu is mp	1
+蠜	uu fj da is	1
+蠜	uu 	1
+蠜	uu mu yc mu da is	1
+蠝	uu is lw	1
+蜡	uu is xi	1
+蠠	uu mm is is	1
+蠡	uu tr is is	1
+蠢	uu iy is is	1
+蛎	uu is li	1
+蠤	uu qq is is	1
+蠥	uu xt is	1
+蠧	uu ui mi ui is is	1
+蟏	uu is xn	1
+蠫	uu vi dc is is	1
+蠫	uu 	1
+蠫	uu vi dc is is	1
+蠭	uu fg is is	1
+蠮	uu is yi	1
+蠯	uu gl bw is is	1
+蠰	uu is xl	1
+蛊	uu is mb	1
+蠲	uu yi uu	1
+蠵	uu is gv	1
+蠷	uu is qu	1
+蠸	uu is gr	1
+蠹	uu yi vs mi ui is is	1
+蛮	uu yi is	1
+蠼	uu is qu yz	1
+蠽	uu qt ge is is	1
+蠾	uu is uu	1
+蠿	uu yc yc yi gy yi yc yc is is	1
+衇	uu xt ih ui	1
+衇	uu xt pd	1
+衈	uu xt er	1
+衉	uu xt ge	1
+蔑	uu cc wh uu	1
+蔑	uu cc gh uu	1
+蔑	uu cc wh uu	1
+衋	uu yu bd bd xt	1
+衑	uu xk lk	1
+衒	uu xk xr	1
+衖	uu xk gs	1
+街	uu xk gv	1
+街	uu xk tu tu	1
+衘	uu xk wu vi	1
+衙	uu xk wu	1
+衜	uu xk uz	1
+衟	uu xk ir uz	1
+衠	uu xk vf	1
+衡	uu xk dc tm da	1
+衢	uu xk qu	1
+袈	uu jx yi	1
+袋	uu dd yi	1
+袌	uu yi bc	1
+袠	uu yi ui	1
+袤	uu yi mc	1
+袬	uu yi td	1
+袱	uu yi fu	1
+袱	uu yi fu	1
+袲	uu yi do	1
+袳	uu yi do	1
+袳	uu yi do	1
+袴	uu yi kx	1
+袴	uu yi kx	1
+袵	uu yi rf	1
+袵	uu yi rf	1
+袶	uu yi jl	1
+袶	uu yi jl	1
+袷	uu yi he	1
+袷	uu yi he	1
+袸	uu yi cy	1
+袸	uu yi cy	1
+袹	uu yi bd	1
+袹	uu yi bd	1
+袺	uu yi ji	1
+袺	uu yi ji	1
+袻	uu yi er	1
+袻	uu yi er	1
+袼	uu yi ge	1
+袼	uu yi ge	1
+袽	uu yi ru	1
+袽	uu yi ru	1
+袾	uu yi vu	1
+袾	uu yi vu	1
+袿	uu yi gv	1
+袿	uu yi gv	1
+裀	uu yi yb	1
+裀	uu yi yb	1
+裁	uu ui ge yi	1
+裁	uu tu ge yi	1
+裁	uu zd yi	1
+裂	uu lp yi	1
+裉	uu yi gf	1
+裉	uu yi gf	1
+裋	uu yi dz	1
+裋	uu yi dz	1
+裍	uu yi ky	1
+裍	uu yi ky	1
+裎	uu yi ig	1
+裎	uu yi ig	1
+裐	uu yi yr	1
+裐	uu yi yr	1
+裑	uu yi uf	1
+裑	uu yi uf	1
+裒	uu yi jq	1
+裓	uu yi jp	1
+裓	uu yi jp	1
+裔	uu yi js	1
+裕	uu yi gu	1
+裕	uu yi gu	1
+裖	uu yi if	1
+裖	uu yi if	1
+裗	uu yi tz si ir	1
+裗	uu yi tz si ir	1
+裗	uu yi hl	1
+裗	uu yi hl	1
+裗	uu yi lq	1
+裗	uu yi lq	1
+裘	uu yi qq	1
+裙	uu yi jy	1
+裙	uu yi jy	1
+裚	uu ve yi	1
+裛	uu yi yi	1
+装	uu vl yi	1
+裞	uu yi dv	1
+裞	uu 	1
+裞	uu yi dv	1
+裟	uu ua yi	1
+裠	uu jy yi	1
+裦	uu yi ih er mc	1
+裧	uu yi yj	1
+裧	uu yi yj	1
+裨	uu yi bw	1
+裨	uu yi bw	1
+裩	uu yi ky	1
+裩	uu yi ky	1
+裪	uu yi tc	1
+裪	uu yi tc	1
+裬	uu yi lk	1
+裬	uu yi lk	1
+裭	uu yi hu	1
+裭	uu yi hu	1
+裮	uu yi ih	1
+裮	uu yi ih	1
+裯	uu yi vz	1
+裯	uu yi vz	1
+裰	uu yi vo	1
+裰	uu yi vo	1
+裱	uu yi bn	1
+裱	uu yi bn	1
+裳	uu uh yi	1
+裴	uu fw yi	1
+裵	uu yi fw	1
+裶	uu yi fw	1
+裶	uu yi fw	1
+裷	uu yi jr	1
+裷	uu yi jr	1
+裸	uu yi go	1
+裸	uu yi go	1
+裹	uu yi go	1
+裺	uu yi yj	1
+裺	uu yi yj	1
+裻	uu uu yi	1
+裼	uu yi yi	1
+裼	uu yi yi	1
+裾	uu yi ju	1
+裾	uu yi ju	1
+裿	uu yi qi	1
+裿	uu yi qi	1
+褀	uu yi qi	1
+褀	uu yi qi	1
+褂	uu yi gx	1
+褂	uu yi gx	1
+褃	uu yi kf	1
+褃	uu yi kf	1
+褅	uu yi di	1
+褅	uu yi di	1
+褆	uu yi ui	1
+褆	uu yi ui	1
+褈	uu yi vs	1
+褈	uu yi vs	1
+褉	uu yi qi	1
+褉	uu yi qi	1
+褊	uu yi bm	1
+褊	uu yi bm	1
+褋	uu yi ye	1
+褋	uu yi ye	1
+裈	uu yi jy	1
+裈	uu yi jy	1
+褍	uu yi dr	1
+褍	uu yi dr	1
+褎	uu yi ih er he	1
+褏	uu yi ih er yz	1
+褐	uu yi he	1
+褐	uu yi he	1
+褑	uu yi yr	1
+褑	uu yi yr	1
+褒	uu bc yi	1
+褒	uu tz bc yi	1
+褓	uu yi bc	1
+褓	uu yi bc	1
+褔	uu yi fu	1
+褔	uu yi fu	1
+褕	uu yi yu	1
+褕	uu yi yu	1
+褖	uu yi tr	1
+褖	uu yi tr	1
+褗	uu yi yj	1
+褗	uu yi yj	1
+褙	uu yi bw	1
+褙	uu yi bw	1
+褚	uu yi ve	1
+褚	uu yi ve	1
+褞	uu yi wf	1
+褞	uu yi wf	1
+褟	uu yi ri yu	1
+褟	uu yi ri yu	1
+褠	uu yi gz	1
+褠	uu yi gz	1
+褡	uu yi da	1
+褡	uu yi da	1
+褢	uu yi gv	1
+褣	uu yi rs	1
+褣	uu yi rs	1
+褤	uu yi yr	1
+褤	uu yi yr	1
+褥	uu yi ru	1
+褥	uu yi ru	1
+褦	uu yi ng	1
+褦	uu yi ng	1
+褧	uu gg yi	1
+褨	uu yi ia	1
+褨	uu yi ia	1
+褩	uu bj yi	1
+褪	uu yi tv	1
+褪	uu yi tv	1
+褫	uu yi si	1
+褫	uu yi si	1
+褬	uu yi sh	1
+褬	uu yi sh	1
+褯	uu yi xi	1
+褯	uu yi xi	1
+褰	uu mm jk da yi	1
+褱	uu yi mu er gy er	1
+褱	uu yi wh er gy er	1
+褱	uu yi wh er gy er	1
+褱	uu yi mu gy ba ba	1
+裤	uu yi ku	1
+裤	uu yi ku	1
+裢	uu yi lm	1
+裢	uu yi lm	1
+褵	uu yi li	1
+褵	uu yi li	1
+褶	uu yi xi	1
+褶	uu yi xi	1
+褷	uu yi xi	1
+褷	uu yi xi	1
+褛	uu yi lz	1
+褛	uu yi lz	1
+亵	uu vi yi	1
+褼	uu yi xi da ji	1
+褼	uu yi xi da ji	1
+褼	uu yi xi da ji	1
+褼	uu yi xi da ji	1
+褽	uu ww yi	1
+褾	uu yi pn	1
+褾	uu yi pn	1
+褿	uu yi cc	1
+褿	uu yi cc	1
+襃	uu yi ih er dd	1
+襄	uu kz kz jk yi yi	1
+襆	uu yi pu	1
+襆	uu yi pu	1
+裥	uu yi jm	1
+裥	uu yi jm	1
+襈	uu yi xy	1
+襈	uu yi xy	1
+襊	uu yi zv	1
+襊	uu yi zv	1
+襋	uu yi ji	1
+襋	uu yi ji	1
+襍	uu yi ji	1
+襍	uu yi ji	1
+襎	uu yi fj	1
+襎	uu yi fj	1
+襐	uu yi xl	1
+襐	uu yi xl	1
+襒	uu yi bi	1
+襒	uu yi bi	1
+襙	uu yi zc	1
+襙	uu yi zc	1
+襚	uu yi sv	1
+襚	uu yi sv	1
+襜	uu yi vj	1
+襜	uu yi vj	1
+裣	uu yi qm	1
+裣	uu yi qm	1
+襞	uu pi yi	1
+襟	uu yi jb	1
+襟	uu yi jb	1
+裆	uu yi dh	1
+裆	uu yi dh	1
+襡	uu yi uu	1
+襡	uu yi uu	1
+襢	uu yi dj	1
+襢	uu yi dj	1
+襣	uu yi bi	1
+襣	uu yi bi	1
+褴	uu yi jm	1
+褴	uu yi jm	1
+襥	uu yi pu	1
+襥	uu yi pu	1
+襦	uu yi xu	1
+襦	uu yi xu	1
+襫	uu yi ui	1
+襫	uu yi ui	1
+摆	uu uz ba	1
+摆	uu uz ba	1
+摆	uu cd ba	1
+襮	uu yi bc	1
+襮	uu yi bc	1
+袭	uu ls yi	1
+襳	uu yi xm	1
+襳	uu yi xm	1
+襕	uu yi lj	1
+襕	uu yi lj	1
+襶	uu yi dd	1
+襶	uu yi dd	1
+襻	uu yi pj	1
+襻	uu yi pj	1
+覃	uu xi zc	1
+覃	uu ya zc	1
+覃	uu xi zc	1
+覅	uu yc wu	1
+覆	uu xi fu	1
+覆	uu xi fu	1
+霸	uu yu ge yt	1
+覈	uu xi jn	1
+覈	uu ya jn	1
+覉	uu xi ge qi	1
+覉	uu xi ge qi	1
+羁	uu wh ge ma	1
+羁	uu wh ge ma	1
+觋	uu wu jm	1
+觍	uu dm jm	1
+觎	uu yu jm	1
+觏	uu gz jm	1
+觐	uu jb jm	1
+覴	uu dg jm	1
+觑	uu xu jm	1
+觌	uu md jm	1
+筋	uu vu rz li	1
+觕	uu nq jn	1
+觕	uu nq jn	1
+觖	uu jn gk	1
+觗	uu jn ui	1
+觘	uu jn uc	1
+觚	uu jn gx	1
+觛	uu jn dj	1
+觜	uu ci jn	1
+觝	uu jn di	1
+觟	uu jn gv	1
+觠	uu ba fu jn	1
+觠	uu jr jn	1
+觡	uu jn ge	1
+觢	uu fg dc jn	1
+解	uu jn dc nq	1
+觤	uu jn ww	1
+觥	uu jn gl	1
+觧	uu jn yh	1
+觨	uu jn gs	1
+觩	uu jn qq	1
+觪	uu jn xb	1
+觫	uu jn uu	1
+觬	uu jn er	1
+觭	uu jn qi	1
+觮	uu jn lu	1
+觰	uu jn ve	1
+觱	uu xm jn	1
+觲	uu jn yh nq	1
+觳	uu ui mi jn uu	1
+觞	uu jn pp yi gs pp pp	1
+觵	uu jn hl	1
+觯	uu jn dj	1
+触	uu jn is	1
+觺	uu yi jn	1
+觼	uu jn xs	1
+觾	uu jn yj	1
+訾	uu ci yj	1
+詈	uu mu yj	1
+詈	uu wh yj	1
+詧	uu yr yj	1
+詹	uu dc ih er yj	1
+誓	uu ve yj	1
+誖	uu yj bw	1
+誖	uu yj bw	1
+誯	uu yj ih	1
+誯	uu yj ih	1
+諅	uu qi yj	1
+諐	uu kj yj	1
+谍	uu yj ye	1
+谍	uu yj ye	1
+谍	uu yj ui mu	1
+谞	uu yj xu	1
+谞	uu yj xu	1
+谝	uu yj bm	1
+谝	uu yj bm	1
+谥	uu yj xi mb	1
+谥	uu yj xi mb	1
+谔	uu yj ee	1
+谔	uu yj ee	1
+谛	uu yj di	1
+谛	uu yj di	1
+谐	uu yj jp	1
+谐	uu yj jp	1
+谏	uu yj jm	1
+谏	uu yj jm	1
+諬	uu he yz yj	1
+谕	uu yj yu	1
+谕	uu yj yu	1
+谘	uu yj zi	1
+谘	uu yj zi	1
+谙	uu yj yb	1
+谙	uu yj yb	1
+谌	uu yj uf	1
+谌	uu yj uf	1
+谚	uu yj yj	1
+谚	uu yj yj	1
+谖	uu yj yr	1
+谖	uu yj yr	1
+谋	uu yj mz	1
+谋	uu yj mz	1
+谒	uu yj he	1
+谒	uu yj he	1
+谓	uu yj ww	1
+谓	uu yj ww	1
+誊	uu ba fu yj	1
+誊	uu jr yj	1
+謇	uu mm jk da yj	1
+謈	uu ri gs yj	1
+谎	uu yj hl	1
+谎	uu yj hl	1
+謍	uu ho ho mi yj	1
+谜	uu yj mi	1
+谜	uu yj mi	1
+谧	uu yj bi mb	1
+谧	uu yj bi mb	1
+谑	uu yj nt	1
+谑	uu yj nt	1
+谡	uu yj ce	1
+谡	uu yj ce	1
+谤	uu yj ph	1
+谤	uu yj ph	1
+谦	uu yj jm	1
+谦	uu yj jm	1
+谥	uu yj yi	1
+谥	uu yj yi	1
+谢	uu yj ue	1
+谢	uu yj ue	1
+谣	uu yj vc fz	1
+谣	uu yj vc fz	1
+謦	uu qk yj	1
+谟	uu yj mo	1
+谟	uu yj mo	1
+謩	uu mo yj	1
+谪	uu yj di	1
+谪	uu yj di	1
+谬	uu yj lq	1
+谬	uu yj lq	1
+谫	uu yj jm	1
+谫	uu yj jm	1
+謷	uu ao yj	1
+谨	uu yj jb	1
+谨	uu yj jb	1
+謽	uu ql yj	1
+谩	uu yj mj	1
+谩	uu yj mj	1
+譀	uu yj gj	1
+譀	uu yj gj	1
+譍	uu gl sv yj	1
+谲	uu yj yu	1
+谲	uu yj yu	1
+谮	uu yj ji ji ri	1
+谮	uu yj ji ji ri	1
+谮	uu yj cj	1
+谮	uu yj cj	1
+谯	uu yj jn	1
+谯	uu yj jn	1
+谭	uu yj tj	1
+谭	uu yj tj	1
+谱	uu yj pu	1
+谱	uu yj pu	1
+谠	uu yj dh	1
+谠	uu yj dh	1
+譥	uu jn yj	1
+警	uu jk yj	1
+谵	uu yj vj	1
+谵	uu yj vj	1
+譬	uu pi yj	1
+毀	uu jq tu uu	1
+譱	uu yh yj yj	1
+谴	uu yj qm	1
+谴	uu yj qm	1
+譶	uu yj yj yj	1
+誉	uu xk yj	1
+詟	uu ls yj	1
+雠	uu vv yj vv	1
+雠	uu iz yj	1
+雠	uu vv yj vv	1
+讐	uu iz yj	1
+讐	uu vv vv yj	1
+谗	uu yj mm bk	1
+谗	uu yj mm bk	1
+谰	uu yj lj	1
+谰	uu yj lj	1
+谶	uu yj xm	1
+谶	uu yj xm	1
+讙	uu yj gr	1
+讙	uu yj gr	1
+赞	uu xm xm bw	1
+谳	uu yj xm	1
+谳	uu yj xm	1
+谹	uu gu gs	1
+谺	uu gu ya	1
+谻	uu gu xy yi	1
+谼	uu gu gs	1
+谽	uu gu hj	1
+谾	uu gu ks	1
+谿	uu xi gu	1
+豀	uu gu xi	1
+豁	uu hd gu	1
+豂	uu gu lq	1
+豃	uu gu gj	1
+豉	uu dz vi	1
+豊	uu qu dz	1
+豋	uu yr dz	1
+豌	uu dz wj	1
+豍	uu dz bw	1
+豏	uu dz jm	1
+豑	uu li di	1
+豒	uu fg di	1
+豓	uu fg he	1
+豔	uu fg he	1
+豘	uu ui ty	1
+豙	uu tz ba ui	1
+豙	uu li ui	1
+豚	uu rz ui	1
+豚	uu yt ui	1
+豛	uu ui uu	1
+豜	uu ui kd	1
+豝	uu ui ba	1
+豞	uu ui ju	1
+豟	uu ui ee	1
+豠	uu ui qp	1
+象	uu dc kz gy ui	1
+象	uu dc mi gy ui	1
+豢	uu ba fu ui	1
+豢	uu ba fu ui	1
+豢	uu jr ui	1
+豣	uu ui jm	1
+豤	uu ui gf	1
+豥	uu ui hd	1
+豦	uu hu ui	1
+豦	uu hu ui	1
+豧	uu ui fu	1
+豨	uu ui xi	1
+豩	uu ui ui	1
+豪	uu tz kz mi ui	1
+豫	uu yu xl	1
+猪	uu qr ve	1
+猪	uu qr ve	1
+豭	uu ui jx	1
+豯	uu ui xi	1
+豰	uu ui mg uu	1
+豱	uu ui wf	1
+豲	uu ui yr	1
+豳	uu uj bb	1
+豳	uu ui uj ui	1
+豴	uu ui di	1
+豮	uu ui bf	1
+豷	uu ui yi	1
+豼	uu vi bi	1
+豽	uu vi nw	1
+豾	uu vi pi	1
+豿	uu vi ju	1
+貀	uu vi iu	1
+貁	uu vi xt	1
+貂	uu vi vc	1
+貃	uu vi bd	1
+貄	uu vi yu	1
+貅	uu vi xq	1
+貆	uu vi gf	1
+貇	uu vi gf	1
+貈	uu vi vz	1
+貉	uu vi ge	1
+貊	uu vi bd	1
+貋	uu vi hj	1
+貌	uu vi bd er	1
+貎	uu vi er	1
+貏	uu vi bw	1
+貐	uu vi yu	1
+貑	uu vi jx	1
+貒	uu vi dr	1
+猫	uu qr mn	1
+猫	uu qr mn	1
+貔	uu vi xb bi	1
+貕	uu vi xi	1
+貖	uu vi yi	1
+獏	uu qr mo	1
+獏	uu qr mo	1
+獾	uu qr gr	1
+獾	uu qr gr	1
+貜	uu vi jt	1
+貱	uu bw pi	1
+赈	uu bw if	1
+赊	uu bw ue	1
+賔	uu mm mw ba	1
+赇	uu bw qq	1
+赒	uu bw vz	1
+赉	uu ld bw	1
+赐	uu bw yi	1
+赏	uu uh bw	1
+赔	uu bw pz	1
+赓	uu gg bw	1
+赋	uu bw wu	1
+赕	uu bw yj	1
+赍	uu ui rf rf mi bw	1
+赌	uu bw ve	1
+赖	uu uu fu	1
+赗	uu bw mc	1
+赚	uu bw jm	1
+赙	uu bw fu	1
+赛	uu mm jk da bw	1
+赘	uu ao bw	1
+赟	uu bb bw	1
+赠	uu bw cg	1
+赞	uu xm xm bw	1
+赝	uu ih rf vv bw	1
+赝	uu ih rf vv bw	1
+赝	uu ih sv bw	1
+赡	uu bw vj	1
+赢	uu wh kz yt bw fj	1
+赑	uu bw bw bw	1
+赎	uu bw md	1
+赝	uu ih rf vv bw	1
+赝	uu ih rf vv bw	1
+赝	uu ih sv bw	1
+赣	uu li zc xi gs bw	1
+赣	uu li zc vi gs bw	1
+赥	uu ii qm	1
+赦	uu ii pu	1
+赦	uu ii pu	1
+赧	uu ii jp yz	1
+赨	uu ii is	1
+赩	uu ii se	1
+赫	uu ii ii	1
+赪	uu ii vf	1
+赭	uu ii ve	1
+赮	uu ii jx	1
+赯	uu ii th	1
+赹	uu zz yy	1
+赺	uu zz jb	1
+赻	uu zz uc	1
+赼	uu zz qm	1
+赽	uu zz gk	1
+赾	uu zz jb	1
+赿	uu zz di	1
+趁	uu zz rf uj	1
+趂	uu zz er	1
+趃	uu zz ui	1
+趄	uu zz qp	1
+超	uu zz vc	1
+趆	uu zz di	1
+趇	uu zz li	1
+趈	uu zz vj	1
+趉	uu zz iu	1
+越	uu zz yt	1
+趌	uu zz ji	1
+趍	uu zz do	1
+趎	uu zz vu	1
+趏	uu zz ue	1
+趐	uu zz yu	1
+趑	uu zz ci	1
+趒	uu zz vc	1
+趓	uu zz do	1
+趔	uu zz lp	1
+趖	uu zz zo	1
+趗	uu zz zu	1
+趘	uu zz ww	1
+趚	uu zz uu	1
+趛	uu zz jb	1
+趜	uu zz ju	1
+趝	uu zz nm	1
+趞	uu zz xi	1
+趟	uu zz uh	1
+趠	uu zz vo	1
+趡	uu zz cv	1
+趢	uu zz lu	1
+趣	uu zz qu	1
+趤	uu zz dh	1
+趥	uu zz qq	1
+趦	uu zz zi	1
+趧	uu zz ui	1
+趋	uu zz iu	1
+趩	uu zz yi	1
+趪	uu zz hl	1
+趭	uu zz jn	1
+趮	uu zz zc	1
+趯	uu zz di	1
+趱	uu zz zj	1
+趹	uu zu gk	1
+趺	uu zu fu	1
+趻	uu zu jb	1
+趼	uu zu kd	1
+趽	uu zu fh	1
+趾	uu zu vi	1
+跀	uu zu yt	1
+跁	uu zu ba	1
+跂	uu zu vi	1
+跅	uu zu ii	1
+跆	uu zu td	1
+跇	uu zu ui	1
+跈	uu zu rf uj	1
+跉	uu zu lk	1
+跊	uu zu ww	1
+跋	uu zu ba	1
+跌	uu zu ui	1
+跍	uu zu gu	1
+跎	uu zu ta	1
+跏	uu zu jx	1
+跐	uu zu ci	1
+跑	uu zu bc	1
+跒	uu zu ke	1
+跓	uu zu vu	1
+跔	uu zu ju	1
+跕	uu zu vj	1
+跖	uu zu ui	1
+跗	uu zu fu	1
+跘	uu zu bj	1
+跙	uu zu qp	1
+跚	uu zu ce	1
+跛	uu zu pi	1
+跜	uu zu ni	1
+距	uu zu ju	1
+跟	uu zu gf	1
+跠	uu zu yi	1
+跢	uu zu do	1
+跣	uu zu xm	1
+跤	uu zu jn	1
+跺	uu zu do	1
+跦	uu zu vu	1
+跧	uu zu qr	1
+跨	uu zu kx	1
+跩	uu zu ye	1
+跪	uu zu ww	1
+跫	uu gs zu	1
+跬	uu zu gv	1
+跭	uu zu jl	1
+跮	uu zu vi	1
+路	uu zu ge	1
+跰	uu zu bk	1
+跱	uu zu si	1
+跲	uu zu he	1
+跳	uu zu vc	1
+跴	uu zu xi	1
+跺	uu zu do	1
+跼	uu zu ju	1
+跽	uu zu ji	1
+跾	uu yz zu	1
+跿	uu zu zz	1
+踀	uu zu zu	1
+踂	uu zu yi	1
+踃	uu zu xn	1
+踄	uu zu bu	1
+踅	uu ve zu	1
+踆	uu zu qy	1
+踇	uu zu mw	1
+踈	uu zu uu	1
+踉	uu zu ll	1
+踋	uu zu qt	1
+踍	uu zu xn	1
+踎	uu zu fz	1
+踏	uu zu da	1
+践	uu zu jm	1
+踑	uu zu qi	1
+踒	uu zu ww	1
+踓	uu zu vv	1
+踔	uu zu vo	1
+踕	uu zu jp	1
+踖	uu zu xi	1
+踗	uu zu nm	1
+踘	uu zu ju	1
+踙	uu zu qu	1
+踛	uu zu lu	1
+踜	uu zu lk	1
+踝	uu zu go	1
+踞	uu zu ju	1
+踟	uu zu vi	1
+踠	uu zu wj	1
+踡	uu zu jr	1
+踢	uu zu yi	1
+踣	uu zu pz	1
+踤	uu zu zu	1
+踥	uu zu qp	1
+踦	uu zu qi	1
+踧	uu zu uu	1
+踨	uu zu cs	1
+踩	uu zu cd	1
+踫	uu zu bk	1
+踮	uu zu dm	1
+踰	uu zu yu	1
+踱	uu zu du	1
+踲	uu zu dy	1
+踳	uu zu iy	1
+踊	uu zu ys	1
+踵	uu zu vs	1
+踶	uu zu ui	1
+踷	uu zu ve	1
+踸	uu zu uf	1
+踹	uu zu dr	1
+踺	uu zu jm	1
+踽	uu zu yu	1
+踾	uu zu fu	1
+踿	uu zu qq	1
+蹀	uu zu ye	1
+蹁	uu zu bm	1
+蹂	uu zu rz	1
+蹃	uu zu ro	1
+蹄	uu zu di	1
+蹅	uu zu ia	1
+蹆	uu zu tv	1
+蹇	uu mm jk da zu	1
+蹈	uu zu yc	1
+蹉	uu zu ia	1
+蹊	uu zu xi	1
+蹋	uu zu ri yu	1
+跄	uu zu ch	1
+蹍	uu zu vj	1
+蹎	uu zu vf	1
+蹏	uu zu si	1
+蹐	uu zu ji	1
+蹓	uu zu lq	1
+蹔	uu vj zu	1
+跸	uu zu bi	1
+蹖	uu zu is	1
+蹗	uu zu lu	1
+蹘	uu zu lq	1
+蹙	uu qi zu	1
+蹚	uu zu th	1
+蹜	uu zu su	1
+蹝	uu zu xi	1
+蹟	uu io yi ji	1
+蹟	uu io yi ji	1
+蹠	uu zu uu	1
+蹢	uu zu di	1
+蹒	uu zu cc ll	1
+蹒	uu zu cc ll	1
+踪	uu zu zs	1
+蹦	uu zu bg	1
+蹧	uu zu cc	1
+蹨	uu zu rj	1
+蹩	uu bi zu	1
+蹫	uu zu yu	1
+蹬	uu zu dg	1
+蹭	uu zu cg	1
+蹮	uu zu xi da ji	1
+蹮	uu zu xi da ji	1
+蹯	uu zu fj	1
+蹱	uu zu ts	1
+蹲	uu zu zy	1
+蹴	uu zu jq	1
+蹵	uu jq zu	1
+蹶	uu zu jt	1
+蹷	uu jt zu	1
+蹸	uu zu lb	1
+蹹	uu zu xi	1
+跷	uu zu yc	1
+蹼	uu zu pu	1
+蹽	uu zu ln	1
+蹾	uu zu dy	1
+躁	uu zu pb mu	1
+躁	uu zu zc	1
+跶	uu zu da	1
+躃	uu zu pi	1
+躄	uu pi zu	1
+躅	uu zu uu	1
+躆	uu zu ju	1
+躇	uu zu vu	1
+躈	uu zu jn	1
+踌	uu zu uz	1
+跻	uu zu qi	1
+躌	uu zu wu	1
+跃	uu zu yc	1
+躐	uu zu lp	1
+踯	uu zu vg	1
+跞	uu zu le	1
+踬	uu zu vi	1
+躔	uu zu ij	1
+蹰	uu zu iu	1
+躖	uu zu gy er yc yc yc yc	1
+跹	uu zu qm	1
+躛	uu ww zu	1
+躞	uu zu xp	1
+躟	uu zu xl	1
+躠	uu xt zu	1
+蹑	uu zu np	1
+躣	uu zu qu	1
+躤	uu zu ji	1
+蹿	uu zu cr	1
+躜	uu zu zj	1
+躨	uu zu kv	1
+躩	uu zu jt	1
+躏	uu zu lb	1
+躭	uu uf yb	1
+躰	uu uf bf	1
+躲	uu uf do	1
+躲	uu uf do	1
+躳	uu uf lv	1
+躴	uu uf ll	1
+躶	uu uf go	1
+躷	uu uf ww	1
+躸	uu uf qi	1
+躹	uu uf ju	1
+躺	uu uf uh	1
+躽	uu uf yj	1
+躿	uu uf kh	1
+躯	uu uf qu	1
+軆	uu uf fg	1
+軩	uu ie td	1
+辆	uu ie ll	1
+辄	uu ie yi	1
+辅	uu ie fu	1
+辆	uu ie ll	1
+辎	uu ie zd	1
+辉	uu ie jy	1
+辋	uu ie wh	1
+辍	uu ie vo	1
+辊	uu ie ky	1
+辇	uu fu fu ie	1
+辈	uu fw ie	1
+辌	uu ie jk	1
+辑	uu ie qi	1
+辑	uu ie kz er	1
+辏	uu ie zz	1
+输	uu ie yu	1
+辐	uu ie fu	1
+辒	uu ie wf	1
+辗	uu ie vj	1
+舆	uu jq ie yi ba	1
+辒	uu ie wf	1
+毂	uu ui mi ie uu	1
+辖	uu ie hd	1
+辕	uu ie yr	1
+辘	uu ie lu	1
+辙	uu ie ii yu pu	1
+辚	uu ie lb	1
+辔	uu si ie kz	1
+辜	uu gu xb	1
+辝	uu td xb	1
+辟	uu ui kz xb	1
+辠	uu zi xb	1
+辡	uu xb xb	1
+辢	uu uu xb	1
+辣	uu xb uu	1
+辤	uu uz xb	1
+辥	uu ie hu ya yi xb	1
+辥	uu ie hu ya yi xb	1
+辧	uu xb dc xb	1
+辨	uu xb vu pp xb	1
+辬	uu xb wf xb	1
+辞	uu ue xb	1
+辫	uu xb si xb	1
+辫	uu xb si xb	1
+辩	uu xb yj xb	1
+辩	uu xb yj xb	1
+辳	uu lb if	1
+逩	uu io bf	1
+逩	uu io bf	1
+逪	uu io xi	1
+逪	uu io xi	1
+逫	uu io vo	1
+逫	uu io vo	1
+逭	uu io gr	1
+逭	uu io gr	1
+逮	uu io li	1
+逮	uu io li	1
+逯	uu io lu	1
+逯	uu io lu	1
+逰	uu io uz pp yi zi	1
+逰	uu io uz pp yi zi	1
+逳	uu io yu	1
+逳	uu io yu	1
+逴	uu io vo	1
+逴	uu io vo	1
+逵	uu io lu	1
+逵	uu io lu	1
+逶	uu io ww	1
+逶	uu io ww	1
+逷	uu io yi	1
+逷	uu io yi	1
+逸	uu io mm	1
+逸	uu io mm	1
+逼	uu io fu	1
+逼	uu io fu	1
+逽	uu io ro	1
+逽	uu io ro	1
+逾	uu io yu	1
+逾	uu io yu	1
+遁	uu io dy	1
+遁	uu io dy	1
+遂	uu io ba ui	1
+遂	uu io ba ui	1
+遃	uu io yj	1
+遃	uu io yj	1
+遄	uu io dr	1
+遄	uu io dr	1
+遆	uu io di	1
+遆	uu io di	1
+遇	uu io yu	1
+遇	uu io yu	1
+遈	uu io ui	1
+遈	uu io ui	1
+遉	uu io vf	1
+遉	uu io vf	1
+游	uu uv yz	1
+游	uu uv yz	1
+遌	uu io ee	1
+遌	uu io ee	1
+遍	uu io bm	1
+遍	uu io bm	1
+遏	uu io he	1
+遏	uu io he	1
+遐	uu io jx	1
+遐	uu io jx	1
+遑	uu io hl	1
+遑	uu io hl	1
+遒	uu io qq	1
+遒	uu io qq	1
+道	uu io uz	1
+道	uu io uz	1
+遘	uu io gz	1
+遘	uu io gz	1
+遥	uu io vc fz	1
+遥	uu io vc fz	1
+遚	uu io sz	1
+遚	uu io sz	1
+遛	uu io lq	1
+遛	uu io lq	1
+遝	uu io da	1
+遝	uu io da	1
+遟	uu io xi	1
+遟	uu io xi	1
+遡	uu io uo	1
+遡	uu io uo	1
+遢	uu io ri yu	1
+遢	uu io ri yu	1
+遢	uu io yt yu	1
+遢	uu io yt yu	1
+遣	uu io vs yi ui ya yi	1
+遣	uu io io vs yi ui ya yi	1
+遧	uu io vh	1
+遧	uu io vh	1
+遨	uu io ao	1
+遨	uu io ao	1
+遫	uu io ii	1
+遫	uu io ii	1
+遬	uu io uo	1
+遬	uu io uo	1
+遭	uu io cc	1
+遭	uu io cc	1
+遮	uu io uu	1
+遮	uu io uu	1
+遯	uu io ty	1
+遯	uu io ty	1
+遳	uu io co	1
+遳	uu io co	1
+遴	uu io lb	1
+遴	uu io lb	1
+遵	uu io zy	1
+遵	uu io zy	1
+遹	uu io yu	1
+遹	uu io yu	1
+遗	uu io gv	1
+遗	uu io gv	1
+遻	uu io kz kz ni	1
+遻	uu io kz kz ni	1
+遽	uu io ju	1
+遽	uu io ju	1
+遾	uu io ui	1
+遾	uu io ui	1
+避	uu io pi	1
+避	uu io pi	1
+邀	uu io jn	1
+邀	uu io jn	1
+邂	uu io jp	1
+邂	uu io jp	1
+邃	uu xt sv	1
+邃	uu io xt ba ui	1
+邃	uu io xt ba ui	1
+邅	uu io dj	1
+邅	uu io dj	1
+邆	uu io dg	1
+邆	uu io dg	1
+邈	uu io mc	1
+邈	uu io mc	1
+邉	uu io zi mi ba kz	1
+邉	uu io zi mi ba kz	1
+邋	uu io lp	1
+邋	uu io lp	1
+邌	uu io li	1
+邌	uu io li	1
+邍	uu io bw lu	1
+邍	uu io bw lu	1
+邎	uu io xi yj xi	1
+邎	uu io xi yj xi	1
+逻	uu io lo	1
+逻	uu io lo	1
+邫	uu fg yi	1
+郌	uu gv yi	1
+郶	uu pz yi	1
+郹	uu ju yi	1
+郹	uu ju fu	1
+郺	uu do ys	1
+郻	uu mu gy yi ir yi	1
+郻	uu mu gy yi ir fu	1
+郾	uu yj yi	1
+郾	uu yj fu	1
+郿	uu mw yi	1
+郿	uu mw fu	1
+鄁	uu bw yi	1
+鄁	uu bw fu	1
+鄂	uu ee yi	1
+鄂	uu ee fu	1
+鄃	uu yu yi	1
+鄃	uu yu fu	1
+鄄	uu yb yi	1
+鄄	uu yb fu	1
+鄅	uu yu yi	1
+鄅	uu yu fu	1
+鄇	uu hz yi	1
+鄇	uu hz fu	1
+鄈	uu gv yi	1
+鄈	uu gv fu	1
+鄊	uu xl ye yi	1
+鄊	uu xl ye fu	1
+鄋	uu sz yi	1
+鄋	uu sz fu	1
+鄌	uu th yi	1
+鄌	uu th fu	1
+鄍	uu mk yi	1
+鄍	uu mk fu	1
+鄎	uu xi yi	1
+鄎	uu xi fu	1
+鄏	uu ru yi	1
+鄏	uu ru fu	1
+鄐	uu iu yi	1
+鄐	uu iu fu	1
+鄓	uu iz yi	1
+鄓	uu iz fu	1
+鄗	uu gc yi	1
+鄗	uu gc fu	1
+鄘	uu ys yi	1
+鄘	uu ys fu	1
+鄙	uu bi yi	1
+鄙	uu bi fu	1
+鄚	uu mo yi	1
+鄚	uu mo fu	1
+鄛	uu ic yi	1
+鄛	uu ic fu	1
+鄜	uu lu yi	1
+鄜	uu lu fu	1
+鄝	uu lq yi	1
+鄝	uu lq fu	1
+鄞	uu jb yi	1
+鄞	uu jb fu	1
+鄠	uu yu yi	1
+鄠	uu yu fu	1
+鄢	uu yj yi	1
+鄢	uu yj fu	1
+鄣	uu vh yi	1
+鄣	uu vh fu	1
+鄤	uu mj yi	1
+鄤	uu mj fu	1
+鄨	uu bi yi	1
+鄫	uu cg yi	1
+鄫	uu cg fu	1
+鄯	uu uj yi	1
+鄯	uu uj fu	1
+鄱	uu fj yi	1
+鄱	uu fj fu	1
+鄵	uu zc yi	1
+鄵	uu zc fu	1
+鄷	uu li yi	1
+鄷	uu li fu	1
+鄹	uu ju yi	1
+鄹	uu ju fu	1
+鄽	uu ij yi	1
+鄽	uu ij fu	1
+鄾	uu yz yi	1
+鄾	uu yz fu	1
+酀	uu yj yi	1
+酀	uu yj fu	1
+酁	uu ij yi	1
+酁	uu ij fu	1
+酃	uu lk yi	1
+酃	uu lk fu	1
+酄	uu gr yi	1
+酄	uu gr fu	1
+酅	uu gv yi	1
+酅	uu gv fu	1
+酆	uu fg yi	1
+酆	uu fg fu	1
+酂	uu zj yi	1
+酂	uu zj fu	1
+酓	uu jb yz	1
+酔	uu yz zu	1
+酕	uu yz mc	1
+酖	uu yz yb	1
+酗	uu yz xs	1
+酘	uu yz uu	1
+酙	uu yz dz	1
+酚	uu yz ff	1
+酞	uu yz td	1
+酟	uu yz vj	1
+酠	uu yz ke	1
+酡	uu yz ta	1
+酢	uu yz va	1
+酣	uu yz gj	1
+酤	uu yz gu	1
+酥	uu yz he	1
+酧	uu yz uz	1
+酨	uu ui ge yz	1
+酨	uu tu ge yz	1
+酨	uu zd yz	1
+酩	uu yz mk	1
+酪	uu ge yz	1
+酫	uu yz qr	1
+酬	uu yz vz	1
+酭	uu yz yz	1
+酮	uu yz ts	1
+酯	uu yz vi	1
+酰	uu yz xm	1
+酲	uu yz ig	1
+酳	uu yz yc rz	1
+酳	uu yz yc yt	1
+酴	uu yz yu	1
+酵	uu yz xn	1
+酶	uu yz mw	1
+酷	uu yz gc	1
+酸	uu yz qy	1
+酹	uu yz lv	1
+酺	uu yz fu	1
+酻	uu yz fu	1
+酼	uu yz tz si ir	1
+酼	uu yz hl	1
+酼	uu yz lq	1
+醀	uu yz vv	1
+醁	uu yz lu	1
+醂	uu yz lb	1
+腌	uu rz yj	1
+腌	uu yt yj	1
+醄	uu yz tc	1
+醅	uu yz pz	1
+醆	uu yz jm	1
+醇	uu yz xl	1
+醈	uu yz yj	1
+醉	uu yz zu	1
+醊	uu yz vo	1
+醋	uu yz xi	1
+醌	uu yz ky	1
+醍	uu yz ui	1
+醎	uu yz xm	1
+醏	uu yz ve	1
+醐	uu yz hu	1
+醑	uu yz xu	1
+醒	uu yz xk	1
+醓	uu yz yb mb	1
+醔	uu qq yz	1
+醕	uu yz xl	1
+醖	uu yz wf	1
+酦	uu yz fa	1
+醘	uu yz he	1
+醙	uu yz sz	1
+醚	uu yz mi	1
+醛	uu yz qr	1
+醝	uu yz ia	1
+酝	uu yz yy	1
+醠	uu yz ah	1
+醡	uu yz vd	1
+醢	uu yz yz mb	1
+醣	uu yz th	1
+酱	uu ql xi yz	1
+醥	uu yz pn	1
+醨	uu yz li	1
+醩	uu yz cc	1
+醪	uu yz lq	1
+酱	uu ql xi yz	1
+醭	uu yz pu	1
+醮	uu yz jn	1
+醯	uu yz tz si ir mb	1
+醯	uu yz hl mb	1
+醯	uu yz lq mb	1
+醰	uu yz tj	1
+酦	uu yz fa	1
+醳	uu yz yi	1
+醴	uu yz li	1
+醵	uu yz ju	1
+醷	uu yz yi	1
+醹	uu yz xu	1
+醺	uu yz xy	1
+醼	uu yz yj	1
+醽	uu yz lk	1
+醾	uu yz mi	1
+醿	uu yz mi	1
+酿	uu yz ll	1
+衅	uu xt bj	1
+釂	uu yz jt	1
+酾	uu yz li	1
+釄	uu yz mi	1
+酽	uu yz yj	1
+释	uu cd yz er gy	1
+释	uu bm yz er gy	1
+釉	uu cd yz	1
+釉	uu bm yz	1
+释	uu cd yz er gy	1
+释	uu bm yz er gy	1
+野	uu li yu	1
+量	uu ri yi li	1
+量	uu yt yi li	1
+釦	uu jb kz	1
+釦	uu jb kz	1
+釭	uu jb gs	1
+釭	uu jb gs	1
+鉏	uu jb qp	1
+鉏	uu jb qp	1
+铏	uu jb xk	1
+铏	uu jb xk	1
+铰	uu jb jn	1
+铰	uu jb jn	1
+铒	uu jb er	1
+铒	uu jb er	1
+铬	uu jb ge	1
+铬	uu jb ge	1
+铪	uu jb he	1
+铪	uu jb he	1
+银	uu jb gf	1
+银	uu jb gf	1
+铳	uu jb is	1
+铳	uu jb is	1
+铜	uu jb ts	1
+铜	uu jb ts	1
+铚	uu jb vi	1
+铚	uu jb vi	1
+銐	uu lp jb	1
+铣	uu jb xm	1
+铣	uu jb xm	1
+铨	uu jb qr	1
+铨	uu jb qr	1
+铢	uu jb vu	1
+铢	uu jb vu	1
+铭	uu jb mk	1
+铭	uu jb mk	1
+铫	uu jb vc	1
+铫	uu jb vc	1
+铦	uu jb ue	1
+铦	uu jb ue	1
+衔	uu xk jb	1
+衔	uu xk jb	1
+铑	uu jb lc	1
+铑	uu jb lc	1
+铷	uu jb ru	1
+铷	uu jb ru	1
+铱	uu jb yi	1
+铱	uu jb yi	1
+铟	uu jb yb	1
+铟	uu jb yb	1
+铵	uu jb an	1
+铵	uu jb an	1
+铥	uu jb dq	1
+铥	uu jb dq	1
+铕	uu jb yz	1
+铕	uu jb yz	1
+铯	uu jb se	1
+铯	uu jb se	1
+铐	uu jb kc	1
+铐	uu jb kc	1
+铞	uu jb dn	1
+铞	uu jb dn	1
+锐	uu jb dv	1
+锐	uu jb dv	1
+销	uu jb xn	1
+销	uu jb xn	1
+锈	uu jb xq	1
+锈	uu jb xq	1
+锑	uu jb di	1
+锑	uu jb di	1
+锉	uu jb zo	1
+锉	uu jb zo	1
+铝	uu jb lv	1
+铝	uu jb lv	1
+锒	uu jb ll	1
+锒	uu jb ll	1
+锌	uu jb xb	1
+锌	uu jb xb	1
+铤	uu jb tk	1
+铤	uu jb tk	1
+铗	uu jb jx	1
+铗	uu jb jx	1
+锋	uu jb fg	1
+锋	uu jb fg	1
+铻	uu jb wu	1
+铻	uu jb wu	1
+锊	uu jb lv	1
+锊	uu jb lv	1
+锓	uu jb ji mi yz	1
+锓	uu jb ji mi yz	1
+铘	uu jb xp	1
+铘	uu jb xp	1
+锄	uu jb vu	1
+锄	uu jb vu	1
+锃	uu jb ig	1
+锃	uu jb ig	1
+锔	uu jb ju	1
+锔	uu jb ju	1
+锇	uu jb wo	1
+锇	uu jb wo	1
+铓	uu jb mh	1
+铓	uu jb mh	1
+铺	uu jb fu	1
+铺	uu jb fu	1
+锐	uu jb dv	1
+锐	uu jb dv	1
+铖	uu jb ig	1
+铖	uu jb ig	1
+锆	uu jb gc	1
+锆	uu jb gc	1
+锂	uu jb li	1
+锂	uu jb li	1
+铽	uu jb te	1
+铽	uu jb te	1
+铸	uu jb uz	1
+铸	uu jb uz	1
+锍	uu jb tz si ir	1
+锍	uu jb tz si ir	1
+锍	uu jb hl	1
+锍	uu jb hl	1
+锍	uu jb lq lq	1
+锍	uu jb lq	1
+锯	uu jb ju	1
+锯	uu jb ju	1
+鋻	uu qm jb	1
+锞	uu jb go	1
+锞	uu jb go	1
+錃	uu bo jb	1
+錅	uu he bc pp jb	1
+锖	uu jb qk	1
+锖	uu jb qk	1
+锫	uu jb pz	1
+锫	uu jb pz	1
+锩	uu jb jr	1
+锩	uu jb jr	1
+铔	uu jb ya	1
+铔	uu jb ya	1
+锥	uu jb vv	1
+锥	uu jb vv	1
+锕	uu jb aa	1
+锕	uu jb aa	1
+锟	uu jb ky	1
+锟	uu jb ky	1
+錖	uu uu jb	1
+锤	uu jb iv	1
+锤	uu jb iv	1
+锱	uu jb zd	1
+锱	uu jb zd	1
+铮	uu jb vg	1
+铮	uu jb vg	1
+锛	uu jb bf	1
+锛	uu jb bf	1
+锬	uu jb yj	1
+锬	uu jb yj	1
+锭	uu jb dk	1
+锭	uu jb dk	1
+锜	uu jb qi	1
+锜	uu jb qi	1
+锦	uu jb bo	1
+锦	uu jb bo	1
+锚	uu jb mn	1
+锚	uu jb mn	1
+锠	uu jb ih	1
+锠	uu jb ih	1
+锡	uu jb yi	1
+锡	uu jb yi	1
+锢	uu jb gu	1
+锢	uu jb gu	1
+错	uu jb xi	1
+错	uu jb xi	1
+锰	uu jb mg	1
+锰	uu jb mg	1
+铼	uu jb ld	1
+铼	uu jb ld	1
+锝	uu jb ri yi cy	1
+锝	uu jb ri yi cy	1
+锝	uu jb de	1
+锝	uu jb de	1
+锨	uu jb xb	1
+锨	uu jb xb	1
+锪	uu jb hu	1
+锪	uu jb hu	1
+锴	uu jb jp	1
+锴	uu jb jp	1
+锳	uu jb yk	1
+锳	uu jb yk	1
+锅	uu jb go	1
+锅	uu jb go	1
+镀	uu jb du	1
+镀	uu jb du	1
+锷	uu jb ee	1
+锷	uu jb ee	1
+铡	uu jb ze	1
+铡	uu jb ze	1
+鍙	uu hs jb	1
+锻	uu jb dr	1
+锻	uu jb dr	1
+锽	uu jb hl	1
+锽	uu jb hl	1
+锸	uu jb ia	1
+锸	uu jb ia	1
+锲	uu jb qi	1
+锲	uu jb qi	1
+锘	uu jb ro	1
+锘	uu jb ro	1
+锹	uu jb qq	1
+锹	uu jb qq	1
+锾	uu jb yr	1
+锾	uu jb yr	1
+鍳	uu if pp yi vu	1
+键	uu jb jm	1
+键	uu jb jm	1
+锶	uu jb si	1
+锶	uu jb si	1
+锺	uu jb vs	1
+锺	uu jb vs	1
+镁	uu jb mw	1
+镁	uu jb mw	1
+锿	uu jb ai	1
+锿	uu jb ai	1
+镅	uu jb mw	1
+镅	uu jb mw	1
+镑	uu jb ph	1
+镑	uu jb ph	1
+镕	uu jb rs	1
+镕	uu jb rs	1
+锁	uu jb xn bw	1
+锁	uu jb xn bw	1
+镉	uu jb ge	1
+镉	uu jb ge	1
+锤	uu jb iv	1
+锤	uu jb iv	1
+镈	uu jb fu	1
+镈	uu jb fu	1
+镃	uu jb zi	1
+镃	uu jb zi	1
+蓥	uu cc mi jb	1
+蓥	uu cc mi jb	1
+蓥	uu cc mi jb	1
+镏	uu jb lq	1
+镏	uu jb lq	1
+铠	uu jb qi	1
+铠	uu jb qi	1
+铩	uu jb ua	1
+铩	uu jb ua	1
+锼	uu jb sz	1
+锼	uu jb sz	1
+镐	uu jb gc	1
+镐	uu jb gc	1
+镇	uu jb vf	1
+镇	uu jb vf	1
+镇	uu jb vf	1
+镇	uu jb vf	1
+镒	uu jb yi	1
+镒	uu jb yi	1
+镋	uu jb dh	1
+镋	uu jb dh	1
+镍	uu jb np	1
+镍	uu jb np	1
+镓	uu jb jx	1
+镓	uu jb jx	1
+镌	uu jb jr	1
+镌	uu jb jr	1
+镎	uu jb na	1
+镎	uu jb na	1
+镞	uu jb zu	1
+镞	uu jb zu	1
+镟	uu jb xr	1
+镟	uu jb xr	1
+链	uu jb lm	1
+链	uu jb lm	1
+鏊	uu ao jb	1
+镆	uu jb mo	1
+镆	uu jb mo	1
+镙	uu jb lw	1
+镙	uu jb lw	1
+镠	uu jb lq	1
+镠	uu jb lq	1
+镝	uu jb di	1
+镝	uu jb di	1
+鏖	uu lu jb	1
+铿	uu jb jm	1
+铿	uu jb jm	1
+锵	uu jb jl	1
+锵	uu jb jl	1
+镗	uu jb th	1
+镗	uu jb th	1
+镘	uu jb mj	1
+镘	uu jb mj	1
+镛	uu jb ys	1
+镛	uu jb ys	1
+铲	uu jb ij	1
+铲	uu jb ij	1
+镜	uu jb jk	1
+镜	uu jb jk	1
+镖	uu jb pn	1
+镖	uu jb pn	1
+镂	uu jb lz	1
+镂	uu jb lz	1
+錾	uu vj jb	1
+镚	uu jb pg	1
+镚	uu jb pg	1
+铧	uu jb hx	1
+铧	uu jb hx	1
+镤	uu jb pu	1
+镤	uu jb pu	1
+镪	uu jb ql	1
+镪	uu jb ql	1
+锈	uu jb xq	1
+锈	uu jb xq	1
+铙	uu jb yc	1
+铙	uu jb yc	1
+铴	uu jb th	1
+铴	uu jb th	1
+镣	uu jb ln	1
+镣	uu jb ln ln	1
+铹	uu jb lc	1
+铹	uu jb lc	1
+镦	uu jb dy	1
+镦	uu jb dy	1
+镡	uu jb tj	1
+镡	uu jb tj	1
+镫	uu jb dg	1
+镫	uu jb dg	1
+鐜	uu xl jb	1
+镢	uu jb jt	1
+镢	uu jb jt	1
+镨	uu jb pu	1
+镨	uu jb pu	1
+锎	uu jb kd	1
+锎	uu jb kd	1
+锏	uu jb jm	1
+锏	uu jb jm	1
+镄	uu jb fw	1
+镄	uu jb fw	1
+镌	uu jb jr	1
+镌	uu jb jr	1
+镰	uu jb lm	1
+镰	uu jb lm	1
+镯	uu jb uu	1
+镯	uu jb uu	1
+镭	uu jb lw	1
+镭	uu jb lw	1
+镮	uu jb qs	1
+镮	uu jb qs	1
+铛	uu jb dh	1
+铛	uu jb dh	1
+鐾	uu pi jb	1
+镱	uu jb yi	1
+镱	uu jb yi	1
+铸	uu jb uz	1
+铸	uu jb uz	1
+镬	uu jb ho	1
+镬	uu jb ho	1
+镔	uu jb bb	1
+镔	uu jb bb	1
+鉴	uu gy gy pp yi vu jb	1
+鉴	uu gy gy pp yi vu jb	1
+鉴	uu gy gy pp yi vu jb	1
+鉴	uu gy gy pp yi vu jb	1
+镲	uu jb ia	1
+镲	uu jb ia	1
+锧	uu jb vi	1
+锧	uu jb vi	1
+镴	uu jb lp	1
+镴	uu jb lp	1
+镳	uu jb lu bn	1
+镳	uu jb lu bn	1
+镥	uu jb lu	1
+镥	uu jb lu	1
+鑫	uu jb jb jb	1
+镧	uu jb lj	1
+镧	uu jb lj	1
+镵	uu jb ij	1
+镵	uu jb ij	1
+镶	uu jb xl	1
+镶	uu jb xl	1
+镊	uu jb np	1
+镊	uu jb np	1
+镩	uu jb cr	1
+镩	uu jb cr	1
+锣	uu jb lo	1
+锣	uu jb lo	1
+銮	uu yi jb	1
+凿	uu vo qm	1
+镋	uu jb dh	1
+镋	uu jb dh	1
+镺	uu ih yc	1
+镻	uu ih ui	1
+镼	uu ih qu	1
+镽	uu ih ln	1
+阊	uu mf ih	1
+阉	uu mf yj	1
+阎	uu mf xm	1
+阏	uu mf yu	1
+阍	uu mf hy	1
+阈	uu mf ho	1
+阌	uu mf uz	1
+阒	uu mf ju	1
+阔	uu mf ho	1
+阕	uu mf gv	1
+阑	uu mf jm	1
+阇	uu mf ve	1
+阗	uu mf vf	1
+阘	uu mf ri yu	1
+阖	uu mf he	1
+阙	uu mf jt	1
+阚	uu mf gj	1
+阓	uu mf gv	1
+阐	uu mf dj	1
+辟	uu ui kz xb	1
+阛	uu mf qs	1
+陻	uu fu yb	1
+陻	uu fu yb	1
+陾	uu fu rr	1
+陾	uu fu rr	1
+隀	uu fu vs	1
+隀	uu fu vs	1
+隁	uu fu yj	1
+隁	uu fu yj	1
+隂	uu fu rf ih	1
+隂	uu fu rf ih	1
+隃	uu fu yu	1
+隃	uu fu yu	1
+隄	uu fu ui	1
+隄	uu fu ui	1
+隅	uu fu yu	1
+隅	uu fu yu	1
+隆	uu fu vi ug	1
+隆	uu fu vi ug	1
+隆	uu fu xi ug	1
+隆	uu fu xi ug	1
+隇	uu fu ww	1
+隇	uu fu ww	1
+隈	uu fu ww	1
+隈	uu fu ww	1
+隉	uu fu jq tu	1
+隉	uu fu jq tu	1
+隋	uu fu zo yt	1
+隋	uu fu zo yt	1
+隌	uu fu yb	1
+隌	uu fu yb	1
+隍	uu fu hl	1
+隍	uu fu hl	1
+隒	uu fu jm	1
+隒	uu fu jm	1
+隓	uu fu zo zo	1
+隓	uu fu zo zo	1
+隔	uu fu ge	1
+隔	uu fu ge	1
+隖	uu fu wu	1
+隖	uu fu wu	1
+隗	uu fu gv	1
+隗	uu fu gv	1
+隘	uu fu yi	1
+隘	uu fu yi	1
+隙	uu fu xn ri xn	1
+隙	uu fu xn ri xn	1
+隚	uu fu th	1
+隚	uu fu th	1
+障	uu fu vh	1
+障	uu fu vh	1
+隞	uu fu ao	1
+隞	uu fu ao	1
+隟	uu fu ic	1
+隟	uu fu ic	1
+隐	uu fu ji	1
+隐	uu fu ji	1
+隣	uu fu lb	1
+隣	uu fu lb	1
+隤	uu fu gv	1
+隤	uu fu gv	1
+隥	uu fu dg	1
+隥	uu fu dg	1
+隦	uu fu pi	1
+隦	uu fu pi	1
+隧	uu fu sv	1
+隧	uu fu sv	1
+随	uu fu yz	1
+随	uu fu yz	1
+随	uu fu io yz	1
+隩	uu fu ao	1
+隩	uu fu ao	1
+隭	uu fu xu	1
+隭	uu fu xu	1
+隐	uu fu ji	1
+隐	uu fu ji	1
+隳	uu fu sv rf xb	1
+隳	uu fu sv rf xb	1
+隳	uu fu sv rf xn vu	1
+隳	uu fu sv rf xn vu	1
+隿	uu yi vv	1
+雀	uu uc vv	1
+雁	uu ih rf vv	1
+雁	uu ih rf vv	1
+雁	uu ih sv	1
+雂	uu jb vv	1
+雃	uu kd vv	1
+雄	uu gs vv	1
+雅	uu ya vv	1
+集	uu vv mu	1
+雇	uu hu vv	1
+萑	uu cc vv	1
+萑	uu cc vv	1
+萑	uu cc vv	1
+雉	uu ui vv	1
+雊	uu ju vv	1
+雌	uu ci vv	1
+雍	uu tz xl vv	1
+雎	uu qp vv	1
+雐	uu hu vv	1
+雐	uu hu vv	1
+雒	uu ge vv	1
+雓	uu yu vv	1
+雔	uu vv vv	1
+雕	uu vz vv	1
+雗	uu ui ri ui pp yi vv	1
+雘	uu dj ho	1
+雚	uu cc kz kz vv	1
+雚	uu cc kz kz vv	1
+雚	uu cc kz kz vv	1
+雏	uu iu vv	1
+雝	uu ys vv	1
+雟	uu ie vv js	1
+雡	uu lq vv	1
+雤	uu jq yc mi vv	1
+雤	uu xt vv	1
+雥	uu vv vv vv	1
+雦	uu vv vv vv	1
+雧	uu ji ji ji mu	1
+雩	uu yu kv	1
+雪	uu yu ji	1
+雫	uu yu xx	1
+雬	uu yu mu	1
+雭	uu yu ji	1
+雮	uu yu mc	1
+雯	uu yu wf	1
+雰	uu yu ff	1
+雱	uu yu fh	1
+雴	uu yu li	1
+雵	uu yu yh	1
+零	uu yu lk	1
+雷	uu yu tm	1
+雸	uu yu gj	1
+雹	uu yu bc	1
+雺	uu yu mc	1
+雼	uu yu ui	1
+雽	uu yu hu	1
+雿	uu yu vc	1
+需	uu yu er	1
+霂	uu yu mu	1
+霃	uu yu uf	1
+霄	uu yu xn	1
+霅	uu yu yj	1
+霆	uu yu tk	1
+震	uu yu if	1
+霈	uu yu pw	1
+霉	uu yu mu	1
+霊	uu yu yi ya	1
+霋	uu yu qi	1
+霌	uu yu vz	1
+霍	uu yu vv	1
+霎	uu yu qp	1
+霏	uu yu fw	1
+霐	uu yu hs	1
+霑	uu yu vj	1
+霒	uu yy jb	1
+霓	uu yu er	1
+霔	uu yu vu	1
+霕	uu yy ty	1
+霖	uu yu lb	1
+霘	uu yu ds	1
+霙	uu yu yk	1
+霚	uu yu wu	1
+霛	uu yu gs gs gs	1
+霜	uu yu xl	1
+霝	uu yu kz kz kz	1
+霞	uu yu jx	1
+霟	uu yu hs	1
+霠	uu yu li jb	1
+霡	uu yu md	1
+霤	uu yu lq	1
+霥	uu yu mg	1
+霦	uu yu bb	1
+雾	uu yu wu	1
+霨	uu yu ww	1
+霩	uu yu go	1
+霪	uu yu uv vc rf	1
+霪	uu yu uv vc rf	1
+霫	uu yu xi	1
+霬	uu yu yi	1
+霮	uu yu vj	1
+霯	uu yu dg	1
+霰	uu yu sj	1
+霱	uu yu yu	1
+露	uu yu lu	1
+霳	uu yu ls	1
+霵	uu yu ji	1
+霶	uu yu ph	1
+霷	uu yu yi	1
+霸	uu yu ge yt	1
+霹	uu yu pi	1
+霺	uu yu ww	1
+霼	uu yy qi	1
+霁	uu yu qi	1
+霾	uu yu li	1
+霿	uu yu wu mu	1
+靀	uu yu mg	1
+靁	uu yu lw	1
+雳	uu yu li	1
+靃	uu yu iz	1
+靃	uu yu vv vv	1
+霭	uu yu ye	1
+叇	uu yy dd	1
+叆	uu yy ai	1
+靊	uu yu fg	1
+靐	uu lw lw lw	1
+靕	uu vg qk	1
+靖	uu li qk	1
+靗	uu qk gl	1
+靘	uu qk se	1
+靓	uu qk jm	1
+靛	uu qk dk	1
+静	uu qk vg	1
+靔	uu qk qi	1
+靟	uu fw mc	1
+靠	uu gc fw	1
+靡	uu ma fw	1
+靤	uu mm bc	1
+腼	uu rz mm	1
+腼	uu yt mm	1
+靥	uu yj mm	1
+靪	uu ge dk	1
+靫	uu ge ia	1
+靬	uu ge gj	1
+靭	uu ge rf	1
+靮	uu ge uc	1
+靯	uu ge tu	1
+靰	uu ge wu	1
+靱	uu ge rf	1
+靲	uu ge jb	1
+靳	uu ge jb	1
+靴	uu ge hx	1
+靵	uu ge iz	1
+靶	uu ge ba	1
+靷	uu ge yb	1
+靸	uu ge ji	1
+靹	uu ge nw	1
+靺	uu ge mo	1
+靻	uu ge qp	1
+靼	uu ge dj	1
+靽	uu ge bj	1
+靾	uu ge ui	1
+靿	uu ge yz	1
+鞀	uu ge vc	1
+鞁	uu ge pi	1
+鞂	uu ge he	1
+鞃	uu ge hs	1
+鞄	uu ge bc	1
+鞅	uu ge yh	1
+鞇	uu ge yb	1
+鞈	uu ge he	1
+鞉	uu ge vc	1
+鞊	uu ge ji	1
+鞋	uu ge gv	1
+鞌	uu an ge	1
+鞍	uu ge an	1
+鞎	uu ge gf	1
+鞓	uu ge ig	1
+鞔	uu ge mm	1
+鞕	uu ge gg	1
+鞖	uu ge to	1
+鞗	uu yz ge	1
+鞘	uu ge xn	1
+鞙	uu ge yr	1
+鞚	uu ge ks	1
+鞛	uu ge pz	1
+鞜	uu ge da	1
+鞝	uu ge uh	1
+鞞	uu ge bw	1
+鞟	uu ge xl	1
+鞠	uu ge ju	1
+鞠	uu ge bc mi	1
+鞡	uu ge la	1
+鞢	uu ge ye	1
+鞣	uu ge rz	1
+鞤	uu fg ge	1
+鞥	uu ge yj	1
+鞧	uu ge qq	1
+鞨	uu ge he	1
+鞩	uu ge xt	1
+鞪	uu wu ge	1
+鞫	uu ge hs	1
+鞬	uu ge jm	1
+鞭	uu ge bm	1
+鞮	uu ge ui	1
+鞱	uu ge yc	1
+鞲	uu ge gz	1
+鞳	uu ge da	1
+鞴	uu ge cc ih ys	1
+鞴	uu ge cc ih ys	1
+鞴	uu ge cc ih ys	1
+鞵	uu ge xi	1
+鞶	uu bj ge	1
+鞷	uu ge ge	1
+鞹	uu ge go	1
+鞒	uu ge qn	1
+韀	uu ge vi	1
+缰	uu si jl	1
+缰	uu si jl	1
+韂	uu ge vj	1
+鞑	uu ge da	1
+韄	uu ge ho	1
+韈	uu ge mp	1
+鞯	uu ge jm	1
+韩	uu ui ri ui ww	1
+韪	uu ui ww	1
+韬	uu ww yc	1
+韝	uu ww gz	1
+韫	uu ww wf	1
+韮	uu cc jq	1
+韮	uu cc jq	1
+韮	uu cc jq	1
+韯	uu ui ge jq	1
+韯	uu zd jq	1
+韰	uu ee yz jq	1
+韱	uu rf rf ge jq	1
+齑	uu wf pp gy jq	1
+韴	uu yb za	1
+韶	uu yb vc	1
+韷	uu yb iu	1
+韸	uu yb fg	1
+韹	uu yb hl	1
+韺	uu yb yk	1
+韵	uu yb yy	1
+韼	uu yb fg	1
+韽	uu yj yb	1
+韾	uu qk yb	1
+頀	uu yb ho	1
+颇	uu pi ye	1
+领	uu lk ye	1
+頙	uu vg ye	1
+颌	uu he ye	1
+颉	uu ji ye	1
+颐	uu xi gy kz gy ye	1
+颏	uu hd ye	1
+頫	uu vc ye	1
+颊	uu jx ye	1
+颒	uu uv gs ye	1
+颊	uu jx ye	1
+颋	uu tk ye	1
+颕	uu bi ui ye	1
+頶	uu gc ye	1
+颔	uu hj ye	1
+颈	uu ug ye	1
+颓	uu tu ye	1
+频	uu bu ye	1
+颓	uu tu ye	1
+颗	uu go ye	1
+顇	uu zu ye	1
+题	uu ui ye	1
+额	uu ke ye	1
+颚	uu ee ye	1
+颜	uu yj ye	1
+颙	uu yu ye	1
+颛	uu dr ye	1
+颜	uu yj ye	1
+愿	uu yr xb	1
+颡	uu sh ye	1
+颠	uu vf ye	1
+颠	uu vf ye	1
+颟	uu cc ll ye	1
+颟	uu cc ll ye	1
+颟	uu cc ll ye	1
+颢	uu jk ye	1
+颤	uu dj ye	1
+颥	uu xu ye	1
+颦	uu pb bw	1
+颅	uu lu ye	1
+颞	uu np ye	1
+颧	uu gr ye	1
+飓	uu fg ju	1
+飔	uu fg si	1
+飖	uu vc fz fg	1
+飖	uu vc fz fg	1
+飕	uu fg sz	1
+飗	uu fg lq	1
+飘	uu pn fg	1
+飙	uu bn fg	1
+飙	uu qr qr qr fg	1
+飚	uu fg bn	1
+飜	uu fj fw	1
+飡	uu bk ui	1
+飡	uu bk ui	1
+飬	uu ba fu ll	1
+飸	uu hc ui	1
+飺	uu ci ui	1
+餀	uu ui ai	1
+餈	uu ci ui	1
+餐	uu dd yz ui	1
+餐	uu ee yz ui	1
+馄	uu ui ky	1
+馄	uu ui ky	1
+馃	uu ui go	1
+馅	uu ui xm	1
+馅	uu ui xm	1
+餥	uu fw ui	1
+馆	uu ui gr	1
+馆	uu ui gr	1
+糊	uu mi hu	1
+餮	uu tm ui	1
+喂	uu kz ww	1
+馉	uu ui gu	1
+馇	uu ui ia	1
+馎	uu ui fu	1
+糕	uu mi gc	1
+馏	uu ui lq	1
+馏	uu ui lq	1
+馊	uu ui sz	1
+馊	uu ui sz	1
+馌	uu ui he	1
+馍	uu ui mo	1
+馍	uu ui mo	1
+馒	uu ui mj	1
+馒	uu ui mj	1
+馐	uu ui xq	1
+馑	uu ui jb	1
+馓	uu ui sj	1
+馈	uu ui gv	1
+馈	uu ui gv	1
+馔	uu ui xy	1
+馔	uu ui xy	1
+饏	uu gj ui	1
+饕	uu hc ui	1
+飨	uu ui xl	1
+饚	uu ui gd	1
+餍	uu yj ui	1
+馋	uu ui mm bk	1
+馋	uu ui mm bk	1
+馕	uu ui nh	1
+馗	uu jq uz	1
+馘	uu uz ho	1
+馚	uu xl ff	1
+馛	uu xl ba	1
+馜	uu xl ni	1
+馝	uu xl bi	1
+馞	uu xl bw	1
+馟	uu xl fu	1
+馠	uu xl hj	1
+馡	uu xl fw	1
+馣	uu xl yj	1
+馤	uu xl he	1
+馥	uu xl fu	1
+馦	uu xl jm	1
+馧	uu xl wf	1
+馨	uu ug uu xl	1
+馨	uu qk xl	1
+馫	uu xl xl xl	1
+馯	uu ma gj	1
+馾	uu ma yb	1
+骓	uu ma vv	1
+骔	uu ma zs	1
+骒	uu ma go	1
+骑	uu ma qi	1
+骐	uu ma qi	1
+骛	uu wu ma	1
+骗	uu ma bm	1
+骙	uu ma gv	1
+骞	uu ma mm jk da	1
+骘	uu vi ma	1
+骝	uu ma lq	1
+腾	uu rz ba fu ma	1
+腾	uu yt ba fu ma	1
+腾	uu rz jr ma	1
+腾	uu yt jr ma	1
+骚	uu ma zc	1
+骟	uu ma uj	1
+骡	uu ma lw	1
+蓦	uu mo ma	1
+骜	uu ao ma	1
+骖	uu ma cj	1
+骠	uu ma pn	1
+骢	uu ma cs	1
+骕	uu ma su	1
+骣	uu ma cj	1
+惊	uu xb jk	1
+惊	uu xb jk	1
+骤	uu ma ju	1
+骧	uu ma xl	1
+骥	uu ma ji	1
+骦	uu ma ul	1
+骩	uu gu jq	1
+骪	uu gu fj	1
+骫	uu gu wj	1
+骬	uu gu yu	1
+骭	uu gu gj	1
+骮	uu gu ge	1
+骰	uu gu uu	1
+骱	uu gu jp	1
+骲	uu gu bc	1
+骳	uu gu pi	1
+骴	uu gu ci	1
+骵	uu gu bf	1
+骶	uu gu di	1
+骷	uu gu gu	1
+骸	uu gu hd	1
+骹	uu gu jn	1
+骺	uu gu hz	1
+骻	uu gu kx	1
+骼	uu gu ge	1
+骽	uu gu to	1
+骾	uu gu gg	1
+骿	uu gu bk	1
+髀	uu gu bw	1
+髁	uu gu go	1
+髂	uu gu ke	1
+髃	uu gu yu	1
+髄	uu gu yz	1
+髆	uu gu fu	1
+髇	uu gu gc	1
+髈	uu gu ph	1
+髉	uu gu hu	1
+髊	uu gu ia	1
+髍	uu gu ma	1
+髎	uu gu lq	1
+髅	uu gu lz	1
+髓	uu gu sv	1
+髌	uu gu bb	1
+髋	uu gu kr	1
+髙	uu tz gy yi yi gy js	1
+髚	uu gc kh	1
+髛	uu gc kc	1
+髜	uu gc ug	1
+髞	uu gc zc	1
+髠	uu bn ji	1
+髡	uu bn wu	1
+髢	uu bn ye	1
+髣	uu bn fh	1
+髤	uu bn mu	1
+髥	uu bn rj	1
+髦	uu bn mc	1
+髧	uu bn yb	1
+髨	uu bn yr	1
+髩	uu bn mm	1
+髪	uu bn yz	1
+髫	uu bn vc	1
+髬	uu bn pi	1
+髭	uu bn ci	1
+髯	uu bn rj	1
+髰	uu bn bn ui	1
+髱	uu bn bc	1
+髲	uu bn pi	1
+髳	uu bn mc	1
+髴	uu bn fu	1
+髵	uu bn er	1
+髶	uu bn er	1
+髷	uu bn qu	1
+髹	uu bn xq	1
+髺	uu bn ue	1
+髻	uu bn ji	1
+髼	uu bn fg	1
+髽	uu bn zo	1
+髾	uu bn xn	1
+髿	uu bn ua	1
+鬀	uu bn di	1
+鬁	uu bn li	1
+鬂	uu bn bk	1
+鬃	uu bn zs	1
+鬄	uu bn yi	1
+鬅	uu bn pg	1
+鬇	uu bn vg	1
+鬈	uu bn jr	1
+鬉	uu bn xs ba xi	1
+鬉	uu bn xs ba vi	1
+鬊	uu bn iy	1
+鬋	uu bn qm	1
+鬌	uu bn zo yt	1
+鬎	uu bn la	1
+鬏	uu bn qq	1
+鬐	uu bn qi	1
+鬑	uu bn lm	1
+鬒	uu bn vf	1
+鬔	uu bn fg	1
+鬕	uu bn mo	1
+鬖	uu bn cj	1
+鬘	uu bn mj	1
+鬙	uu bn cg	1
+鬛	uu bn ww yi jt vu vu jt vu vu fu	1
+鬟	uu bn qs	1
+鬓	uu bn bb	1
+鬣	uu bn lp	1
+鬤	uu bn xl	1
+阋	uu mf er	1
+鬫	uu dz gj	1
+鬰	uu fj mi ih uj	1
+鬳	uu hu ge	1
+鬳	uu hu ge	1
+鬴	uu ge fu	1
+鬵	uu ji ji ge	1
+鬷	uu ge xs ba xi	1
+鬷	uu ge xs ba vi	1
+鬸	uu ge lq	1
+鬶	uu gv ge	1
+鬺	uu ge pp yi yh	1
+鬻	uu vz ge	1
+鬽	uu gv uj	1
+鬾	uu gv vi	1
+鬿	uu gv jb	1
+魀	uu gv jp	1
+魁	uu gv dz	1
+魂	uu yy gv	1
+魃	uu gv ba	1
+魄	uu bd gv	1
+魅	uu gv ww	1
+魆	uu gv yt	1
+魈	uu gv xn	1
+魊	uu gv ho	1
+魋	uu gv vv	1
+魌	uu gv qi	1
+魍	uu gv wh	1
+魉	uu gv ll	1
+魏	uu ww gv	1
+魐	uu gv jm	1
+魑	uu gv li	1
+魒	uu gv pn	1
+魔	uu ma gv	1
+魖	uu gv xu	1
+魇	uu yj gv	1
+魙	uu gv jm	1
+鱾	uu yu ji	1
+鲀	uu yu ty	1
+鲁	uu yu ri	1
+鲂	uu yu fh	1
+鱿	uu yu yz	1
+鲄	uu yu ke	1
+鲅	uu yu ba	1
+鲆	uu yu pk	1
+鲌	uu yu bd	1
+鲉	uu yu yz	1
+鲏	uu yu pi	1
+鲇	uu yu vj	1
+鲐	uu yu td	1
+鲍	uu yu bc	1
+鲋	uu yu fu	1
+鲊	uu yu va	1
+鲒	uu yu ji	1
+鲘	uu yu hz	1
+鲞	uu ba fu yu	1
+鲞	uu jr yu	1
+鲕	uu yu er	1
+鲖	uu yu ts	1
+鲔	uu yu yz	1
+鲛	uu yu jn	1
+鲑	uu yu gv	1
+鲜	uu yu yh	1
+鲓	uu yu kc	1
+鲪	uu yu jy	1
+鲝	uu yh yu	1
+鲧	uu yu xi	1
+鲠	uu yu gg	1
+鲩	uu yu wj	1
+鲤	uu yu li	1
+鲨	uu ua yu	1
+鲬	uu yu ys	1
+鲻	uu yu zd	1
+鲯	uu yu qi	1
+鲭	uu yu qk	1
+鲷	uu yu vz	1
+鲴	uu yu gu	1
+鲱	uu yu fw	1
+鲵	uu yu er	1
+鲲	uu yu ky	1
+鲳	uu yu ih	1
+鲸	uu yu jk	1
+鲮	uu yu lk	1
+鲰	uu yu qu	1
+鲶	uu yu nm	1
+鲺	uu yu ui	1
+鲹	uu yu cj	1
+鳀	uu yu ui	1
+鲫	uu yu ji	1
+鳊	uu yu bm	1
+鳈	uu yu qr	1
+鲗	uu yu ze	1
+鳂	uu yu ww	1
+鲽	uu yu ye	1
+鳇	uu yu hl	1
+鳅	uu yu qq	1
+鲾	uu yu fu	1
+鳄	uu yu ee	1
+鳆	uu yu fu	1
+鳃	uu yu si	1
+鳁	uu yu wf	1
+鳒	uu yu jm	1
+鳑	uu yu ph	1
+鳋	uu yu zc	1
+鲥	uu yu ui	1
+鳏	uu yu da	1
+鳎	uu yu ri yu	1
+鳐	uu yu vc fz	1
+鳐	uu yu vc fz	1
+鳍	uu yu qi	1
+鳁	uu yu wf	1
+鲢	uu yu lm	1
+鳌	uu ao yu	1
+鳓	uu yu lw	1
+鳘	uu mb yu	1
+鲦	uu yu tn	1
+鲣	uu yu jm	1
+鳗	uu yu mj	1
+鳛	uu yu xi	1
+鳔	uu yu pn	1
+鳉	uu yu ql xi cy	1
+鳙	uu yu ys	1
+鳕	uu yu xt	1
+鳖	uu yu bi	1
+鳟	uu yu zy	1
+鳝	uu yu uj	1
+鳜	uu yu jt	1
+鳞	uu yu lb	1
+鲟	uu yu xy	1
+鲼	uu yu bf	1
+鲎	uu xn mi yu	1
+鲎	uu vu vu vu mi yu	1
+鲙	uu yu hv	1
+鳣	uu yu dj	1
+鳡	uu yu gj	1
+鳢	uu yu li	1
+鲿	uu yu ih	1
+鲚	uu yu qi	1
+鳠	uu yu ho	1
+鳄	uu yu ee	1
+鲈	uu yu lu	1
+鲡	uu yu li	1
+鲜	uu yu yh	1
+鳪	uu bo nn	1
+鳭	uu dc nn	1
+鴏	uu nn dd	1
+鴠	uu dj nn	1
+鸸	uu er nn	1
+鸹	uu ue nn	1
+鸻	uu xk nn	1
+鸿	uu uv gs nn	1
+鸿	uu uv gs nn	1
+鸽	uu he nn	1
+鸺	uu xq nn	1
+鸼	uu vz nn	1
+鸾	uu yi nn	1
+鹀	uu wu wu	1
+鹃	uu yr nn	1
+鹆	uu gu nn	1
+鹁	uu bw nn	1
+鹈	uu di nn	1
+鹅	uu wo nn	1
+鹅	uu wo nn	1
+鹄	uu gc nn	1
+鹉	uu wu nn	1
+鹌	uu yj nn	1
+鹏	uu pg nn	1
+鹐	uu xm nn	1
+鹎	uu bw nn	1
+雕	uu vz vv	1
+鹊	uu xi nn	1
+鹓	uu wj nn	1
+鹍	uu ky nn	1
+鹑	uu xl nn	1
+鹒	uu gg nn	1
+鹋	uu mn nn	1
+鹙	uu qq nn	1
+鹕	uu hu nn	1
+鹗	uu ee nn	1
+鹖	uu he nn	1
+鹛	uu mw nn	1
+鹕	uu hu nn	1
+鹜	uu wu nn	1
+鹟	uu wg nn	1
+鹤	uu hu nn	1
+雏	uu iu vv	1
+鹠	uu lq nn	1
+鹡	uu ji nn	1
+鹘	uu gu nn	1
+鹣	uu jm nn	1
+鹚	uu zi nn	1
+鹢	uu yi nn	1
+鹞	uu vc fz nn	1
+鹞	uu vc fz nn	1
+鹝	uu ge nn	1
+鷎	uu gc nn	1
+鷐	uu if nn	1
+鹧	uu uu nn	1
+鹥	uu yi nn	1
+鸷	uu vi nn	1
+鹨	uu lq nn	1
+鹪	uu jn nn	1
+鹔	uu su nn	1
+鹩	uu ln nn	1
+鹫	uu jq nn	1
+鹇	uu xm nn	1
+鹇	uu xm nn	1
+鹬	uu yu nn	1
+鹬	uu mc js nn	1
+鹰	uu gl rf vv nn	1
+鹰	uu gl rf vv nn	1
+鹰	uu gl sv nn	1
+鹭	uu lu nn	1
+鹯	uu dj nn	1
+鹱	uu nn ho	1
+鹲	uu mg nn	1
+鹴	uu ul nn	1
+鹦	uu yk nn	1
+鹳	uu gr nn	1
+鹂	uu li nn	1
+鸾	uu yi nn	1
+硷	uu ui qm	1
+鹾	uu lu ia	1
+硷	uu ui qm	1
+鹿	uu gl ya yi gy gy bi	1
+麀	uu lu bi	1
+麁	uu dc lu	1
+麂	uu lu ji	1
+麃	uu lu ho	1
+麃	uu lu bn	1
+麄	uu ff lu	1
+麅	uu lu bc	1
+麆	uu lu qp	1
+麇	uu lu he	1
+麈	uu lu vu	1
+麉	uu gj gj lu	1
+麊	uu mi lu	1
+麋	uu lu mi	1
+麌	uu lu wu	1
+麍	uu lu tz si ir	1
+麍	uu lu hl	1
+麍	uu lu lq	1
+麎	uu lu if	1
+麏	uu lu jy	1
+麐	uu lu lb	1
+麑	uu lu er	1
+麒	uu lu qi	1
+麓	uu lb lu	1
+麔	uu lu jq	1
+麕	uu lu qy	1
+麖	uu lu jk	1
+麘	uu lu xl	1
+麙	uu lu xm	1
+麚	uu lu jx	1
+麛	uu lu mi	1
+麜	uu lu li	1
+麝	uu lu ue	1
+麞	uu lu vh	1
+麟	uu lu lb	1
+麠	uu lu jl	1
+麢	uu lu lk	1
+麣	uu lu yj	1
+麤	uu lu lu lu	1
+麧	uu md qi	1
+麨	uu md uc	1
+麸	uu md fu	1
+麫	uu md mm	1
+麲	uu md jm	1
+麹	uu md ju	1
+麺	uu md mm	1
+麻	uu gl lb	1
+麾	uu ma mc	1
+黀	uu ma qu	1
+黁	uu ma xl	1
+黄	uu cc yi tm ba	1
+黅	uu hl jb	1
+黆	uu hl yb	1
+黇	uu hl vj	1
+黈	uu hl vu	1
+黊	uu hl gv	1
+黋	uu hl gl	1
+黉	uu xn mi hl	1
+黍	uu he rf uv	1
+黎	uu uu bc pp	1
+黎	uu he bc pp rf uv	1
+黏	uu uu vj	1
+黐	uu uu li	1
+黑	uu kz ba tu ho	1
+黑	uu kz ba tu bn	1
+黑	uu li ba ho	1
+黑	uu li ba bn	1
+黑	uu kz ba tu ho	1
+黑	uu kz ba tu bn	1
+黓	uu hw ge	1
+黔	uu hw jb	1
+黕	uu hw yb	1
+黖	uu hw ji	1
+黗	uu hw ty	1
+默	uu hw qr	1
+黙	uu li qr ho	1
+黙	uu li qr bn	1
+黚	uu hw gj	1
+黛	uu dd hw	1
+黜	uu hw iu	1
+黝	uu hw yz	1
+黟	uu hw do	1
+黠	uu hw ji	1
+黢	uu hw qy	1
+黣	uu hw mw	1
+黤	uu hw yj	1
+黥	uu hw jk	1
+黦	uu hw wj	1
+黧	uu he bc pp hw	1
+黫	uu hw yb	1
+黬	uu hw xm	1
+黭	uu hw yj	1
+黮	uu hw uf	1
+黯	uu hw yb	1
+黰	uu hw vf	1
+黱	uu rz ba fu hw	1
+黱	uu yt ba fu hw	1
+黱	uu rz jr hw	1
+黱	uu yt jr hw	1
+黪	uu hw cj	1
+黳	uu yi hw	1
+霉	uu yu mu	1
+黵	uu hw vj	1
+黡	uu yj hw	1
+黩	uu hw md	1
+黹	uu ye ba jb ba	1
+黺	uu vi ff	1
+黻	uu vi ba	1
+黼	uu vi fu	1
+鼋	uu yr mb	1
+鼀	uu lu mm	1
+鼌	uu dj mb	1
+鼃	uu gv mm	1
+鼄	uu vu mm	1
+鼅	uu vi mm	1
+鼆	uu mk mm	1
+鼇	uu ao mm	1
+鼈	uu bi mm	1
+鼍	uu kz kz tm yi mb	1
+鼍	uu iu dm	1
+鼊	uu pi mm	1
+鼎	uu mu pj pm	1
+鼏	uu mi dk	1
+鼐	uu nd dk	1
+鼑	uu bo dk	1
+鼒	uu cd dk	1
+鼓	uu ui dz vi	1
+鼔	uu ui dz pu	1
+鼕	uu gu ds	1
+鼖	uu ui cc gu	1
+鼗	uu vc gu	1
+鼙	uu gu bw	1
+鼛	uu gu iu kz	1
+鼜	uu gu zc	1
+鼝	uu yr gu	1
+鼞	uu gu th	1
+鼟	uu gu dg	1
+鼠	uu jq jt vu vu jt vu vu fu	1
+鼠	uu jq jt vu vu jt vu vu fu	1
+鼢	uu uu ff	1
+鼣	uu uu qr	1
+鼤	uu uu wf	1
+鼥	uu uu ba	1
+鼦	uu uu vc	1
+鼧	uu uu ta	1
+鼨	uu uu ds	1
+鼩	uu uu ju	1
+鼪	uu uu ug	1
+鼫	uu uu ui	1
+鼬	uu uu yz	1
+鼭	uu uu si	1
+鼮	uu uu tk	1
+鼯	uu uu wu	1
+鼱	uu uu qk	1
+鼳	uu uu ju	1
+鼹	uu uu yj	1
+鼵	uu uu tu	1
+鼶	uu uu si	1
+鼷	uu uu xi	1
+鼸	uu uu jm	1
+鼺	uu uu lw	1
+鼻	uu zi tm gs	1
+鼼	uu bi jq	1
+鼽	uu bi jq	1
+鼾	uu bi gj	1
+鼿	uu bi wu	1
+齀	uu bi wa	1
+齁	uu bi ju	1
+齂	uu bi li	1
+齃	uu bi he	1
+齄	uu bi ia	1
+齅	uu bi iz	1
+齆	uu bi ys	1
+齇	uu bi co	1
+齉	uu bi nh	1
+齌	uu qi ho	1
+齑	uu wf pp gy jq	1
+龁	uu ii qi	1
+龂	uu ii jb	1
+龅	uu ii bc	1
+龇	uu ii ci	1
+龃	uu ii qp	1
+龆	uu ii vc	1
+龄	uu ii lk	1
+龄	uu ii lk	1
+龈	uu ii gf	1
+啮	uu kz ii	1
+龊	uu ii zu	1
+龉	uu ii wu	1
+龋	uu ii yu	1
+龌	uu ii wu	1
+龚	uu ls gs	1
+龛	uu he ls	1
+鳖	uu yu bi	1
+龠	uu rf yi kz kz kz ce	1
+龡	uu yt qm	1
+龢	uu yt he	1
+龣	uu yt lu	1
+龤	uu yt jp	1
+鲃	uu yu ba	1
+鳚	uu yu ww	1
+鳤	uu yu gr	1
+鹮	uu qs nn	1
+嚒	uu kz me	1
+嚡	uu kz xp	1
